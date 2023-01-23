@@ -1,0 +1,449 @@
+Order,Titre_Texte,SOUND,MORPHEMES,M-GLOSS,CATEGORY
+1.0,azavar,Mohmmad,[Mohmmad],[Mohmmad],N
+2.0,azavar,trit,[t-ri-t],[2S-want:ao-2S],V
+3.0,azavar,azaʁar,[a-zaʁar],[MFSS-plain],N
+4.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+5.0,azavar,riχ,[ri-χ],[want:pf-1S],V
+6.0,azavar,t,[t],[Obj:3FS],
+7.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+8.0,azavar,aʁar,[aʁar],[just],
+9.0,azavar,rwaħat,[rwaħ-at],[go on:Imper-1P],V
+10.0,azavar,azwaj,[a-zwaj],[MFSS-shaking down],N
+11.0,azavar,n,[n],[of],
+12.0,azavar,zzitun,[zzitun],[olive tree],N
+13.0,azavar,a,[a-d],[DemDet-Deic:this],
+14.0,azavar,ja,[ja],[here is],
+15.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+16.0,azavar,(art,[(art],[(ard],
+17.0,azavar,tirirn,[t-i-rir-n],[3P-sing:Impf],V
+18.0,azavar,ʁ,[ʁ],[in],
+19.0,azavar,uʁaras),[u-ʁaras)],[SMCS-path)],N
+20.0,azavar,ajla,[ajla],[ajla],
+21.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+22.0,azavar,la,[la],[la],
+23.0,azavar,lajda,[lajda],[lajda],
+24.0,azavar,lali,[lali],[lali],
+25.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+26.0,azavar,a,[a],[Voc],
+27.0,azavar,bismi,[bismi],[in the name],N
+28.0,azavar,llah,[llah],[God],N
+29.0,azavar,u,[u],[and],
+30.0,azavar,!rraħman,[!rraħman],[the merciful],N
+31.0,azavar,alaj,[alaj],[alaj],
+32.0,azavar,da,[da],[da],
+33.0,azavar,lali,[lali],[lali],
+34.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+35.0,azavar,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],
+36.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+37.0,azavar,ʕalajkumssalam,[ʕalajkumssalam],[peace on you],
+38.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+39.0,azavar,i,[i],[for],
+40.0,azavar,!rbbi,[!rbbi],[God],N
+41.0,azavar,a,[a],[Voc],
+42.0,azavar,sidi,[sidi],[lord],N
+43.0,azavar,mat,[mad],[what],
+44.0,azavar,tgit,[t-gi-t],[2MS-be:pf-2MS],V
+45.0,azavar,izd,[izd],[Interro],
+46.0,azavar,a!ʕrab,[a-!ʕrab],[MFSS-arab],N
+47.0,azavar,nʁdd,[nʁdd],[or],
+48.0,azavar,aʃlħi,[a-ʃlħi],[MFSS-tachlhyit speeker],N
+49.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+50.0,azavar,la,[la],[no],
+51.0,azavar,la,[la],[no],
+52.0,azavar,awddi,[awddi],[Interjection],
+53.0,azavar,nkki,[nkki],[1S:me],N
+54.0,azavar,aʃlħi,[a-ʃlħi],[MFSS-tachlhyit speeker],N
+55.0,azavar,ad,[ad],[AD:Comp],
+56.0,azavar,giʁ,[gi-ʁ],[be:pf-1S],V
+57.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+58.0,azavar,manid,[mani-d],[from where],
+59.0,azavar,tkkit,[t-kki-t],[2S-come:pf-2S],V
+60.0,azavar,a,[a],[Voc],
+61.0,azavar,ma,[ma],[what's],
+62.0,azavar,jsm,[i-sm],[SMCS-name],N
+63.0,azavar,nk,[n-k],[PossDet:2MS],
+64.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+65.0,azavar,kkiʁd,[kki-ʁ-d],[come:pf-1S-deic],V
+66.0,azavar,lʒiht,[l-ʒiht],[the region],N
+67.0,azavar,n,[n],[of],
+68.0,azavar,u!mzmizi,[u-!mzmizi],[SMCS-Amzmiz],N
+69.0,azavar,d,[d],[and],
+70.0,azavar,lʒiht,[l-ʒiht],[the region],N
+71.0,azavar,n,[n],[of],
+72.0,azavar,igdmiwn,[i-gdmi-wn],[PMFS-guests],N
+73.0,azavar,izd,[izd],[Interro],
+74.0,azavar,ajt,[ajt],[the people],N
+75.0,azavar,udrar,[u-drar],[SMCS-the mountain],N
+76.0,azavar,at,[ad],[AD:Comp],
+77.0,azavar,tgam,[t-ga-m],[2MP-be:pf-2MP],V
+78.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+79.0,azavar,ijh,[ijh],[yes],
+80.0,azavar,i,[i],[for],
+81.0,azavar,!rbbi,[!rbbi],[God],N
+82.0,azavar,mnʃkk,[mnʃkk],[how much],
+83.0,azavar,ag,[ad],[AD:Comp],
+84.0,azavar,gis,[gi-s],[loc:3MS],
+85.0,azavar,iga,[i-ga],[3MS-be:pf],V
+86.0,azavar,uzwaj,[u-zwaj],[SMCS-shaking down],N
+87.0,azavar,n,[n],[of],
+88.0,azavar,zzitun,[l-zitun],[olive tree],N
+89.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+90.0,azavar,azwaj,[a-zwaj],[MFSS-shaking down],N
+91.0,azavar,iʁʷla,[i-ʁʷla],[3MS-cost],V
+92.0,azavar,walajnni,[walajnni],[but],
+93.0,azavar,hann,[hann],[presentative],
+94.0,azavar,rat,[rad],[RAD:Fut],
+95.0,azavar,taqqlajm,[t-aqqlaj-m],[2PM-climb:ao-2MP],V
+96.0,azavar,s,[s],at,
+97.0,azavar,uflla,[u-flla],[SMCS-in top],
+98.0,azavar,ard,[ard],[ard],
+99.0,azavar,tʁarm,[t-ʁar-m],[2MO-dehydrate:ao-2PM],V
+100.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+101.0,azavar,walajnni,[walajnni],[but],
+102.0,azavar,awddi,[awddi],[Interjection],
+103.0,azavar,a,[a],[Voc],
+104.0,azavar,muħmmad,[muħmmad],[Mohmmad],N
+105.0,azavar,fk,[fk],[give:Imper:2S],V
+106.0,azavar,i,[i],[to],
+107.0,azavar,jji,[iji],[dat:1S],
+108.0,azavar,ka,[ka],[some],
+109.0,azavar,ttaman,[ttaman],[price],N
+110.0,azavar,trit,[t-ri-t],[2MS-want:ao-2MS],V
+111.0,azavar,ʁass,[ʁ-ass],[Deic-day],N
+112.0,azavar,a,[a-d],[DemDet-Deic:this] ,
+113.0,azavar,aqq,[aqq],[because],
+114.0,azavar,ngawr,[n-gawr],[1P-stay:pf],V
+115.0,azavar,bla,[bla],[without],
+116.0,azavar,!soldi,[!soldi],[nothing],N
+117.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+118.0,azavar,lmuqqf,[l-muqqf],[the main square],N
+119.0,azavar,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],
+120.0,azavar,rat,[rad],[RAD:Fut],
+121.0,azavar,tzwajm,[t-zwaj-m],[2MP-shake down:Impf-2MP],V
+122.0,azavar,a,[a],[Voc],
+123.0,azavar,j,[j],[epen],
+124.0,azavar,ajd,[ajt],[the people],N
+125.0,azavar,darnʁ,[dar-nʁ],[relative of-1P],
+126.0,azavar,mnʃk,[mnʃk],[how much],
+127.0,azavar,ad,[ad],[AD:Comp],
+128.0,azavar,awn,[a-wn],[dat:2MP],
+129.0,azavar,fkan,[fka-n],[give:pf-3PM],V
+130.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+131.0,azavar,fkan,[fka-n],[give:pf-3PM],V
+132.0,azavar,aʁ,[a-ʁ],[dat:1P],
+133.0,azavar,awa,[awa],[so],
+134.0,azavar,sidi,[sidi],[lord],N
+135.0,azavar,ʁanʃkk,[ʁanʃkk],[so much],
+136.0,azavar,lli,[lli],[RelPro],
+137.0,azavar,j,[j],[epen],
+138.0,azavar,aʁ,[a-ʁ],[dat:1P],
+139.0,azavar,fan,[fa-n],[give:pf-1P],V
+140.0,azavar,ur,[ur],[neg],
+141.0,azavar,aʁ,[a-ʁ],[dat:1P],
+142.0,azavar,iʕʒib,[i-ʕʒib],[3MS-please:pf],V
+143.0,azavar,jak,[jak],[is not it?],
+144.0,azavar,ur,[ur],[neg],
+145.0,azavar,dark,[dar-k],[dat-2S],
+146.0,azavar,tlla,[t-lla],[3FS-be:pf],V
+147.0,azavar,zzit,[zzit],[olive oil],N
+148.0,azavar,jattujn,[i-attuj-n],[which-forget-n:partic],N
+149.0,azavar,bzzaf,[bzzaf],[a lot],
+150.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+151.0,azavar,ur,[ur],[neg],
+152.0,azavar,tlla,[t-lla],[3FS-be:pf],V
+153.0,azavar,abla,[abla],[not at all],
+154.0,azavar,zzit,[zzit],[olive oil],N
+155.0,azavar,at,[ad],[AD:Comp],
+156.0,azavar,tbit,[t-bi-t],[2S-stand:ao-2S],V
+157.0,azavar,t,[t],[Obj:3FS],
+158.0,azavar,ʁ,[ʁ],[deic],
+159.0,azavar,wakal,[w-akal],[SMCS-soil],N
+160.0,azavar,ar,[ar],[AR],
+161.0,azavar,tkkat,[t-kka-t],[2S-beat:Impf-2S],V
+162.0,azavar,t,[t],[Obj:3FS],
+163.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+164.0,azavar,umma,[umma],[but],
+165.0,azavar,!ttʕam,[!-tʕam],[food],N
+166.0,azavar,ma,[ma],[who],
+167.0,azavar,jasn,[i-a-sn],[epen-dat-3-PM],
+168.0,azavar,tskarm,[t-skar-m],[2P-do:ao],V
+169.0,azavar,!takkʷzin,[!takkʷzin],[afternoon],N
+170.0,azavar,d,[d],[and],
+171.0,azavar,imkli,[imkli],[lunch],N
+172.0,azavar,d,[d],[and],
+173.0,azavar,imnsi,[imnsi],[dinner],N
+174.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+175.0,azavar,d,[d],[and],
+176.0,azavar,wataj,[w-ataj],[SMCS-tea],N
+177.0,azavar,tgmnn,[t-g-m-nn],[2P-do:ao-deic],V
+178.0,azavar,ataj,[a-taj],[MFSS-tea],N
+179.0,azavar,ʁ,[ʁ],[deic],
+180.0,azavar,ddu,[ddu],[under],
+181.0,azavar,zzitun,[zzitun],[olive tree],N
+182.0,azavar,ard,[ard],[ard],
+183.0,azavar,ukan,[ukan],[just],
+184.0,azavar,tʃbʕam,[t-ʃbʕa-m],[2P-sate:Impf],V
+185.0,azavar,tilim,[t-ili-m],[3P-be:pf],V
+186.0,azavar,d,[d],[and],
+187.0,azavar,l!χwatirnnun,[l-!χwatir-n-nun],[the-ease-of-poss:2P],N
+188.0,azavar,tirim,[t-iri-m],[2P-want:ao],V
+189.0,azavar,at,[ad],[AD:Comp],
+190.0,azavar,tnkrm,[t-nkr-m],[2P-stand:ao],V
+191.0,azavar,awa,[awa],[so],
+192.0,azavar,ħtta,[ħtta],[even if],
+193.0,azavar,kʷnni,[kʷnni],[2PM:you],N
+194.0,azavar,a,[a],[Voc],
+195.0,azavar,jbudrarn,[i-budrar-n],[PSCS-mountaineers],N
+196.0,azavar,ad,[ad],[AD:Comp],
+197.0,azavar,tħawlm,[t-ħawl-m],[2P-do slowly:ao],V
+198.0,azavar,ʁ,[ʁ],[with],
+199.0,azavar,!ʃʃrud,[!ʃʃrud],[terms],N
+200.0,azavar,awa,[awa],[so],
+201.0,azavar,χali,[χali],[uncle],N
+202.0,azavar,muħmmad,[muħmmad],[Mohmmad],N
+203.0,azavar,at,[ad],[AD:Comp],
+204.0,azavar,tʁlit,[t-ʁli-t],[2S-go up:ao],V
+205.0,azavar,d,[d],[and],
+206.0,azavar,zzit,[zzit],[olive oil],N
+207.0,azavar,ukan,[ukan],[just],
+208.0,azavar,tqqlbt,[t-qqlb-t],[3S-overthrow:pf],V
+209.0,azavar,ukan,[ukan],[just],
+210.0,azavar,t!drd,[t-!dr-t],[2S-fall:ao-2S],V
+211.0,azavar,d,[d],[deic],
+212.0,azavar,f,[f],[on],
+213.0,azavar,uχmum,[u-χmum],[SMCS-head],N
+214.0,azavar,hati,[hati],[presentative],
+215.0,azavar,ʒʒuʕ,[ʒʒuʕ],[hunger],N
+216.0,azavar,a,[ad],[AD:Comp],
+217.0,azavar,j,[j],[epen],
+218.0,azavar,aʁd,[aʁd],[dat1P],
+219.0,azavar,tluħn,[i-tt-luħ-n],[3S-throw:-n:patici],V
+220.0,azavar,d,[d],[with],
+221.0,azavar,zzit,[zzit],[olive tree],N
+222.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+223.0,azavar,ad,[ad],[AD:Comp],
+224.0,azavar,awn,[a-wn],[dat:2MP],
+225.0,azavar,ifk,[i-fk],[3MS-give:Impf],V
+226.0,azavar,!rbbi,[!rbbi],[God],N
+227.0,azavar,ʒʒuʕ,[ʒʒuʕ],[hunger],N
+228.0,azavar,ʁʷli,[ʁʷli],[2S: go up:Imper],V
+229.0,azavar,ʁʷli,[ʁʷli],[go up:Imper-2S],V
+230.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+231.0,azavar,(,(,(,
+232.0,azavar,azwaj,[a-zwaj],[MFSS-shaking down],N
+233.0,azavar,),),),
+234.0,azavar,wa,[wa],[he you !],
+235.0,azavar,!ʃuwwr,[!ʃuwwr],[do slowly:Imper-2S],V
+236.0,azavar,awa,[awa],[so],
+237.0,azavar,i,[i],[for],
+238.0,azavar,tzzitin,[t-zzit-in],[PFCS-olive tree],N
+239.0,azavar,!ʃuwwr,[!ʃuwwr],[do slowly:Imper-2S],V
+240.0,azavar,awa,[awa],[so],
+241.0,azavar,i,[i],[for],
+242.0,azavar,tzzitin,[t-zzit-in],[PFCS-olive tree],N
+243.0,azavar,!ʃuwwr,[!ʃuwwr],[do slowly:Imper-2S],V
+244.0,azavar,a,[a],[Voc],
+245.0,azavar,lmufallis,[l-mufallis],[the loser],N
+246.0,azavar,hati,[hati],[presentative],
+247.0,azavar,ra,[ra],[RA],
+248.0,azavar,stt,[stt],[Obj:3FS],
+249.0,azavar,t!rzt,[t-!rz-t],[2S-break:ao],V
+250.0,azavar,inna,[i-nna],[3MS-say:pf],V
+251.0,azavar,ħnna,[ħnna],[darling],N
+252.0,azavar,i!rza,[i-!rz-a],[3MS-break:pf],V
+253.0,azavar,tt,[t-t],[Obj:deic],
+254.0,azavar,kullu,[kullu],[all],
+255.0,azavar,uʁijul,[u-ʁijul],[SMCS-day],N
+256.0,azavar,!ʃwwr,[!ʃwwr],[do slowly:Imper-2S],V
+257.0,azavar,a,[a],[Voc],
+258.0,azavar,l!mntiħ,[l-!mntiħ],[the dunce],N
+259.0,azavar,i,[i],[for],
+260.0,azavar,tzzitin,[t-zzit-in],[PFCS-olive tree],N
+261.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+262.0,azavar,lalaj,[lalaj],[lalaj],
+263.0,azavar,dalala,[dalala],[dalala],
+264.0,azavar,lalaj,[lalaj],[lalaj],
+265.0,azavar,dalali,[dalali],[dalali],
+266.0,azavar,kʷtiʁd,[kʷt-iʁ-d],[kʷt-iʁ-d],V
+267.0,azavar,a,[a],[Voc],
+268.0,azavar,muħmmad,[muħmmad],[Mohmmad],N
+269.0,azavar,tamazirt,[ta-mazir-t],[MFSS-country],N
+270.0,azavar,!sbaħ,[!sbaħ],[morning],N
+271.0,azavar,!baraka,[!baraka],[terminate:Imper],V
+272.0,azavar,ʁ,[ʁ],[of],
+273.0,azavar,uzwaj,[u-zwaj],[SMCS-shaking down],N
+274.0,azavar,aʁar,[aʁar],[just],
+275.0,azavar,lliʁ,[lli-ʁ],[be:pf-1S],V
+276.0,azavar,ginʁ,[gi-nʁ],[in-1P],
+277.0,azavar,ur,[ur],[neg],
+278.0,azavar,immut,[i-mmut],[3MS-die:pf],V
+279.0,azavar,jan,[jan],[one:M],
+280.0,azavar,!llah,[!llah],[God],N
+281.0,azavar,iʒʕl,[i-ʒʕl],[3MS-do:ao],V
+282.0,azavar,l!baraka,[l-!baraka],[the blessing],N
+283.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+284.0,azavar,ar,[ar],[AR],
+285.0,azavar,tirir,[i-tt-irir],[3MS-sing:Impf],V
+286.0,azavar,a,[a],[Voc],
+287.0,azavar,muħmmad,[muħmmad],[Mohmmad],N
+288.0,azavar,u,[u],[son of],
+289.0,azavar,!ʕumar,[!ʕumar],[Omar],N
+290.0,azavar,mad,[mad],[what],
+291.0,azavar,awa,[awa],[so],
+292.0,azavar,gigi,[gig-i],[in-1S],
+293.0,azavar,tnnit,[t-nni-t],[2MS-say:pf],V
+294.0,azavar,tiddinw,[tiddi-nw],[sweat-poss1S],N
+295.0,azavar,zund,[zund],[a-s],
+296.0,azavar,aʁanim,[a-ʁanim],[MFSS-reed],N
+297.0,azavar,wakk,[wakk],[wakk],
+298.0,azavar,wakk,[wakk],[wakk],
+299.0,azavar,l!badl,[l-!badl],[the lie],N
+300.0,azavar,ar,[ar],[AR],
+301.0,azavar,i!ttar,[i-!ttar],[3MS-fly away:pf],V
+302.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+303.0,azavar,(,(,(,
+304.0,azavar,a!dwwar,[a-!dwwar],[MFSS-hamlet],N
+305.0,azavar,),),),
+306.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+307.0,azavar,ʕla,[ʕla],[ʕla],
+308.0,azavar,sslamtkum,[sslamt-kum],[sslamt-kum],
+309.0,azavar,a,[a],[Voc],
+310.0,azavar,muħmmad,[muħmmad],[Mohmmad],N
+311.0,azavar,mam,[mam],[mam],
+312.0,azavar,nk,[n-k],[PossDet:2MS],
+313.0,azavar,a,[ad],[AD:Comp],
+314.0,azavar,jga,[i-ga],[3MS-be:pf],V
+315.0,azavar,uzaʁar,[u-zaʁar],[SMCS-plain],N
+316.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+317.0,azavar,ifka,[i-fk-a],[3MS-give:pf],V
+318.0,azavar,!rbbi,[!rbbi],[God],N
+319.0,azavar,lχir,[l-χir],[lot of good],N
+320.0,azavar,a,[a],[Voc],
+321.0,azavar,χalti,[χalti],[aunt],N
+322.0,azavar,iʒʒa,[iʒʒa],[Ijja],N
+323.0,azavar,nzwa,[n-zwa],[1P-shake down:pf],V
+324.0,azavar,tazzitin,[ta-zzit-in],[PFFS-olive tree],N
+325.0,azavar,nʃʃa,[n-ʃʃ-a],[1P-eat:pf],V
+326.0,azavar,tizzbubin,[ti-zzbub-in],[PFFS-fruit],N
+327.0,azavar,lħmdu,[l-ħmdu],[praise],N
+328.0,azavar,lillah,[li-llah],[to-God],N
+329.0,azavar,niwid,[n-iwi-d],[1P-bring:pf-deic],V
+330.0,azavar,lflus,[l-flus],[money],N
+331.0,azavar,nkkad,[n-kka-d],[1P-come from:pf-deic],V
+332.0,azavar,mrrakʷʃ,[mrrakʷʃ],[Marrakech],N
+333.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+334.0,azavar,madd,[madd],[what],
+335.0,azavar,awa,[awa],[so],
+336.0,azavar,jiwi,[i-iwi],[3MS-bring:pf],V
+337.0,azavar,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+338.0,azavar,da,[da],[Dem:this],
+339.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+340.0,azavar,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+341.0,azavar,!krat,[!krat],[three:F],
+342.0,azavar,t,[t],[n:of],
+343.0,azavar,tmkilin,[t-mkil-in],[FSCS-bowl],N
+344.0,azavar,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+345.0,azavar,ja,[jan],[one:M],
+346.0,azavar,llbrrad,[n-l-brrad],[the-n:one the tea-pot],N
+347.0,azavar,i!rza,[i-!rz-a],[3MS-see:pf],V
+348.0,azavar,blħq,[blħq],[really],
+349.0,azavar,ira,[i-ra],[3MS-want:pf],V
+350.0,azavar,a,[ad],[AD:Comp],
+351.0,azavar,jlħm,[i-lħm],[3MS-be welded:ao],V
+352.0,azavar,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+353.0,azavar,i,[i],[to],
+354.0,azavar,gʷmas,[gʷma-s],[brother-his],N
+355.0,azavar,ħtta,[ħtta],[alike],
+356.0,azavar,ntta,[ntta],[him],
+357.0,azavar,ja,[jan],[one:M],
+358.0,azavar,ll!kbbot,[n-l-!kbbot],[a coat],N
+359.0,azavar,ikkad,[i-kk-a-d],[3MS-come from:pf-deic],V
+360.0,azavar,ammas,[ammas],[inside],N
+361.0,azavar,n,[n],[of],
+362.0,azavar,!fransa,[!fransa],[France],N
+363.0,azavar,ila,[i-la],[3MS-have:pf],V
+364.0,azavar,!kkoz,[!kkoz],[four],N
+365.0,azavar,lʒjub,[l-ʒjub],[the-P:pockets],N
+366.0,azavar,jan,[jan],[one:M],
+367.0,azavar,ʁ,[ʁ],[on],
+368.0,azavar,usga,[u-sga],[SMCS-cheek],N
+369.0,azavar,ja,[ja-d],[DemDet-Deic:this],
+370.0,azavar,jan,[jan],[one:M],
+371.0,azavar,ʁ,[ʁ],[on],
+372.0,azavar,usga,[u-sga],[SMCS-cheek],N
+373.0,azavar,ja,[ja-d],[DemDet-Deic:this],
+374.0,azavar,d,[d],[and],
+375.0,azavar,sin,[sin],[two],
+376.0,azavar,ʁ,[ʁ],[on],
+377.0,azavar,usga,[u-sga],[SMCS-cheek],N
+378.0,azavar,ja,[ja-d],[DemDet-Deic:this],
+379.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+380.0,azavar,umma,[umma],[whereas],
+381.0,azavar,blla,[blla],[Bella],N
+382.0,azavar,u,[u],[son of],
+383.0,azavar,ʕli,[ʕli],[Ali],N
+384.0,azavar,madd,[madd],[madd],
+385.0,azavar,jiwi,[i-iwi],[3MS-bring:pf],V
+386.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+387.0,azavar,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+388.0,azavar,lksut,[l-ksu-t],[the cloth],N
+389.0,azavar,i,[i],[to],
+390.0,azavar,tmʁart,[t-mʁar-t],[FSCS-woman],N
+391.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+392.0,azavar,jiwi,[i-iwi],[3MS-bring:pf],V
+393.0,azavar,jas,[i-a-s],[epen-dat-3S],
+394.0,azavar,lksut,[l-ksut],[cloth],N
+395.0,azavar,n,[n],[of],
+396.0,azavar,!baʒador,[!baʒador],[jabador],N
+397.0,azavar,llant,[lla-nt],[be:pf-3FP],V
+398.0,azavar,as,[a-s],[a-s],
+399.0,azavar,gis,[gi-s],[loc:3MS],
+400.0,azavar,!krat,[!krat],[three:F],
+401.0,azavar,t,[t],[of],
+402.0,azavar,lkswat,[l-kswat],[clothes],N
+403.0,azavar,!tbark,[!tbark],[3MS:Blesse],V
+404.0,azavar,!llah,[!llah],[God],N
+405.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+406.0,azavar,mnʃkk,[mnʃkk],[how much],
+407.0,azavar,as,[a-s],[dat:3S],
+408.0,azavar,as,[a-s],[dat:3S],
+409.0,azavar,tid,[t-id],[Obj:3S-deic],
+410.0,azavar,jiwi,[i-iwi],[3MS-bring:pf],V
+411.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+412.0,azavar,!llah,[!llah],[God],N
+413.0,azavar,waʕlam,[w-aʕlam],[SMCS-scientist],N
+414.0,azavar,χttann,[χtta-nn],[dem2F-deic],
+415.0,azavar,lli,[lli],[RelPro],
+416.0,azavar,ifulkin,[i-fulki-n],[3MS-be well-n:partic],V
+417.0,azavar,s,[s],[with],
+418.0,azavar,tlata,[tlata],[three],
+419.0,azavar,d,[d],[and],
+420.0,azavar,lgruʃ,[l-gruʃ],[the-sou:P],N
+421.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+422.0,azavar,umma,[umma],[whereas],
+423.0,azavar,a!mʒʒud,[a-!mʒʒud],[scabby],N
+424.0,azavar,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+425.0,azavar,ssrwal,[ssrwal],[slacks],N
+426.0,azavar,i,[i],[for],
+427.0,azavar,tmʁart,[t-mʁar-t],[FSCS-woman],N
+428.0,azavar,ula,[ula],[or],
+429.0,azavar,ntta,[ntta],[him],
+430.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+431.0,azavar,ijjih,[ijjih],[Ok],
+432.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+433.0,azavar,awa,[awa],[so],
+434.0,azavar,t!qʷdamd,[t-!qʷda-m-d],[2PM-purvey:pf-deic],V
+435.0,azavar,i,[i],[to],
+436.0,azavar,tmʁarin,[t-mʁar-in],[PFCS-woman],N
+437.0,azavar,!tbark,[!tbark],[3MS:Blesse],V
+438.0,azavar,!llah,[!llah],[God],N
+439.0,azavar,New_Sentence,New_Sentence,New_Sentence,
+440.0,azavar,awa,[awa],[so],
+441.0,azavar,a,[a],[Voc],
+442.0,azavar,gʷma,[gʷma],[brother],N
+443.0,azavar,hati,[hati],[presentative],
+444.0,azavar,ur,[ur],[neg],
+445.0,azavar,nfta,[n-fta],[1P-go away],V
+446.0,azavar,abla,[abla],[without],
+447.0,azavar,a,[ad],[AD:Comp],
+448.0,azavar,nmrrt,[n-mrrt],[1P-drudge:ao],V

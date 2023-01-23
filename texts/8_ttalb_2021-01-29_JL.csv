@@ -1,0 +1,887 @@
+Order,Titre_Texte,SOUND,MORPHEMES,M-GLOSS,CATEGORY
+1.0,talb,idda,[i-dda],[3MS-go:pf],V
+2.0,talb,ja,[jan],[one:M],
+3.0,talb,!ttalb,[!ttalb],[the master],N
+4.0,talb,i!ssħdr,[i-!ss-ħdr],[3MS-caus-teach:pf],V
+5.0,talb,ħ,[ħ],[at],
+6.0,talb,jat,[jat],[one:F],
+7.0,talb,tmazirt,[t-mazir-t],[SMCS-country],N
+8.0,talb,ur,[ur],[neg],
+9.0,talb,igi,[i-gi],[3MS-be:pf],V
+10.0,talb,ti,[ti],[poss:F],
+11.0,talb,ns,[n-s],[PossDet:3S],
+12.0,talb,awal,[awal],[speech],N
+13.0,talb,ns,[n-s],[PossDet:3S],
+14.0,talb,ntta,[ntta],[him],N
+15.0,talb,inχalaf,[i-nχalaf],[3MS-cross:ao],V
+16.0,talb,d,[d],[and],
+17.0,talb,win,[win],[poss:n],
+18.0,talb,tqbilt,[t-qbil-t],[FSCS:tribe],N
+19.0,talb,imikk,[imikk],[a little],
+20.0,talb,imdikir,[i-mdikir],[3MS-consult:pf],V
+21.0,talb,d,[d],[and],
+22.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+23.0,talb,jini,[i-ini],[3MS-say:ao],V
+24.0,talb,jas,[i-a-s],[to-dat-3S],
+25.0,talb,mas,[mas],[what with],
+26.0,talb,a,[ad],[AD:comp],
+27.0,talb,tssħdarm,[t-ssħdar-m],[2MP-caus-teach:ao],V
+28.0,talb,inin,[ini-n],[say:pf-3MP],V
+29.0,talb,as,[a-s],[dat-3S],
+30.0,talb,a,[a],[Voc],
+31.0,talb,sidi,[sidi],[my lord],N
+32.0,talb,nkkni,[nkkni],[1S:me],N
+33.0,talb,ar,[ar],[AR],
+34.0,talb,nssħdar,[n-ss-ħdar],[1P-caus-teach:Impf],V
+35.0,talb,s,[s],[with],
+36.0,talb,tuwmmat,[tuwmmat],[heifer],N
+37.0,talb,i,[i],[by],
+38.0,talb,takat,[takat],[household],N
+39.0,talb,ini,[i-ini],[3MS:tell:Imper],V
+40.0,talb,jasn,[i-a-sn],[to-dat-3MP],
+41.0,talb,waχχa,[waχχa],[even if],
+42.0,,New_Sentence,New_Sentence,New_Sentence,
+43.0,talb,dʕun,[dʕu-n],[invoke:Imper:3S],V
+44.0,talb,issħdr,[i-ss-ħdr],[3MS-caus-brought out:pf],V
+45.0,talb,!ttalblli,[!ttalb-lli],[the master-RelPro] ,N
+46.0,talb,ifrħ,[i-frħ],[3MS-be happy:pf],V
+47.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+48.0,talb,tga,[t-ga],[3FS-be:pf],V
+49.0,talb,mija,[mija],[hundred],N
+50.0,talb,n,[n],[of],
+51.0,talb,takat,[takat],[household],N
+52.0,talb,jini,[i-ini],[3MS-say:ao],V
+53.0,talb,d,[d],[and],
+54.0,talb,iχf,[iχf],[head],N
+55.0,talb,ns,[n-s],[of-3S],
+56.0,talb,mija,[mija],[hundred],N
+57.0,talb,n,[n],[of],
+58.0,talb,tfunast,[t-funas-t],[FSCS-cow],N
+59.0,talb,a,[ad],[AD:comp],
+60.0,talb,ja,[ja],[dem],
+61.0,,New_Sentence,New_Sentence,New_Sentence,
+62.0,talb,ur,[ur],[neg],
+63.0,talb,ʒʒudd,[ʒʒudd],[generosity],N
+64.0,talb,nkki,[nkki],[1S:me],N
+65.0,talb,a,[ad],[AD:comp],
+66.0,talb,j!drn,[i-!dr-n],[3MS-go to:ao-deic],V
+67.0,talb,ħ,[ħ],[ħ],
+68.0,talb,zzrda,[zzrda],[Feast],N
+69.0,talb,ja,[ja],[dem],
+70.0,,New_Sentence,New_Sentence,New_Sentence,
+71.0,talb,rad,[rad],[RAD:Fut],
+72.0,talb,ʃʃrkħ,[ʃʃrk-ħ],[associate:pf-1S],V
+73.0,talb,kra,[kra],[some],
+74.0,talb,zznzħ,[ss-nz-ħ],[sell:pf-1S],V
+75.0,talb,kra,[kra],[some],
+76.0,talb,sʁʁ,[sʁ-ʁ],[buy:ao-1S],V
+77.0,talb,akal,[akal],[soil],N
+78.0,talb,!amzħ,[!amz-ħ],[take:pf-1S],V
+79.0,talb,amʃʃrk,[a-mʃʃrk],[MFSS-associate],N
+80.0,talb,s,[s],[with],
+81.0,talb,!rroboʕ,[!rroboʕ],[quarter],N
+82.0,talb,nħdd,[nħdd],[or],
+83.0,talb,lχumus,[l-χumus],[the fifth],N
+84.0,talb,fħ,[f-ħ],[give:pf-1S],V
+85.0,talb,as,[a-s],[dat-3S],
+86.0,talb,amud,[amud],[seed],N
+87.0,talb,d,[d],[and],
+88.0,talb,imassn,[imassn],[plowshares],N
+89.0,talb,t,[t],[and],
+90.0,talb,tijuga,[tijuga],[the plough],N
+91.0,talb,iħ,[iħ],[if],
+92.0,talb,imgr,[i-mgr],[3MS-mow:pf],V
+93.0,talb,isrut,[i-srut],[3MS-thresh:pf],V
+94.0,talb,!amzħ,[!amz-ħ],[take:pf-1S],V
+95.0,talb,lħqq,[l-ħqq],[the truth],N
+96.0,talb,inw,[in-w],[PossDet:1S],
+97.0,talb,ʕmmrħ,[ʕmmr-ħ],[fill:pf-1S],V
+98.0,talb,srs,[sr-s],[with-3S],
+99.0,talb,tiħuna,[ti-ħun-a],[FFSP-shope],N
+100.0,talb,ħ,[ħ],[at],
+101.0,talb,ugadir,[u-gadir],[Agadir],N
+102.0,talb,iliħ,[ili-ħ],[be:ao-1S],V
+103.0,talb,ħ,[ħ],[in],
+104.0,talb,lhna,[l-hna],[the peace],N
+105.0,talb,New_Sentence,New_Sentence,New_Sentence,
+106.0,talb,ar,[ar],[AR],
+107.0,talb,isaqqra,[i-saqqra],[3MS-teach:pf],V
+108.0,talb,imħdarn,[i-mħdar-n],[PMFS-student],N
+109.0,talb,ar,[ar],[AR],
+110.0,talb,jaw,[ja-w],[one:M],
+111.0,talb,wass,[w-ass],[SMCS-day],N
+112.0,talb,iruħd,[i-ruħ-d],[3MS-come:pf-deic],V
+113.0,talb,dars,[dar-s],[dat-3S],
+114.0,talb,ja,[ja],[one:M],
+115.0,talb,wʕisawi,[w-ʕisawi],[SMCS-the wizard],N
+116.0,talb,isslʕb,[i-ss-lʕb],[3MS-caus-play:pf],V
+117.0,talb,ilgwmadn,[i-lgwmad-n],[PMFS-snake],N
+118.0,talb,ħ,[ħ],[at],
+119.0,talb,lmudʕ,[l-mudʕ],[the place],N
+120.0,talb,ar,[ar],[until],
+121.0,talb,tadggwat,[tadggwat],[the night],N
+122.0,talb,jaggug,[i-aggug],[it-be dark],V
+123.0,talb,as,[a-s],[dat-3S],
+124.0,talb,lħal,[l-ħal],[the time],N
+125.0,talb,i!roħ,[i-!roħ],[3MS-go away:pf],V
+126.0,talb,timzgida,[ti-mzgid-a],[FFSS-mosque],N
+127.0,talb,dar,[dar],[to],
+128.0,talb,!ttalb,[!ttalb],[the master],N
+129.0,,New_Sentence,New_Sentence,New_Sentence,
+130.0,talb,isrs,[i-srs],[3MS-move down:pf],V
+131.0,talb,ʃʃwari,[ʃʃwari],[carry cot],N
+132.0,talb,d,[d],[and],
+133.0,talb,dduzan,[dduzan],[dozen],N
+134.0,talb,ns,[n-s],[of-3S],
+135.0,talb,iqqn,[i-qqn],[3MS-close:pf],V
+136.0,talb,lbhimt,[l-bhimt],[the-beast],N
+137.0,talb,iqql,[i-qql],[3MS-wait:pf],V
+138.0,talb,ajlliħ,[ajlliħ],[until],
+139.0,talb,ddan,[dda-n],[go away:pf-3MP],V
+140.0,talb,i!mħdarn,[i-!mħdar-n],[PMFS-student],N
+141.0,talb,isskʃm,[i-ss-kʃm],[3MS-caus-come in:pfj],V
+142.0,talb,t,[t],[Obj:3MS],
+143.0,talb,!ttalb,[!ttalb],[the master],N
+144.0,talb,s,[s],[in],
+145.0,talb,tħanut,[t-ħanu-t],[FSCS:the shop],N
+146.0,,New_Sentence,New_Sentence,New_Sentence,
+147.0,talb,awind,[awi-n-d],[bring:ao-3MP-deic],V
+148.0,talb,middn,[middn],[people],N
+149.0,talb,tartbit,[ta-rtbi-t],[FFSS-meal],N
+150.0,talb,i,[i],[for],
+151.0,talb,!ttalb,[!ttalb],[the master],N
+152.0,,New_Sentence,New_Sentence,New_Sentence,
+153.0,talb,!ʕmmrn,[!ʕmmr-n],[fill:pf-3MP],V
+154.0,talb,ataj,[ataj],[tea],
+155.0,talb,mmnsn,[mmns-n],[diner:pf-3MP],V
+156.0,talb,ajlliħ,[ajlliħ],[until],
+157.0,talb,kmmln,[kmml-n],[finish:pf-3MP],V
+158.0,talb,jini,[i-ini],[3MS-say:ao],V
+159.0,talb,jas,[i-a-s],[to-dat-3S],
+160.0,talb,!ttalb,[!ttalb],[the master],N
+161.0,talb,labudd,[labudd],[necessary],N
+162.0,talb,at,[ad],[AD:Comp],
+163.0,talb,tsrst,[t-srs-t],[2S-put:ao],V
+164.0,talb,lχir,[l-χir],[lot of good],N
+165.0,talb,nna,[nna],[RelPro],
+166.0,talb,ag,[ad],[AD:Comp],
+167.0,talb,gis,[gi-s],[loc:3MS],
+168.0,talb,nfrrʒ,[n-frrʒ],[1P-watch:pf],V
+169.0,,New_Sentence,New_Sentence,New_Sentence,
+170.0,talb,jini,[i-ini],[3MS-say:ao],V
+171.0,talb,jas,[i-a-s],[to-dat-3S],
+172.0,talb,uʕisawi,[u-ʕisawi],[SMCS-wizard],N
+173.0,talb,awa,[awa],[so],
+174.0,talb,arkiħ,[arkiħ],[until],
+175.0,talb,issfaw,[i-ss-faw],[3MS-caus-become day:pf],V
+176.0,talb,lħal,[l-ħal],[the time],N
+177.0,,New_Sentence,New_Sentence,New_Sentence,
+178.0,talb,jini,[i-ini],[3MS-say:ao],V
+179.0,talb,jas,[i-a-s],[to-dat-3S],
+180.0,talb,!ttalb,[!ttalb],[the master],N
+181.0,talb,uhu,[uhu],[no],
+182.0,talb,ʁil,[ʁil],[now],
+183.0,,New_Sentence,New_Sentence,New_Sentence,
+184.0,talb,issrʁ,[i-ss-rʁ],[3MS-caus-light:pf],V
+185.0,talb,!ttalb,[!ttalb],[the master],N
+186.0,talb,taʃʃmʕt,[ta-ʃʃmʕ-t],[FFSS-candle],N
+187.0,talb,i!ʕmmr,[i-!ʕmmr],[3MS-fill:pf],V
+188.0,talb,ataj,[ataj],[tea],
+189.0,talb,issfaʁd,[i-ss-faʁ-d],[3MS-caus-brought out:pf-deic],V
+190.0,talb,ʁwalli,[ʁ-wa-lli],[DemPronMS:this one-RelPro],
+191.0,talb,!ssnduq,[!ssnduq],[a wooden box],N
+192.0,talb,ij!lgwmadn,[i-j-!lgwmad-n],[for-PMCS-snake],N
+193.0,talb,jut,[i-ut],[3MS-hit:pf],V
+194.0,talb,tallunt,[ta-llun-t],[MFSS-drum],N
+195.0,talb,i!ħijr,[i-!ħijr],[3MS-trance:pf],V
+196.0,talb,ntta,[ntta],[him],N
+197.0,talb,ula,[ula],[or],
+198.0,talb,ij!lgwmadn,[i-j-!lgwmad-n],[for-PMCS-snake],N
+199.0,talb,ns,[n-s],[of-3S],
+200.0,,New_Sentence,New_Sentence,New_Sentence,
+201.0,talb,iffʁd,[i-ffʁ-d],[3MS-go out:pf-deic],V
+202.0,talb,jan,[ja-n],[one:M],
+203.0,talb,wisssin,[wiss sin],[MS:second],
+204.0,talb,wisskrad,[wisskrad],[MS:third],
+205.0,talb,iluħ,[i-luħ],[3MS-throw:pf-deic],V
+206.0,talb,taʃmʕtt,[ta-ʃmʕ-tt],[FFSS-candle],N
+207.0,talb,ns,[n-s],[of-3S],
+208.0,talb,ji!ksid,[i-!ksid],[3MS-fear:pf],V
+209.0,talb,!ttalb,[!ttalb],[the master],N
+210.0,talb,igwmmnn,[i-gwmm-nn],[3MS-hook on-deic],V
+211.0,talb,tigʒda,[ti-gʒd-a],[FFSS-frame],N
+212.0,talb,inkr,[i-nkr],[3MS-get up:pf],V
+213.0,talb,uʕisawi,[u-ʕisawi],[SMCS-wizard],N
+214.0,talb,i!ħdunn,[i-!ħdu-nn],[3MS-watch:pf-deic],V
+215.0,talb,ħ,[ħ],[to],
+216.0,talb,!darat,[!darat],[backward],N
+217.0,talb,tggurt,[t-ggur-t],[FSCS-door],N
+218.0,,New_Sentence,New_Sentence,New_Sentence,
+219.0,talb,jini,[i-ini],[3MS-say:ao],V
+220.0,talb,jas,[i-a-s],[to-dat-3S],
+221.0,talb,!ttalb,[!ttalb],[the master],N
+222.0,talb,hann,[hann],[presentative],
+223.0,talb,luqqid,[l-uqqid],[the matches],N
+224.0,talb,ħ,[ħ],[ħ],
+225.0,talb,unwal,[u-nwal],[SMCS-hut],N
+226.0,talb,ar,[ar],[AR],
+227.0,talb,ittazzal,[i-ttazzal],[3MS-run:Impf],V
+228.0,talb,imil,[imil],[but],
+229.0,talb,i!drnn,[i-!dr-nn],[3MS-go down:pf-deic],V
+230.0,talb,ħ,[ħ],[into],
+231.0,talb,t!nuttfi,[t-!nuttfi],[FFSS-tank],N
+232.0,talb,ar,[ar],[AR],
+233.0,talb,jaqqra,[i-aqqra],[3MS-call:Impf],V
+234.0,talb,i,[i],[to],
+235.0,talb,!ttalb,[!ttalb],[the master],N
+236.0,talb,wa,[wa],[wa],
+237.0,talb,ʕla,[ʕla],[for],
+238.0,talb,!rbbi,[!rbbi],[God],N
+239.0,talb,ʕtq,[ʕtq],[2S:save:ao],V
+240.0,talb,!rroħ,[!rroħ],[soul],N
+241.0,,New_Sentence,New_Sentence,New_Sentence,
+242.0,talb,i!drd,[i-!dr-d],[3MS-go down:pf-deic],V
+243.0,talb,!ttalb,[!ttalb],[the master],N
+244.0,talb,ħ,[ħ],[ħ],
+245.0,talb,tgʒda,[t-gʒd-a],[FSCS-frame],N
+246.0,talb,imil,[imil],[but],
+247.0,talb,ur,[ur],[neg],
+248.0,talb,imzalal,[i-mzalal],[3MS-see:pf],V
+249.0,talb,immiqqir,[i-mmiqqir],[3MS-meet:pf],V
+250.0,talb,t,[t],[t],
+251.0,talb,tsraft,[t-sraf-t],[FSCS-hole],N
+252.0,,New_Sentence,New_Sentence,New_Sentence,
+253.0,talb,ʁaman,[ʁama-n],[stay:ao-3MP],V
+254.0,talb,ʁinn,[ʁinn],[over there],
+255.0,talb,ajlliħ,[ajlliħ],[until],
+256.0,talb,iffu,[i-ffu],[3MS-become:pf],V
+257.0,talb,lħal,[l-ħal],[the time],N
+258.0,talb,aʃkdnd,[aʃkd-nd],[come in-3MS_deic],V
+259.0,talb,i!mħdarn,[i-!mħdar-n],[PMFS-student],N
+260.0,talb,jiliħ,[i-i-liħ],[3MS-be missing:ao],V
+261.0,talb,asn,[a-sn],[dat-3MP],
+262.0,talb,!ttalb,[!ttalb],[the master],N
+263.0,talb,inint,[ini-nt],[say:pf-3MP],V
+264.0,talb,i,[i],[to],
+265.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+266.0,,New_Sentence,New_Sentence,New_Sentence,
+267.0,talb,aʃkdnd,[aʃkd-nd],[come in-3MS_deic],V
+268.0,talb,ldintnid,[ldi-n-tn-id],[pull out:pf-3MP-Obj:3MP-deic],V
+269.0,talb,ilmma,[ilmma],[once again],
+270.0,talb,awa,[awa],[so],
+271.0,talb,zrin,[zri-n],[pass:pf-3MP],V
+272.0,talb,ussan,[ussan],[PMFS:day],N
+273.0,talb,!ttalb,[!ttalb],[the master],N
+274.0,talb,istabʕann,[i-s-tabʕa-nn],[3MS-caus-go after:ao-deic],V
+275.0,talb,ukan,[ukan],[just],
+276.0,talb,d,[d],[and],
+277.0,talb,i!mħdarn,[i-!mħdar-n],[PMFS-student],N
+278.0,talb,d,[d],[and],
+279.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+280.0,talb,ar,[ar],[AR],
+281.0,talb,jaw,[ja-w],[one:M],
+282.0,talb,wass,[w-ass],[SMCS-day],N
+283.0,talb,nkrn,[nkr-n],[stand up:pf-3MP],V
+284.0,talb,ajt,[ajt],[the people],N
+285.0,talb,l!modʕ,[l-!modʕ],[the place],N
+286.0,talb,ran,[ra-n],[want:pf-3MP],V
+287.0,talb,ad,[ad],[AD:Comp],
+288.0,talb,skrn,[skr-n],[do:pf-3MP],V
+289.0,talb,l!mʕrof,[l-!mʕrof],[the slaughter],N
+290.0,talb,ħ,[ħ],[at],
+291.0,talb,tmzgida,[t-mzgid-a],[FSCS:mosque],N
+292.0,talb,!ʁrsn,[!ʁrs-n],[immolate:ao-3MS],V
+293.0,talb,i,[i],[to],
+294.0,talb,wfunas,[w-funas],[SNCS-cow],N
+295.0,talb,skrn,[skr-n],[do:pf-3MP],V
+296.0,talb,sksu,[sksu],[couscous],N
+297.0,talb,ula,[ula],[or],
+298.0,talb,!ttaʒin,[!ttaʒin],[tajine],N
+299.0,talb,ifa,[i-fa],[3MS-give:pf],V
+300.0,talb,!rbbi,[!rbbi],[God],N
+301.0,talb,lχir,[l-χir],[lot of good],N
+302.0,talb,ʃʃn,[ʃʃ-n],[eat:ao-3MP],V
+303.0,talb,mddn,[mddn],[people],N
+304.0,talb,sun,[su-n],[3MP:drink:pf],V
+305.0,talb,gndduʕa,[g-n dduʕa],[3MP:say prayers:pf],
+306.0,talb,smunn,[smun-n],[gather:pf-3MP],V
+307.0,talb,ifʃkan,[ifʃkan],[SPFS:cup],N
+308.0,talb,ad,[ad],[AD:Comp],
+309.0,talb,ruħn,[ruħ-n],[3MP:go back:ao],V
+310.0,talb,iqqama,[i-qqama],[3MS-stay:pf],V
+311.0,talb,aʁar,[aʁar],[just],
+312.0,talb,!ttalb,[!ttalb],[the master],N
+313.0,talb,waħdat,[waħdat],[alone],
+314.0,,New_Sentence,New_Sentence,New_Sentence,
+315.0,talb,iddu,[i-ddu],[3MS-go:ao],V
+316.0,talb,i!ʕmmr,[i-!ʕmmr],[3MS-make tea:pf],V
+317.0,talb,ataj,[ataj],[tea],
+318.0,talb,isalat,[i-sala-t],[3MS-finish:pf],V
+319.0,talb,ħ,[ħ],[from],
+320.0,talb,tħanut,[t-ħanu-t],[FSCS:the shop],N
+321.0,talb,!idan,[!idan],[SPFS:dogs],N
+322.0,talb,n,[n],[of],
+323.0,talb,ajt,[ajt],[the people],N
+324.0,talb,l!modʕ,[l-!modʕ],[the place],N
+325.0,talb,salan,[sala-n],[finish:pf-3MP],V
+326.0,talb,iχsan,[i-χs-an],[PMFS-bone],N
+327.0,talb,had,[had],[had],
+328.0,talb,fllasn,[flla-s-n],[on-3MP],
+329.0,talb,ifis,[ifis],[hyena],N
+330.0,talb,!dwatnn,[!dwat-nn],[!dwat-nn],V
+331.0,talb,ukan,[ukan],[just],
+332.0,talb,tħinn,[tħi-nn],[tħinn],V
+333.0,talb,taħanut,[ta-ħanu-t],[FFSS:the shop],N
+334.0,talb,f,[f],[f],
+335.0,talb,!ttalb,[!ttalb],[the master],N
+336.0,talb,iʃʃukkutninn,[i-ʃʃukku-tn-inn],[3MS-follow:ao-Obj:3MP-deic],V
+337.0,talb,ifis,[ifis],[hyena],N
+338.0,talb,iggammi,[i-ggammi],[3MS-refuse:pf],V
+339.0,talb,!ttalb,[!ttalb],[the master],N
+340.0,talb,manik,[mani-k],[how-2S],
+341.0,talb,a,[ad],[AD:comp],
+342.0,talb,jskar,[i-skar],[3MS-do:impf],V
+343.0,talb,issrʁ,[i-ss-rʁa],[3MS-caus-light:ao],V
+344.0,talb,lqndil,[l-qndil],[the torch],N
+345.0,talb,ajlliħ,[ajlliħ],[until],
+346.0,talb,as,[a-s],[dat:3S],
+347.0,talb,laħ,[laħ],[laħ],
+348.0,talb,lħilt,[l-ħilt],[cunning],N
+349.0,talb,tili,[t-ili],[3FS-be:pf],V
+350.0,talb,dars,[dar-s],[dat-3S],
+351.0,talb,ja,[jat],[one:F],
+352.0,talb,ttχssajt,[t-χssaj-t],[FSCS-pumpkin],
+353.0,talb,wwargan,[w-w-argan],[of FFSS-argan tree],N
+354.0,,New_Sentence,New_Sentence,New_Sentence,
+355.0,talb,ar,[ar],[AR],
+356.0,talb,as,[a-s],[dat:3S],
+357.0,talb,ttinn,[tt-inn],[Obj:3S-deic],
+358.0,talb,ittgga,[i-tt-gga],[3MS-tt-do:Impf],V
+359.0,talb,ajlliħ,[ajlliħ],[until],
+360.0,talb,iffu,[i-ffu],[3MS-become:pf],V
+361.0,talb,lħal,[l-ħal],[the time],N
+362.0,,New_Sentence,New_Sentence,New_Sentence,
+363.0,talb,taʃkinn,[t-aʃk-inn],[3FS-come in:pf-deic],V
+364.0,talb,jat,[ja-t],[one:F],
+365.0,talb,tmʁart,[t-mʁar-t],[FSCS-woman],N
+366.0,talb,tawi,[t-awi],[3FS-bring:pf],V
+367.0,talb,jasnn,[i-a-s-nn],[to-dat-3P],
+368.0,talb,l!fdor,[l-!fdor],[the breakfast],N
+369.0,talb,ar,[ar],[and],
+370.0,talb,as,[a-s],[dat:3MS],
+371.0,talb,taqqra,[t-aqqra],[3MS-learn:Impf],V
+372.0,talb,sidi,[sidi],[my lord],N
+373.0,talb,!brahim,[!brahim],[Brahim],N
+374.0,talb,sidi,[sidi],[my lord],N
+375.0,talb,!brahim,[!brahim],[Brahim],N
+376.0,talb,jini,[i-ini],[3MS-say:ao],V
+377.0,talb,jas,[i-a-s],[to-dat-3S],
+378.0,talb,wa,[wa],[wa],
+379.0,talb,ʁrid,[ʁr-id],[call:ao-deic],
+380.0,talb,i,[i],[to],
+381.0,talb,lmqqddm,[l-mqqddm],[the chief],N
+382.0,talb,d,[d],[and],
+383.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+384.0,talb,ula,[ula],[or],
+385.0,talb,kullu,[kullu],[all],
+386.0,talb,ajt,[ajt],[the people],N
+387.0,talb,lmodʕ,[l-modʕ],[location],N
+388.0,talb,hann,[hann],[presentative],
+389.0,talb,tlla,[t-lla],[3FS-be:pf],V
+390.0,talb,ʁid,[ʁid],[deic],
+391.0,talb,jat,[jat],[one:F],
+392.0,talb,lhiʃt,[l-hiʃt],[the beast],N
+393.0,,New_Sentence,New_Sentence,New_Sentence,
+394.0,talb,tʁrd,[t-ʁr-d],[2FS-call:pf-deic],V
+395.0,talb,χtalli,[χ-ta-lli],[DemPronFS:this one-RelPro],
+396.0,talb,i,[i],[dat],
+397.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+398.0,talb,nqqbnd,[nqqb-n-d],[search:pf-3MP-deic],V
+399.0,talb,srs,[sr-s],[for-3S],
+400.0,talb,ħ,[ħ],[from],
+401.0,talb,uflla,[uflla],[the top],
+402.0,talb,nʁin,[nʁi-n],[3MP-kill:pf],V
+403.0,talb,ifis,[ifis],[hyena],N
+404.0,talb,ʒʒnʒmn,[ʒʒnʒm-n],[save:pf-3MP],V
+405.0,talb,!ttalb,[!ttalb],[the master],N
+406.0,talb,istabʕann,[i-s-tabʕa-nn],[3MS-caus-go after:ao-deic],V
+407.0,talb,daħ,[daħ],[daħ],
+408.0,talb,!ttalblli,[!ttalb-lli],[the master-RelPro] ,N
+409.0,talb,issħdr,[i-ss-ħdr],[3MS-caus-brought out:pf],V
+410.0,talb,ajlliħ,[ajlliħ],[until],
+411.0,talb,iqqama,[i-qqama],[3MS-stay:pf],V
+412.0,talb,ajjur,[ajjur],[month],N
+413.0,talb,i,[i],[to],
+414.0,talb,wsggwas,[w-sggwas],[SMCS-year],N
+415.0,talb,a,[ad],[AD:comp],
+416.0,talb,jkmml,[i-kmml],[3MS-finish:pf],V
+417.0,,New_Sentence,New_Sentence,New_Sentence,
+418.0,talb,ikkd,[i-kk-d],[3MS-come back:pf-deic],V
+419.0,talb,tamazirt,[ta-mazir-t],[MFSS-country],N
+420.0,talb,ns,[n-s],[of-3S],
+421.0,talb,jini,[i-ini],[3MS-say:ao],V
+422.0,talb,jasn,[i-a-sn],[to-dat-3-PM],
+423.0,talb,hann,[hann],[presentative],
+424.0,talb,kullu,[kullu],[all],
+425.0,talb,mad,[mad],[what],
+426.0,talb,tχassa,[t-χassa],[which concern:ao],V
+427.0,talb,tfunast,[t-funas-t],[FSCS-cow],N
+428.0,talb,n,[n],[n],
+429.0,talb,ʃʃrk,[ʃʃrk],[associate:ao2S],V
+430.0,talb,hati,[hati],[presentative],
+431.0,talb,ra,[ra],[ra],
+432.0,talb,jas,[i-a-s],[to-dat-3MS],
+433.0,talb,tt,[tt],[tObj:3S],
+434.0,talb,id,[id],[deic],
+435.0,talb,awiħ,[awi-ħ],[bring:Impf-1S],V
+436.0,,New_Sentence,New_Sentence,New_Sentence,
+437.0,talb,iskr,[i-skr],[3MS-do:pf],V
+438.0,talb,d,[d],[and],
+439.0,talb,ja,[ja],[some],
+440.0,talb,llʕadad,[ll-ʕadad],[number],N
+441.0,talb,n,[n],[n],
+442.0,talb,middn,[middn],[people],N
+443.0,talb,a,[ad],[AD:comp],
+444.0,talb,jasd,[i-a-s-d],[to-dat-3S-deic],
+445.0,talb,jawi,[i-awi],[3MS-bring:Impf],V
+446.0,talb,lbhajm,[l-bhajm],[animals],N
+447.0,talb,n,[n],[n],
+448.0,talb,tuʃʃrka,[tu-ʃʃrk-a],[FFSS-association],N
+449.0,,New_Sentence,New_Sentence,New_Sentence,
+450.0,talb,iʒʒuʒid,[i-ʒʒuʒid],[3MS-prepare:ao],V
+451.0,talb,!ʃʃrajd,[!ʃʃrajd],[conditions],N
+452.0,talb,i,[i],[to],
+453.0,talb,lbhajm,[l-bhajm],[animals],N
+454.0,talb,mas,[mas],[what with],
+455.0,talb,at,[ad],[AD:Comp],
+456.0,talb,nt,[nt],[Obj:3FP],
+457.0,talb,ikkrf,[i-kkrf],[3MS-tie:pf],V
+458.0,talb,New_Sentence,New_Sentence,New_Sentence,
+459.0,talb,asslli,[ass-lli],[the day-RelPro] ,N
+460.0,talb,ħ,[ħ],[ħ],
+461.0,talb,ikmml,[i-kmml],[3MS-finish:pf],V
+462.0,talb,usggwas,[u-sggwas],[SMCS-year],N
+463.0,talb,tini,[t-ini],[2FS-say:pf],V
+464.0,talb,jas,[i-a-s],[to-dat-3S],
+465.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+466.0,talb,dʕu,[dʕu],[invoke:Imper:2S],V
+467.0,talb,didħ,[did-ħ],[with-1P],
+468.0,talb,a,[a],[voc],
+469.0,talb,sidi,[sidi],[my lord],N
+470.0,,New_Sentence,New_Sentence,New_Sentence,
+471.0,talb,dʕun,[dʕu-n],[invoke:pf:3MP],V
+472.0,talb,inin,[ini-n],[say:pf-3MPS],V
+473.0,talb,as,[a-s],[dat-3S],
+474.0,talb,ttalst,[d t-als-t],[and 2MS-renew the contract:ao],V
+475.0,talb,a,[a],[voc],
+476.0,talb,sidi,[sidi],[my lord],N
+477.0,talb,jini,[i-ini],[3MS-say:ao],V
+478.0,talb,jasn,[i-a-sn],[to-dat-3-PM],
+479.0,talb,waχχa,[waχχa],[even if],
+480.0,talb,dʕun,[dʕu-n],[invoke:pf:3MP],V
+481.0,talb,daħ,[daħ],[daħ],
+482.0,talb,mas,[mas],[what with],
+483.0,talb,a,[ad],[AD:comp],
+484.0,talb,jttals,[i-ttals],[3MS-repete:impf],V
+485.0,talb,!ttalb,[!ttalb],[the master],N
+486.0,talb,inin,[ini-n],[say:pf-3MPS],V
+487.0,talb,as,[a-s],[dat-3S],
+488.0,talb,hann,[hann],[presentative],
+489.0,talb,!ʃʃrud,[!ʃʃrud],[terms],N
+490.0,talb,nk,[n-k],[PossDet:2MS],
+491.0,talb,ra,[ra],[ra],
+492.0,talb,jak,[i-a-k],[j-dat-2MS],
+493.0,talb,tid,[t-id],[Obj:3S-deic],
+494.0,talb,nawi,[n-awi],[1P-bring:Impf],V
+495.0,talb,a,[a],[voc],
+496.0,talb,sidi,[sidi],[my lord],N
+497.0,talb,New_Sentence,New_Sentence,New_Sentence,
+498.0,talb,!sbaħ,[!sbaħ],[morning],N
+499.0,talb,ann,[a-nn],[DemDet-Deic:that],
+500.0,talb,wannad,[w-annad],[SMCS-the next day],N
+501.0,talb,ukan,[ukan],[just],
+502.0,talb,inkrn,[i-nkr-n],[3MS-stand up-n:partic],V
+503.0,talb,iddu,[i-ddu],[3MS-go:ao],V
+504.0,talb,s,[s],[by],
+505.0,talb,trgwa,[t-rgw-a],[FSCF-kitchen garden],N
+506.0,talb,issukfd,[i-ss-ukf-d],[3MS-caus-dig up:pf-deic],V
+507.0,talb,gis,[gi-s],[loc:3MS],
+508.0,talb,tarkkimt,[ta-rkkim-t],[FFSS-turnip],N
+509.0,talb,igttid,[i-g-tt-id],[3MS-put:ao-Obj3FS-Deic],V
+510.0,talb,iggi,[iggi],[above],N
+511.0,talb,n,[n],[of],
+512.0,talb,!ddhr,[!ddhr],[back],N
+513.0,talb,ns,[n-s],[of-3S],
+514.0,talb,jawi,[i-awi],[3MS-bring:ao],V
+515.0,talb,t,[t],[Obj:3FS],
+516.0,talb,tid,[t-id],[Obj:3FS-deic],
+517.0,talb,i,[i],[to],
+518.0,talb,!ttalb,[!ttalb],[the master],N
+519.0,talb,u!llah,[u-!llah],[by God],N
+520.0,talb,abla,[abla],[only],
+521.0,talb,iχf,[iχf],[head],N
+522.0,talb,uwdinan,[u-wdinan],[SMCS-valve],N
+523.0,talb,aħ,[aħ],[RelPro],
+524.0,talb,ttid,[tt-id],[Obj3FS-deic],
+525.0,talb,kkisħ,[kkis-ħ],[pick:pf-1S],V
+526.0,talb,New_Sentence,New_Sentence,New_Sentence,
+527.0,talb,nttni,[nttni],[nttni],
+528.0,talb,tawmmat,[tawmmat],[heifer],N
+529.0,talb,ar,[ar],[AR],
+530.0,talb,tt,[tt],[dd],
+531.0,talb,ttinin,[tt-ini-n],[3P-tell:ao],V
+532.0,talb,i,[i],[dat],
+533.0,talb,trkkimtlli,[t-rkkim-t-lli],[FSCS-turnip-RelPro] ,N
+534.0,talb,tabldit,[t-abldi-t],[FFSS-unaffected],N
+535.0,talb,New_Sentence,New_Sentence,New_Sentence,
+536.0,talb,!ttalblli,[!ttalb-lli],[the master-RelPro] ,N
+537.0,talb,i!zra,[i-!zra],[3MS-see:pf],V
+538.0,talb,wkan,[wkan],[only],
+539.0,talb,lqquwt,[l-qquwt],[the time],N
+540.0,talb,d,[d],[and],
+541.0,talb,urkkim,[u-rkkim],[SMCS-turnip],N
+542.0,talb,ur,[ur],[neg],
+543.0,talb,gis,[gi-s],[loc:3MS],
+544.0,talb,iffiʁ,[i-ffiʁ],[3MS-be decent:ao],V
+545.0,talb,jat,[jat],[any way],
+546.0,talb,taʁt,[t-aʁ-t],[3MS:panic:pf],V
+547.0,talb,tgodi,[tgodi],[fear],
+548.0,talb,n,[n],[of],
+549.0,talb,ʁwilli,[ʁ-wi-lli],[DemPronMP:these ones-RelPro],
+550.0,talb,mu,[mu],[to whom],
+551.0,talb,jnna,[i-nna],[3MS-tell:pf],V
+552.0,talb,a,[ad],[AD:Comp],
+553.0,talb,jjissn,[jj-i-ss-n],[to-3MS-with them],
+554.0,talb,iʃrk,[i-ʃrk],[3MS-associate:pf],V
+555.0,talb,lbhajm,[l-bhajm],[animals],N
+556.0,talb,ar,[ar],[AR],
+557.0,talb,iswingim,[i-s-wingim],[3MS-caus-dream:ao],V
+558.0,talb,!ttalb,[!ttalb],[the master],N
+559.0,talb,lli,[lli],[RelPro],
+560.0,talb,wanna,[wanna],[the one who],
+561.0,talb,jasd,[i-a-s-d],[to-dat:3MS-deic],
+562.0,talb,ukan,[ukan],[just],
+563.0,talb,jiwin,[i-iwi-n],[to-who:bring-n:partic],V
+564.0,talb,tarkkimt,[ta-rkkim-t],[FFSS-turnip],N
+565.0,talb,jini,[i-ini],[3MS-say:ao],V
+566.0,talb,jas,[i-a-s],[to-dat-3S],
+567.0,talb,luħ,[luħ],[throw:Imper:2MS],V
+568.0,talb,ttinn,[tt-inn],[Obj:3S-deic],
+569.0,talb,ħ,[ħ],[ħ],
+570.0,talb,l!mjadi,[l-!mjadi],[ablutions room],N
+571.0,talb,ajlliħ,[ajlliħ],[until],
+572.0,talb,i!ʕmmr,[i-!ʕmmr],[3MS-fill:pf],V
+573.0,talb,l!mjadi,[l-!mjadi],[ablutions room],N
+574.0,,New_Sentence,New_Sentence,New_Sentence,
+575.0,talb,iswingm,[i-s-wingm],[3MS-caus-dream:ao],V
+576.0,talb,ukan,[ukan],[just],
+577.0,talb,!ttalb,[!ttalb],[the master],N
+578.0,talb,ajlliħ,[ajlliħ],[until],
+579.0,talb,iddu,[i-ddu],[3MS-go:ao],V
+580.0,talb,i!ʕlm,[i-!ʕlm],[3MS-teach:],V
+581.0,talb,ʁwilli,[ʁ-wi-lli],[DemPronMP:these ones-RelPro],
+582.0,talb,mqqornin,[mqqor-nin],[3MP:grow:pf-nin:partic],V
+583.0,talb,ħ,[ħ],[ħ],
+584.0,talb,lʒmaʕt,[l-ʒmaʕ-t],[the-group-F],N
+585.0,talb,!ttifn,[!ttif-n],[own:pf-3MP],V
+586.0,talb,lmal,[l-mal],[money],N
+587.0,talb,iʁrasn,[iʁr-as-n],[call:pf-dat:3SP],V
+588.0,talb,s,[s],[to],
+589.0,talb,tmzgida,[t-mzgid-a],[FSCS-mosque],N
+590.0,talb,iskkusissn,[i-skkus-iss-n],[3MS-sit-with-3MP],V
+591.0,talb,i!χssa,[i-!χssa],[3MS-miss:pf],V
+592.0,talb,jaħ,[i-aħ],[to-dat1P],
+593.0,talb,a,[ad],[AD:Comp],
+594.0,talb,nskr,[n-skr],[1P-do:ao],V
+595.0,talb,!krad,[!krad],[three],
+596.0,talb,!wadan,[w-adan],[SMCS-night],N
+597.0,talb,lmudakara,[l-mudakara],[the conversation],N
+598.0,talb,ag,[ad],[AD:Comp],
+599.0,talb,gisn,[gi-s-n],[loc:3MP],
+600.0,talb,nttʕbad,[n-tt-ʕbad],[1P-worship:ao],V
+601.0,talb,sidi,[sidi],[my lord],N
+602.0,talb,!rbbi,[!rbbi],[God],N
+603.0,talb,hann,[hann],[presentative],
+604.0,talb,ra,[ra],[ra],
+605.0,talb,nmmiggir,[n-mmiggir],[1P-meet:Impf],V
+606.0,talb,d,[d],[and],
+607.0,talb,nnabi,[nnabi],[Prophet],N
+608.0,talb,ad,[ad],[AD:Comp],
+609.0,talb,as,[a-s],[dat:3MS],
+610.0,talb,!n!dalb,[!n-!dalb],[1P-ask:ao],V
+611.0,talb,ad,[ad],[AD:Comp],
+612.0,talb,aħ,[aħ],[us],
+613.0,talb,isskʃm,[i-ss-kʃm],[3MS-caus-come in:pf],V
+614.0,talb,s,[s],[in],
+615.0,talb,lʒnt,[l-ʒnt],[paradise],N
+616.0,talb,inin,[ini-n],[say:pf-3MPS],V
+617.0,talb,as,[a-s],[dat-3S],
+618.0,talb,a,[a],[voc],
+619.0,talb,sidi,[sidi],[my lord],N
+620.0,talb,waχχa,[waχχa],[even if],
+621.0,talb,lʕibada,[l-ʕibada],[worship],N
+622.0,talb,tfulki,[t-fulki],[3FS-be pretty],V
+623.0,talb,aʁaras,[a-ʁaras],[MFSS-path],N
+624.0,talb,n,[n],[of],
+625.0,talb,!rbbi,[!rbbi],[God],N
+626.0,talb,d,[d],[and],
+627.0,talb,win,[wi-n],[for-poss],
+628.0,talb,nnabi,[nnabi],[Prophet],N
+629.0,talb,nra,[n-ra],[1P-want:pf],V
+630.0,talb,t,[t],[Obj:3S],
+631.0,talb,jini,[i-ini],[3MS-say:ao],V
+632.0,talb,jasn,[i-a-sn],[to-dat-3-PM],
+633.0,talb,walajnni,[walajnni],[but],
+634.0,talb,tssnm,[t-ssn-m],[2P-know:ao],V
+635.0,talb,izd,[izd],[is],
+636.0,talb,nnabi,[nnabi],[Prophet],N
+637.0,talb,iħml,[i-ħml],[3MS-accept],V
+638.0,talb,!ssadaqa,[!ssadaqa],[charity],N
+639.0,talb,d,[d],[and],
+640.0,talb,lmuħsinin,[l-muħsin-in],[beneficents],N
+641.0,talb,ʁila,[ʁila],[deic],
+642.0,talb,awijadd,[awi-ja-dd],[bring:ao-to-dat-deic],V
+643.0,talb,ja,[ja],[one:M],
+644.0,talb,lħml,[l-ħml],[the weight],N
+645.0,talb,tgimd,[t-gi-m-d],[2P-do:pf-M-deic],V
+646.0,talb,gis,[gi-s],[loc:3MS],
+647.0,talb,kullu,[kullu],[all],
+648.0,talb,mat,[mat],[what],
+649.0,talb,!tafm,[!taf-m],[own-2MP],V
+650.0,talb,igan,[i-ga-n],[3MS-be:pf-partic],V
+651.0,talb,lmal,[l-mal],[money],N
+652.0,talb,ula,[ula],[or],
+653.0,talb,ddahab,[ddahab],[gold],N
+654.0,talb,ula,[ula],[or],
+655.0,talb,nnqqwrt,[nnqqwrt],[silver],N
+656.0,talb,at,[ad],[AD:Comp],
+657.0,talb,tn,[tn],[Obj-deic],
+658.0,talb,nhdu,[n-hdu],[1P-gift give:ao],V
+659.0,talb,i,[i],[to],
+660.0,talb,nnabi,[nnabi],[the Prophet],N
+661.0,,New_Sentence,New_Sentence,New_Sentence,
+662.0,talb,iħ,[iħ],[if],
+663.0,talb,t,[t],[Obj:3S],
+664.0,talb,nmmaqqar,[n-mmaqqar],[1P-meet:Impf],V
+665.0,talb,hann,[hann],[presentative],
+666.0,talb,is,[is],[is],
+667.0,talb,ra,[rad],[rad:Fut],
+668.0,talb,jawn,[a-wn],[dat-3MP],
+669.0,talb,fllas,[flla-s],[on-3MS],
+670.0,talb,izajd,[i-zajd],[3MS-add:pf],V
+671.0,talb,ukan,[ukan],[just],
+672.0,talb,ku,[ku],[every],
+673.0,talb,jjan,[jja-n],[one:M],
+674.0,talb,ig,[i-g],[3MS-be:ao],V
+675.0,talb,t,[t],[Obj:3S],
+676.0,talb,tsmit,[t-smi-t],[the name],N
+677.0,talb,ns,[n-s],[of-3S],
+678.0,talb,f,[f],[on],
+679.0,talb,ajnnad,[a-jnna-d],[DemPro:that-deic],
+680.0,talb,jiwi,[i-iwi],[3MS-bring:pf],V
+681.0,,New_Sentence,New_Sentence,New_Sentence,
+682.0,talb,kudnna,[kudnna],[Everytime],
+683.0,talb,nkmml,[n-kmml],[1P-finish:pf],V
+684.0,talb,ddikr,[ddikr],[qoran reading],N
+685.0,talb,n,[n],[of],
+686.0,talb,sidi,[sidi],[my lord],N
+687.0,talb,!rbbi,[!rbbi],[God],N
+688.0,talb,tawim,[t-awi-m],[2MP-bring:ao],V
+689.0,talb,!rrzqnun,[!rrzq-n-un],[belongings-of-you],N
+690.0,,New_Sentence,New_Sentence,New_Sentence,
+691.0,talb,inin,[ini-n],[say:pf-3MPS],V
+692.0,talb,as,[a-s],[dat-3S],
+693.0,talb,waχχa,[waχχa],[even if],
+694.0,talb,a,[a],[voc],
+695.0,talb,sidi,[sidi],[my lord],N
+696.0,talb,ʁikann,[ʁika-nn],[dem-deic],
+697.0,talb,ag,[ad],[AD:Comp],
+698.0,talb,gis,[gi-s],[loc:3MS],
+699.0,talb,illan,[i-lla-n],[3MS-be-n:partic],V
+700.0,talb,ʁwinn,[ʁ-wi-nn],[DemPron:MP-deic:Those ones],
+701.0,talb,nttni,[nttni],[them,
+702.0,talb,wanna,[wanna],[the one who],
+703.0,talb,wkan,[wkan],[only],
+704.0,talb,iddan,[i-dda-n],[3MS-go-n:partic],V
+705.0,talb,s,[s],[to],
+706.0,talb,tgmmi,[t-gmmi],[FSCS-house],N
+707.0,talb,ns,[n-s],[of-3S],
+708.0,talb,ismun,[i-smun],[3MS-gather:pf],V
+709.0,talb,ma,[ma],[what],
+710.0,talb,j!ttaf,[i-!ttaf],[3MS-own:pf],V
+711.0,talb,New_Sentence,New_Sentence,New_Sentence,
+712.0,talb,jawi,[i-awi-t-id],[3MS-bring:pf],V
+713.0,talb,tid,[-t-id],[Obj-deic],
+714.0,talb,i,[i],[to],
+715.0,talb,!ttalb,[!ttalb],[the master],N
+716.0,talb,iqijtt,[i-qijd-t],[3MS-register:pf-Obj:3S],V
+717.0,talb,if,[i-f],[3MS-give:pf],V
+718.0,talb,as,[a-s],[dat-3S],
+719.0,talb,tawriqt,[ta-wriq-t],[FFSS-the paper],N
+720.0,talb,ns,[n-s],[of-3S],
+721.0,talb,dfʕan,[dfʕa-n],[push:pf-3MP],V
+722.0,talb,i,[i],[to],
+723.0,talb,lħmllli,[l-ħml-lli],[the weight-RelPro] ,N
+724.0,talb,ajlliħ,[ajlliħ],[until],
+725.0,talb,iktar,[i-ktar],[3MS-be full:pf],V
+726.0,talb,jili,[i-ili],[3MS-be:ao],V
+727.0,talb,gis,[gi-s],[loc:3MS],
+728.0,talb,ttaman,[ttaman],[price],N
+729.0,talb,n,[n],[n],
+730.0,talb,tlt,[tlt],[three],N
+731.0,talb,mija,[mija],[hundred],N
+732.0,talb,t,[t],of],
+733.0,talb,bgri,[bgri],[cattle],N
+734.0,talb,ur,[ur],[neg],
+735.0,talb,d,[d],[and],
+736.0,talb,sul,[sul],[not yet],
+737.0,talb,aʁar,[aʁar],[just],
+738.0,talb,mija,[mija],[hundred],N
+739.0,talb,New_Sentence,New_Sentence,New_Sentence,
+740.0,,ignu,[i-gnu],[3MS-sew:pf],V
+741.0,talb,!ttalb,[!ttalb],[the master],N
+742.0,talb,lħml,[l-ħml],[the weight],N
+743.0,talb,jini,[i-ini],[3MS-say:ao],V
+744.0,talb,jasn,[i-a-sn],[to-dat-3-PM],
+745.0,talb,awa,[awa],[so],
+746.0,talb,ʁilad,[ʁilad],[deic],
+747.0,talb,ra,[ra],[ra],
+748.0,talb,nbdu,[n-bdu],[1P-start:ap],V
+749.0,talb,lmudakara,[l-mudakara],[the conversation],N
+750.0,talb,New_Sentence,New_Sentence,New_Sentence,
+751.0,,inin,[ini-n],[say:pf-3MPS],V
+752.0,talb,as,[a-s],[dat-3S],
+753.0,talb,awa,[awa],[so],
+754.0,talb,a,[a],[voc],
+755.0,talb,sidi,[sidi],[my lord],N
+756.0,talb,i!χssa,[i-!χssa],[3MS-miss:pf],V
+757.0,talb,a,[ad],[AD:Comp],
+758.0,talb,jaħ,[i-aħ],[to-dat1P],
+759.0,talb,tmlt,[t-ml-t],[2S-show:ao],V
+760.0,talb,ma,[ma],[what],
+761.0,talb,nt,[n-t],[1P-t],
+762.0,talb,tini,[t-ini],[2FS-say:pf],V
+763.0,talb,New_Sentence,New_Sentence,New_Sentence,
+764.0,,inna,[i-nna],[3MS-say:pf],V
+765.0,talb,jasn,[i-a-sn],[to-dat-3-PM],
+766.0,talb,iħ,[iħ],[if],
+767.0,talb,awn,[a-wn],[dat-2MP],
+768.0,talb,ukan,[ukan],[just],
+769.0,talb,nniħ,[nni-ħ],[say:pf-1S],V
+770.0,talb,ana,[ana],[ana],
+771.0,talb,mʃit,[mʃit],[mʃit],
+772.0,talb,a,[a],[voc],
+773.0,talb,lhurrat,[l-hurrat],[the dunces],N
+774.0,talb,trarmd,[t-rar-m-d],[2MP-return:ao-deic],V
+775.0,talb,flla,[flla],[over],
+776.0,talb,mtsamħin,[mt-samħ-in],[mt-samħ-in],V
+777.0,talb,a,[a],[voc],
+778.0,talb,sidi,[sidi],[my lord],N
+779.0,talb,New_Sentence,New_Sentence,New_Sentence,
+780.0,,art,[ard],[ard],
+781.0,talb,tinin,[t-ini-n],[3MP-say:Impf],V
+782.0,talb,ʁwilli,[ʁ-wi-lli],[DemPronMP:these ones-RelPro],
+783.0,talb,ʁikann,[ʁikann],[dem-deic],
+784.0,talb,!krad,[!krad],[three],
+785.0,talb,!wadan,[!w-adan],[SMCS-night],N
+786.0,talb,d,[d],[and],
+787.0,talb,!krad,[!krad],[three],
+788.0,talb,ussan,[ussan],[PMFS:day],N
+789.0,talb,ħ,[ħ],[ħ],
+790.0,talb,ʒʒu,[ʒʒu],[never],
+791.0,talb,ur,[ur],[neg],
+792.0,talb,!ttasn,[!ttas-n],[sleep:pf-3MP],V
+793.0,talb,ass,[ass],[the day],N
+794.0,talb,n,[n],[n],
+795.0,talb,!krad,[!krad],[three],
+796.0,talb,!wadan,[!w-adan],[SMCS-night],N
+797.0,talb,jaʒʒi,[i-aʒʒi],[3MS-let-Obj:3MP],V
+798.0,talb,tn,[tn],[Obj:3MP],
+799.0,talb,ajlliħ,[ajlliħ],[until],
+800.0,talb,d,[d],[and],
+801.0,talb,iqqrrb,[i-qqrrb],[3MS-bring closer:pf],V
+802.0,talb,lħal,[l-ħal],[the time],N
+803.0,talb,a,[ad],[AD:Comp],
+804.0,talb,jffu,[i-ffu],[3MS-become:pf],V
+805.0,talb,jini,[i-ini],[3MS-say:ao],V
+806.0,talb,jasn,[i-a-sn],[dat-3MP],
+807.0,talb,awa,[awa],[so],
+808.0,talb,ʁila,[ʁila],[deic],
+809.0,talb,hat,[hat],[presentative],
+810.0,talb,ʁunʃkk,[ʁunʃkk],[how],
+811.0,talb,lli,[lli],[RelPro],
+812.0,talb,igan,[i-ga-n],[which-be-n:partic],V
+813.0,talb,lqqanun,[l-qqanun],[the law],N
+814.0,talb,llmudakara,[ll-mudakara],[the conversation],N
+815.0,talb,hati,[hati],[presentative],
+816.0,talb,nzzri,[n-zzri],[1P-pass:pf],V
+817.0,talb,t,[t],[Obj:3S],
+818.0,talb,New_Sentence,New_Sentence,New_Sentence,
+819.0,,gunat,[gun-at],[sleep:imper-2MP],V
+820.0,talb,nn,[nn],[Obj:3MP],
+821.0,talb,imikk,[imikk],[a little],
+822.0,talb,ar,[ar],[AR],
+823.0,talb,kudnna,[kudnna],[Everytime],
+824.0,talb,kwn,[kwn],[Obj:2MP],
+825.0,talb,ssnkrħ,[ss-nkr-ħ],[caus-get up:ao-1S],V
+826.0,talb,n!zzal,[n-!zzal],[1P-pray:ao],V
+827.0,talb,l!fʒr,[l-!fʒr],[the dawn],N
+828.0,talb,nmmiqqir,[n-mmiqqir],[1P-meet:pf],V
+829.0,talb,ilmma,[ilmma],[once again],
+830.0,talb,nnabi,[nnabi],[Prophet],N
+831.0,talb,New_Sentence,New_Sentence,New_Sentence,
+832.0,talb,nttni,[nttni],[nttni],
+833.0,talb,ur,[ur],[neg],
+834.0,talb,ufin,[ufi-n],[find:pf-3MP],V
+835.0,talb,ajliħ,[ajliħ],[until],
+836.0,talb,asn,[a-sn],[dat-3MP],
+837.0,talb,hlli,[hlli],[maybe],
+838.0,talb,inna,[i-nna],[3MS-say:pf],V
+839.0,talb,gunat,[gun-at],[sleep:imper-2MP],V
+840.0,talb,nn,[nn],[Obj:3MP],
+841.0,talb,imikk,[imikk],[a little],
+842.0,talb,wannann,[wanna-nn],[DeemPro:who-deic],
+843.0,talb,ukan,[ukan],[just],
+844.0,talb,isnndn,[i-snnd-n],[3MS-lean to-n:partic],V
+845.0,talb,imik,[imik],[a little],
+846.0,talb,ikkin,[i-kki-n],[comp-pass:pfin:-partic],V
+847.0,talb,ʁin,[ʁin],[deic],
+848.0,talb,s,[s],[with],
+849.0,talb,!itts,[!itts],[sleep],N
+850.0,talb,New_Sentence,New_Sentence,New_Sentence,
+851.0,talb,islħil,[islħil],[islħil],
+852.0,talb,ajlliħ,[ajlliħ],[until],
+853.0,talb,jull,[i-ull],[3MS-take:pf],V
+854.0,talb,lħmllli,[l-ħml-lli],[the weight-RelPro] ,N
+855.0,talb,ismun,[i-smun],[3MS-gather:pf],V
+856.0,talb,idukan,[idukan],[slippers],N
+857.0,talb,ns,[n-s],[of-3S],
+858.0,talb,immiqqir,[i-mmiqqir],[3MS-meet:pf],V
+859.0,talb,ddarsn,[ddar-sn],[for-them],
+860.0,talb,jawi,[i-awi],[3MS-bring:Impf],V
+861.0,talb,nnqqwrt,[nnqqwrt],[silver],N
+862.0,talb,ddhb,[ddhb],[gold],N
+863.0,talb,d,[d],[and],
+864.0,talb,lmal,[l-mal],[money],N
+865.0,talb,ar,[ar],[AR],
+866.0,talb,issaʁ,[i-ss-aʁ],[3MS-caus-buy for:Impf],V
+867.0,talb,i,[i],[to],
+868.0,talb,ʁwilli,[ʁ-wi-lli],[DemPronMP:these ones-RelPro],
+869.0,talb,mu,[mu],[RelPro],
+870.0,talb,jnna,[i-nna],[3MS-say:pf],V
+871.0,talb,a,[ad],[AD:Comp],
+872.0,talb,jjissn,[i-iss-n],[to-with],
+873.0,talb,iʃrk,[i-ʃrk],[3MS-associate:pf],V
+874.0,talb,izgarn,[i-zgar-n],[PMFS-cow],N
+875.0,talb,nsn,[n-sn],[of-them],
+876.0,talb,itthnna,[i-tthnna],[3MS-reassure:pf],V
+877.0,talb,ħ,[ħ],[for],
+878.0,talb,i!mħdarn,[i-!mħdar-n], [PMFS-student],N
+879.0,talb,ula,[ula],[or],
+880.0,talb,i!lgwmadn,[i-!lgwmad-n],[PMFS-snake],N
+881.0,talb,ula,[ula],[or],
+882.0,talb,ifis,[ifis],[hyena],N
+883.0,talb,ula,[ula],[or],
+884.0,talb,lχwlas,[l-χwlas],[payroll],N
+885.0,talb,n,[n],[by],
+886.0,talb,trkmin,[t-rkm-in],[FPCS-turnips],N

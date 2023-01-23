@@ -1,0 +1,3890 @@
+Order,Titre_Texte,SOUND,MORPHEMES,M-GLOSS,CATEGORY
+1.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+2.0,amzzud,jan,[ja-n],[one:M],
+3.0,amzzud,ttaʒr,[ttaʒr],[trader],N
+4.0,amzzud,i!ttaf,[i-!ttaf],[3MS-have:pf],V
+5.0,amzzud,smmus,[smmus],[five:M],
+6.0,amzzud,i!frχan,[i-!frχ-an],[MPFS:boy],N
+7.0,amzzud,d,[d],[and],
+8.0,amzzud,ja,[jat],[one:F],
+9.0,amzzud,tfruχt,[t-fruχ-t],[FSCS:girl],N
+10.0,amzzud,mu,[mu],[3MSm],
+11.0,amzzud,tggut,[t-ggut],[2FS-be numerous:Pf],V
+12.0,amzzud,!ddraft,[!ddraft],[kindness],N
+13.0,amzzud,imil,[imil],[but],
+14.0,amzzud,jiliħasn,[i-iliħ-as-n],[3MS-be missing:ao-dat:3MP],V
+15.0,amzzud,t,[tt],[Obj:3FS],
+16.0,amzzud,jinijasn,[i-ini-j-a-s-n],[3MS-say:ao-dat:3MP],V
+17.0,amzzud,bbwa,[bbwa],[father],N
+18.0,amzzud,a,[a],[Voc],
+19.0,amzzud,ttsn,[tts-n],[their],
+20.0,amzzud,tarwa,[tarwa],[children],N
+21.0,amzzud,nu,[n-u],[of-me],
+22.0,amzzud,i!χssaχ,[i-!χss-a-χ],[3MS-must:Pf-dat:1P],V
+23.0,amzzud,at,[ad],[AD:Comp],
+24.0,amzzud,tddum,[t-ddu-m],[2S-go:ao-MP],V
+25.0,amzzud,at,[ad],[AD:Comp],
+26.0,amzzud,tllim,[t-lli-m],[search:ao-2PS],V
+27.0,amzzud,s,[s],[with],
+28.0,amzzud,ultma,[ultma],[my sister],N
+29.0,amzzud,ddun,[ddu-n],[go:ao-3MP],V
+30.0,amzzud,tun,[tun],[of-you],
+31.0,amzzud,ssadat,[ssadat],[people],N
+32.0,,lli,[lli],[those],
+33.0,amzzud,ssudun,[ssudu-n],[ride:ao-3MP],V
+34.0,amzzud,lbhajm,[l-bhajm],[animals],N
+35.0,amzzud,nsn,[n-sn],[of-them],
+36.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+37.0,amzzud,lʕwin,[l-ʕwin],[food],N
+38.0,amzzud,nsn,[n-sn],[of-them],
+39.0,amzzud,ar,[ar],[AR],
+40.0,amzzud,ttllin,[ttlli-n],[search:ao-3PS],V
+41.0,amzzud,s,[s],[for],
+42.0,amzzud,ultma,[ultma],[my sister],N
+43.0,amzzud,ttsn,tt-sn],[of them],
+44.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+45.0,amzzud,zzigzn,[zzigz-n],[walk:ao-3MP],V
+46.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+47.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+48.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+49.0,amzzud,lkmn,[lkm-n],[3MP:arrive:pf],V
+50.0,amzzud,!ttrf,[!ttrf],[near],
+51.0,amzzud,n,[n],[of],
+52.0,amzzud,jan,[ja-n],[one:M],
+53.0,amzzud,lbħr,[l-bħr],[sea],N
+54.0,amzzud,awa,[awa],[so],
+55.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+56.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+57.0,amzzud,!mqqorn,[!mqqor-n],[grow:pf-3MS],V
+58.0,amzzud,ntta,[ntta],[3MS:he],
+59.0,amzzud,ar,[ar],[AR],
+60.0,amzzud,isawal,[i-sawal],[3MS-speek:Impf],V
+61.0,amzzud,awal,[awal],[speech],N
+62.0,amzzud,lbhajm,[l-bhajm],[animals],N
+63.0,amzzud,ig,[i-g],[3MS-be:ao],V
+64.0,amzzud,anʃawi,[anʃawi],[canabis smoker],N
+65.0,amzzud,ittbla,[i-ttbla],[3MS-be affected],V
+66.0,amzzud,s,[s],[with],
+67.0,amzzud,lkif,[l-kif],[canabis],N
+68.0,amzzud,ar,[ar],[AR],
+69.0,amzzud,jaqqlaj,[i-a-qqlaj],[3MS-fry:Impf],V
+70.0,amzzud,s,[s],[with],
+71.0,amzzud,iggi,[iggi],[the side],
+72.0,amzzud,n,[n],[of],
+73.0,amzzud,ja,[jan],[one:M],
+74.0,amzzud,!wʒarif,[!w-ʒarif],[SMCS-rock],N
+75.0,amzzud,ar,[ar],[AR],
+76.0,amzzud,ilddi,[i-lddi],[3MS-get out:mpf],V
+77.0,amzzud,ssbsi,[ssbsi],[pipe],N
+78.0,amzzud,ns,[n-s],[PossDet:3S],
+79.0,amzzud,d,[d],[and],
+80.0,amzzud,lkif,[l-kif],[canabis],N
+81.0,amzzud,ar,[ar],[AR],
+82.0,amzzud,t,[t],[Obj:3S],
+83.0,amzzud,ittqqssas,[i-tt-qqssas],[3MS-chop:impf],V
+84.0,amzzud,ar,[ar],[AR],
+85.0,amzzud,as,[a-s],[dat:3MS],
+86.0,amzzud,nn,[nn],[deic],
+87.0,amzzud,!ttar,[!ttar],[pitch into the water:Impf:3MS],V
+88.0,amzzud,zzrriʕt,[zzrriʕt],[grain],N
+89.0,amzzud,ʁ,[ʁ],[at],
+90.0,amzzud,waman,[w-aman],[CS-water],N
+91.0,amzzud,art,[ard],[ard],
+92.0,amzzud,t,[t],[Obj:3S],
+93.0,amzzud,tʃtta,[t-ʃtta],[3FS-eat:Impf],V
+94.0,amzzud,jat,[ja-t],[one:F],
+95.0,amzzud,ttslmt,[t-t-slm-t],[t-FSCS-fish-F],N
+96.0,,New_Sentence,New_Sentence,New_Sentence,
+97.0,amzzud,giwrn,[giwr-n],[stay:ao-3MP],V
+98.0,amzzud,ʁinn,[ʁi-nn],[deic],
+99.0,amzzud,lmudda,[l-mudda],[the duration],N
+100.0,amzzud,n,[n],[of],
+101.0,amzzud,!krad,[!krad],[three],
+102.0,amzzud,ussan,[ussan],[MPFS:day],N
+103.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+104.0,amzzud,sunfan,[sunf-an],[relax:pf-3MP],V
+105.0,amzzud,asslli,[ass-lli],[the day-RelPro] ,N
+106.0,amzzud,ʁ,[ʁ],[where],
+107.0,amzzud,rad,[rad],[RAD:Fut],
+108.0,amzzud,ddun,[ddu-n],[go:ao-3MP],V
+109.0,amzzud,turrinn,[t-urri-nn],[3FS-return:pf-deic],V
+110.0,amzzud,tslmt,[t-slm-t],[fish:PCS],N
+111.0,amzzud,dar,[dar],[to],
+112.0,amzzud,islman,[i-slm-an],[fish:MP],N
+113.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+114.0,amzzud,as,[a-s],[dat-3S],
+115.0,amzzud,maniʁ,[maniʁ],[where],
+116.0,amzzud,d,[d],[deic],
+117.0,amzzud,tʃʃit,[t-ʃʃi-t],[2S-eat:pf-2S],V
+118.0,amzzud,unʃk,[unʃk],[much],
+119.0,amzzud,ad,[ad],[AD:Comp],
+120.0,amzzud,lli,[lli],[RelPro],
+121.0,amzzud,tʃʃit,[t-ʃʃi-t],[2S-eat:pf-2S],V
+122.0,amzzud,ur,[ur],[neg],
+123.0,amzzud,aʁ,[a-ʁ],[dat1P],
+124.0,amzzud,i!saħa,[i-!saħa],[3MS-!saħa],V
+125.0,amzzud,i,[i],[to],
+126.0,amzzud,jan,[ja-n],[one:M],
+127.0,amzzud,ginʁ,[gi-nʁ],[in:2P],
+128.0,amzzud,tsawl,[t-sawl],[2MS-speek:pf],V
+129.0,amzzud,tslmt,[t-slm-t],[fish:PCS],N
+130.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+131.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+132.0,amzzud,iʁ,[iʁ],[if],
+133.0,amzzud,tram,[t-ra-m],[2MP-want:ao],V
+134.0,amzzud,a,[ad],[AD:Comp],
+135.0,amzzud,jawn,[a-wn],[dat:2MP],
+136.0,amzzud,mlʁ,[ml-ʁ],[show:ao-1S],V
+137.0,amzzud,ssijjid,[ssijjid],[the man],N
+138.0,amzzud,lli,[lli],[RelPro],
+139.0,amzzud,jji,[iji],[dat:1S],
+140.0,amzzud,jakkam,[i-akka-m],[dat-1FS:me-give to:ao],V
+141.0,amzzud,ad,[ad],[AD:Comp],
+142.0,amzzud,ʃʃʁ,[ʃʃ-ʁ],[eat:pf-1S],V
+143.0,amzzud,ʁ,[ʁ],[in],
+144.0,amzzud,!trf,[!trf],[near],
+145.0,amzzud,lbħr,[l-bħr],[sea],N
+146.0,amzzud,rwaħt,[rwaħ-t],[come on:Imper-deic],V
+147.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+148.0,amzzud,as,[a-s],[dat-3S],
+149.0,amzzud,rwaħt,[rwaħ-t],[come on:Imper-deic],V
+150.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+151.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+152.0,amzzud,walajnni,[walajnni],[but],
+153.0,amzzud,ad,[ad],[AD:Comp],
+154.0,amzzud,i,[i],[to],
+155.0,amzzud,jji,[iji],[dat:1S],
+156.0,amzzud,tfm,[t-f-m],[2MP-give:ao],V
+157.0,amzzud,laman,[l-aman],[Security],N
+158.0,amzzud,aʃku,[aʃku],[because],
+159.0,amzzud,!ssltan,[!ssltan],[Sultan],N
+160.0,amzzud,n,[n],[of],
+161.0,amzzud,islman,[i-slm-an],[fish:MP],N
+162.0,amzzud,a,[ad],[AD:Comp],
+163.0,amzzud,jga,[i-ga],[3MS-be:pf],V
+164.0,amzzud,fkin,[fki-n],[give:pf:3MP],V
+165.0,amzzud,as,[a-s],[dat-3S],
+166.0,amzzud,laman,[l-aman],[Security],N
+167.0,amzzud,tmun,[t-mun],[2MS-go with:pf],V
+168.0,amzzud,dissn,[di-ss-n],[with-them],
+169.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+170.0,amzzud,d,[d],[deic],
+171.0,amzzud,lkmn,[lkm-n],[3MP:arrive:pf],V
+172.0,amzzud,dar,[dar],[to],
+173.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+174.0,amzzud,sawln,[sawl-n],[talk:pf-3MP],V
+175.0,amzzud,srs,[sr-s],[to-3S],
+176.0,amzzud,isawl,[i-sawl],[3MS-talk:pf],V
+177.0,amzzud,srsn,[sr-sn],[to-3MP],V
+178.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+179.0,amzzud,as,[a-s],[dat-3S],
+180.0,amzzud,awddi,[awddi],[Interjection],
+181.0,amzzud,ma,[ma],[what],
+182.0,amzzud,jga,[i-ga],[3MS-be:pf],V
+183.0,amzzud,ʁajad,[ʁ-aja-d],[DemPro-Deic:this],
+184.0,amzzud,takkat,[t-akka-t],[2S-give to:ao],V
+185.0,amzzud,i,[i],[to],
+186.0,amzzud,tslmt,[t-slm-t],[small fish:PCS],N
+187.0,amzzud,a,[ad],[AD:Comp],
+188.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+189.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+190.0,amzzud,nkki,[nkki],[1S:me],N
+191.0,amzzud,art,[art],[art],
+192.0,amzzud,t,[t],[Obj:3S],
+193.0,amzzud,qqssasʁ,[qqssas-ʁ],[chop:Impf-1S],V
+194.0,amzzud,lkif,[l-kif],[canabis],N
+195.0,amzzud,ar,[ar],[AR],
+196.0,amzzud,nn,[nn],[deic],
+197.0,amzzud,!ttar,[!ttar],[pitch into the water:Impf:3MS],V
+198.0,amzzud,zzrriʕt,[zzrriʕt],[grain],N
+199.0,amzzud,s,[s],[into],
+200.0,amzzud,lbħr,[l-bħr],[sea],N
+201.0,amzzud,art,[art],[art],
+202.0,amzzud,t,[t],[Obj:3S],
+203.0,amzzud,tʃtta,[t-ʃtta],[3FS-eat:Impf],V
+204.0,amzzud,tslmt,[t-slm-t],[fish:PCS],N
+205.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+206.0,amzzud,mmattin,[mmatti-n],[move:pf-3MP],V
+207.0,amzzud,i!frχan,[i-!frχ-an],[MPFS:boy],N
+208.0,amzzud,lli,[lli],[RelPro],
+209.0,amzzud,zzigzn,[zzigz-n],[walk:ao-3MP],V
+210.0,amzzud,!amzn,[!amz-n],[3MP:hold:ao],V
+211.0,amzzud,aʁaras,[a-ʁaras],[MFSS-path],N
+212.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+213.0,amzzud,qqrrbn,[qqrrb-n],[approach:pf-3MP],V
+214.0,amzzud,ja,[ja],[one],
+215.0,amzzud,wdrar,[w-drar],[SMCS-mountain],N
+216.0,amzzud,sawlnt,[sawl-nt],[talk:pf-3FP],V
+217.0,amzzud,lbhajmnsn,[l-bhajm-nsn],[beast-poss:MP],N
+218.0,amzzud,ʒmmʕnt,[ʒmmʕ-nt],[consult:pf-3FP],V
+219.0,amzzud,ngrattsnt,[ngr-a-tt-s-nt],[between-3FP],
+220.0,amzzud,inint,[ini-nt],[say:pf-3FP],V
+221.0,amzzud,nkkni,[nkkni],[1P:we/us],
+222.0,amzzud,hann,[hann],[presentative],
+223.0,amzzud,!n!rmi,[!n-!rmi],1P-be tired:pf],V
+224.0,amzzud,ssadat,[ssadat],[people],N
+225.0,amzzud,a,[ad],[AD:Comp],
+226.0,amzzud,i!χssa,[i-!χssa],[3MS-miss:pf],V
+227.0,amzzud,at,[ad],[AD:Comp],
+228.0,amzzud,tn,[tn],[Obj:3MP],
+229.0,amzzud,id,[id],[deic],
+230.0,amzzud,nluħ,[n-luħ],[1P-1P-throw:Impf],V
+231.0,amzzud,aʃwaj,[aʃwaj],[a little],N
+232.0,amzzud,nsunfu,[n-sunfu],[1P-rest:ao],V
+233.0,amzzud,mdikirnt,[mdikir-nt],[consult:pf-3FP],V
+234.0,amzzud,lbhajmlli,[l-bhajm-lli],[animals-RelPro] ,N
+235.0,amzzud,f,[f],[for],
+236.0,amzzud,unʃk,[unʃk],[much],
+237.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+238.0,amzzud,ʁwlint,[ʁwli-nt],[go up:pf:3FP],V
+239.0,amzzud,s,[s],[to],
+240.0,amzzud,iggi,[iggi],[the side],
+241.0,amzzud,wdrar,[w-drar],[SMCS-mountain],N
+242.0,amzzud,ad,[ad],[AD:Comp],
+243.0,amzzud,!hnttznt,[!hnttznt],[throw out:pf-3MP],V
+244.0,amzzud,add,[ad],[AD:Comp],
+245.0,amzzud,luħnt,[luħ-nt],[throw:ao-3FP],V
+246.0,amzzud,ajtmatnlli,[ajtma-tn-lli],[brother:P-tn-RelPro] ,N
+247.0,amzzud,anʃawilli,[a-nʃawi-lli],[MFSS-nʃawi-RelPro] ,N
+248.0,amzzud,ntta,[ntta],[3MS:he],
+249.0,amzzud,islla,[i-sll-a],[3MS-listen to:pf],V
+250.0,amzzud,jasnt,[i-a-snt],[to-dat-3FM],
+251.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+252.0,amzzud,i,[i],[to],
+253.0,amzzud,jajtmas,[i-ajtma-s],[dat-brother-P],N
+254.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+255.0,amzzud,uggwzat,[uggwz-at],[go down:ao-2P],V
+256.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+257.0,amzzud,as,[a-s],[dat-3S],
+258.0,amzzud,hakk,[hakk],[hakk],
+259.0,amzzud,awa,[awa],[so],
+260.0,amzzud,hakk,[hakk],[hakk],
+261.0,amzzud,lkif,[l-kif],[canabis],N
+262.0,amzzud,isawl,[i-sawl],[3MS-talk:pf],V
+263.0,amzzud,daʁ,[daʁ],[once again],
+264.0,amzzud,ʁila,[ʁila],[now],
+265.0,amzzud,lkif,[l-kif],[canabis],N
+266.0,amzzud,a,[ad],[AD:Comp],
+267.0,amzzud,jak,[i-a-k],[to-dat-2MS],
+268.0,amzzud,innan,[i-nna-n],[3MS-say-partic],V
+269.0,amzzud,ʁiknna,[ʁiknna],[like this],
+270.0,,New_Sentence,New_Sentence,New_Sentence,
+271.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+272.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+273.0,amzzud,nkki,[nkki],[1S:me],N
+274.0,amzzud,nniʁ,[nni-ʁ],[say:pf-1S],V
+275.0,amzzud,awn,[a-wn],[comp-2MP],
+276.0,amzzud,ggwzat,[ggwza-t],[sit down-2P],V
+277.0,amzzud,agwin,[agwi-n],[refuse:pf-n],V
+278.0,amzzud,at,[ad],[AD:Comp],
+279.0,amzzud,t,[t],[Obj:3S],
+280.0,amzzud,tabʕan,[tabʕa-n],[follow:ao-3MP],V
+281.0,amzzud,kksnnn,[kks-n-nn],[take off:pf-3MP-deic],V
+282.0,amzzud,imikk,[imikk],[imikk],
+283.0,amzzud,!ħnttznt,[!ħnttznt],[throw out:pf-3MP],V
+284.0,amzzud,lbhajm,[l-bhajm],[animals],N
+285.0,amzzud,luħnt,[luħ-nt],[throw:ao-3FP],V
+286.0,amzzud,tni,[n-id],[Obj:3MP-Deic],
+287.0,amzzud,!drnd,[!dr-n-d],[go down-3MP-deic],V
+288.0,amzzud,i!rz,[i-!rz],[3MS-!rz],V
+289.0,amzzud,jan,[ja-n],[one:M],
+290.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+291.0,,New_Sentence,New_Sentence,New_Sentence,
+292.0,amzzud,zzigzn,[zzigz-n],[walk:ao-3MP],V
+293.0,amzzud,asin,[asi-n],[carry:pf-3MP],V
+294.0,amzzud,gwmattsn,[gwma-tt-sn],[brother-poss:3MP],N
+295.0,amzzud,lli,[lli],[RelPro],
+296.0,amzzud,lkmn,[lkm-n],[3MP:arrive:pf],V
+297.0,amzzud,ngr,[ngr],[between],
+298.0,amzzud,kra,[kra],[some],
+299.0,amzzud,jʁarasn,[i-ʁaras-n],[MPFS-path],N
+300.0,amzzud,afnnn,[af-n-nn],[find:ao-3MP-deic],V
+301.0,amzzud,snat,[snat],[two:F],
+302.0,amzzud,titbirin,[ti-tbir-in],[FPFS-dove],N
+303.0,amzzud,ʒmmʕnt,[ʒmmʕ-nt],[consult:pf-3FP],V
+304.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+305.0,amzzud,jat,[ja-t],[one:F],
+306.0,amzzud,gisnt,[gi-s-n-t],[loc:3FP],
+307.0,amzzud,i,[i],[dat],
+308.0,amzzud,!tajja,[!ta-jja],[DemPron:2FS-other],
+309.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+310.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+311.0,amzzud,lli,[lli],[RelPro],
+312.0,amzzud,llan,[lla-n],[be:pf-3MP],V
+313.0,amzzud,ʁ,[ʁ],[in],
+314.0,amzzud,ammas,[ammas],[inside],N
+315.0,amzzud,wʁiʁa,[w-ʁiʁa],[SMCS-cave],N
+316.0,amzzud,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+317.0,amzzud,daʁ,[daʁ],[once again],
+318.0,amzzud,jat,[ja-t],[one:F],
+319.0,amzzud,tfruχt,[t-fruχ-t],[FSCS:girl],N
+320.0,amzzud,!idgam,[!idgam],[yesterday],N
+321.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+322.0,amzzud,jas,[i-a-s],[to-dat-3S],
+323.0,amzzud,tisssnat,[tiss snat],[two:F],
+324.0,amzzud,nkki,[nkki],[1S:me],N
+325.0,amzzud,jakkw,[i-akkw],[not even],
+326.0,amzzud,ur,[ur],[neg],
+327.0,amzzud,!χalidʁ,[!χalid-ʁ],[frequent:pfneg-1S],V
+328.0,amzzud,gilli,[gilli],[gilli],
+329.0,amzzud,ʁ,[ʁ],[when],
+330.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+331.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+332.0,amzzud,abnti,[a-bnti],[O-daughter],N
+333.0,amzzud,hatinn,[hat-inn],[presentative-deic],
+334.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+335.0,amzzud,ʁ,[ʁ],[in],
+336.0,amzzud,ngr,[ngr],[between],
+337.0,amzzud,iʁarasn,[i-ʁaras-n],[FPSS-path],N
+338.0,amzzud,ʁ,[ʁ],[at],
+339.0,amzzud,lmakan,[l-makan],[location],N
+340.0,amzzud,iflani,[iflani],[unknown],N
+341.0,,New_Sentence,New_Sentence,New_Sentence,
+342.0,amzzud,lliʁ,[lliʁ],[RelPro],
+343.0,amzzud,ʒmmʕnt,[ʒmmʕ-nt],[consult:pf-3FP],V
+344.0,amzzud,titbirin,[ti-tbir-in],[FPFS-dove],N
+345.0,amzzud,ngrattsnt,[ngr-a-tt-s-nt],[between-3FP],
+346.0,amzzud,issn,[i-ssn],[3MS-know:pf],V
+347.0,amzzud,kullu,[kullu],[all],
+348.0,amzzud,unʃawi,[u-nʃawi],[SMCS-canabis smoker],N
+349.0,amzzud,mas,[ma-s],[with what],
+350.0,amzzud,nnant,[nna-nt],[say:pf-3FP],V
+351.0,amzzud,!j!amz,[!j-!amz],[3MS-hold:pf],V
+352.0,amzzud,lʕunwan,[l-ʕunwan],[the adress],N
+353.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+354.0,amzzud,i,[i],[dat],
+355.0,amzzud,jajtmas,[i-ajtma-s],[dat-brother-P],N
+356.0,amzzud,lli,[lli],[RelPro],
+357.0,amzzud,ggwzat,[ggwza-t],[sit down-2P],V
+358.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+359.0,amzzud,jas,[i-a-s],[to-dat-3S],
+360.0,amzzud,wissin,[wissin],[thee second],
+361.0,amzzud,isawld,[i-sawl-d],[3MS-speek:pf-deic],V
+362.0,amzzud,daʁ,[daʁ],[once again],
+363.0,amzzud,gikk,[gi-kk],[in:2PS],
+364.0,amzzud,lkif,[l-kif],[canabis],N
+365.0,amzzud,isawld,[i-sawl-d],[3MS-speek:pf-deic],V
+366.0,amzzud,ʁwali,[ʁ-wa-li],[DemPronMS-Deic:this one],
+367.0,amzzud,i!rzan,[i-!rza-n],[3MS-!rza-n],V
+368.0,amzzud,nkki,[nkki],[1S:me],N
+369.0,amzzud,bʕda,[bʕda],[first],
+370.0,amzzud,srsat,[srs-at],[put:ao-2MP],V
+371.0,amzzud,i,[i],[to],
+372.0,amzzud,jji,[iji],[dat:1S],
+373.0,amzzud,ssaʕt,[ssaʕt],[the time],
+374.0,amzzud,lli,[lli],[RelPro],
+375.0,amzzud,jaʁ,[i-aʁ],[dat-1S],
+376.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+377.0,amzzud,ggwzat,[ggwza-t],[sit down-2P],V
+378.0,amzzud,nagwi,[n-agwi],[n-agwi],
+379.0,amzzud,ha,[ha],[presentative],
+380.0,amzzud,ma,[ma],[what],
+381.0,amzzud,jji,[iji],[dat:1S],
+382.0,amzzud,i!ʒran,[i-!ʒra-n],[3MS-!ʒra-n],V
+383.0,amzzud,!kkattaʁ,[!kkatt-aʁ],[1Spass:pf],V
+384.0,amzzud,ʁilad,[ʁilad],[now],
+385.0,amzzud,i!χssa,[i-!χssa],[3MS-miss:pf],V
+386.0,amzzud,a,[ad],[AD:Comp],
+387.0,amzzud,jji,[iji],[dat:1S],
+388.0,amzzud,tsrsm,[t-srs-m],[2P-put:ao-M],V
+389.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+390.0,amzzud,tabʕant,[tabʕa-nt],[follow:ao-3FP],V
+391.0,amzzud,ajtmas,[ajtma-s],[brother:P-poss:3S],N
+392.0,amzzud,lli,[lli],[RelPro],
+393.0,amzzud,ar,[ar],[AR],
+394.0,amzzud,ittlli,[i-ttll-i],[3MS-slow down:Imf],V
+395.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+396.0,amzzud,jufa,[i-ufa],[3MS-find:pf],V
+397.0,amzzud,aʁiʁalli,[a-ʁiʁa-lli],[MFSS-cave-RelPro] ,N
+398.0,amzzud,ʁ,[ʁ],[where],
+399.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+400.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+401.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+402.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+403.0,amzzud,ara,[ara],[2S:give:Imper],V
+404.0,amzzud,fat,[fa-t],[give:pf-2MP],V
+405.0,amzzud,i,[i],[to],
+406.0,amzzud,jji,[iji],[dat:1S],
+407.0,amzzud,ssif,[ssif],[the sword],N
+408.0,amzzud,i,[i],[dat],
+409.0,amzzud,jbbwa,[i-bbwa],[to-father],N
+410.0,amzzud,add,[ad],[AD:Comp],
+411.0,amzzud,kkʁ,[kk-ʁ],[visit:ao-1S],V
+412.0,amzzud,lʁar,[lʁar],[cave],N
+413.0,amzzud,ad,[ad],[AD:Comp],
+414.0,amzzud,fkin,[fki-n],[give:pf:3MP],V
+415.0,amzzud,as,[a-s],[dat-3S],
+416.0,amzzud,t,[t],[Obj:3S],
+417.0,amzzud,ikkwsr,[i-kkwsr],[3MS-penetrate],V
+418.0,amzzud,unʃawi,[u-nʃawi],[SMCS-canabis smoker],N
+419.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+420.0,amzzud,lqqaʕ,[lqqaʕ],[sheep],N
+421.0,amzzud,llʁar,[llʁar],[the cave],N
+422.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+423.0,amzzud,gis,[gi-s],[loc:3MS],
+424.0,amzzud,lbiban,[lbiban],[the door:P],N
+425.0,amzzud,ittħinn,[i-ttħi-nn],[3MS-push:pf-deic],V
+426.0,amzzud,lbab,[l-bab],[the door:S],N
+427.0,amzzud,izwarn,[i-zwar-n],[3MS-be first-partic],V
+428.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+429.0,amzzud,gis,[gi-s],[loc:3MS],
+430.0,amzzud,ja,[jat],[one:F],
+431.0,amzzud,ttfruχt,[tt-fruχ-t],[FSCS:girl],N
+432.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+433.0,amzzud,jas,[i-a-s],[to-dat-3S],
+434.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+435.0,amzzud,awddi,[awddi],[Interjection],
+436.0,amzzud,mani,[mani],[where],
+437.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+438.0,,New_Sentence,New_Sentence,New_Sentence,
+439.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+440.0,amzzud,ʁinn,[ʁinn],[over there],
+441.0,amzzud,ja,[jan],[one:M],
+442.0,amzzud,llʕfrit,[ll-ʕfrit],[the devil],N
+443.0,amzzud,ra,[ra],[ra:Fut],
+444.0,amzzud,kk,[kk],[2MS:you],N
+445.0,amzzud,ka,[ka],[really],
+446.0,amzzud,isu,[i-su],[3MS-drink:ao],V
+447.0,,New_Sentence,New_Sentence,New_Sentence,
+448.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+449.0,amzzud,jas,[i-a-s],[to-dat-3S],
+450.0,amzzud,ħijd,[ħijd],[aside up:Imper 2S],V
+451.0,amzzud,i,[i],[to],
+452.0,amzzud,jji,[iji],[dat:1S],
+453.0,amzzud,fllas,[flla-s],[on-3MS],
+454.0,amzzud,nttan,[nttan],[3MS:he],
+455.0,amzzud,a,[ad],[AD:Comp],
+456.0,amzzud,sa,[sa],[sa],
+457.0,amzzud,ttlliʁ,[ttlli-ʁ],[look for:impf-1S],
+458.0,,New_Sentence,New_Sentence,New_Sentence,
+459.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+460.0,amzzud,jas,[i-a-s],[to-dat-3S],
+461.0,amzzud,ur,[ur],[neg],
+462.0,amzzud,ad,[ad],[AD:Comp],
+463.0,amzzud,ak,[a-k],[dat-2MS],
+464.0,amzzud,!rzmʁ,[!rzm-ʁ],[releas:ao-dat3S],V
+465.0,,New_Sentence,New_Sentence,New_Sentence,
+466.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+467.0,amzzud,jas,[i-a-s],[to-dat-3S],
+468.0,amzzud,!nnurzm,[!nn-urzm],[pron-release:ao],V
+469.0,amzzud,nʁdd,[nʁdd],[nʁdd],
+470.0,amzzud,a,[ad],[AD:Comp],
+471.0,amzzud,kkm,[kkm],[2FS:you],N
+472.0,amzzud,ka,[ka],[really],
+473.0,amzzud,mħiʁ,[mħi-ʁ],[erase-1S],V
+474.0,amzzud,ar,[ar],[AR],
+475.0,amzzud,ttqijjas,[tt-qijjas],[3FS-think:impf],V
+476.0,amzzud,χtalli,[χ-ta-lli],[DemPronFS:this one-RelRep],
+477.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+478.0,amzzud,t!ksud,[t-!ksud],[3FS-be afraid:pf],V
+479.0,amzzud,t!rzm,[t-!rzm],[3FS-release:pf],V
+480.0,amzzud,as,[a-s],[dat-3MS],
+481.0,amzzud,ittħinn,[i-ttħi-nn],[3MS-push:pf-deic],V
+482.0,amzzud,lbab,[l-bab],[the door:S],N
+483.0,amzzud,s,[s],[with],
+484.0,amzzud,tisssnat,[tiss snat],[FS:second],
+485.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+486.0,amzzud,jas,[i-a-s],[to-dat-3S],
+487.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+488.0,amzzud,!ukbar,[!ukbar],[!ukbar],
+489.0,amzzud,awddi,[awddi],[Interjection],
+490.0,amzzud,argaz,[a-rgaz],[MFSS-man],N
+491.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+492.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+493.0,amzzud,jas,[i-a-s],[to-dat-3S],
+494.0,amzzud,ħijd,[ħijd],[aside up:Imper 2S],V
+495.0,amzzud,i,[i],[to],
+496.0,amzzud,jji,[iji],[dat:1S],
+497.0,amzzud,aʁaras,[a-ʁaras],[MFSS-path],N
+498.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+499.0,amzzud,t!ksud,[t-!ksud],[3FS-be afraid:pf],V
+500.0,amzzud,ʁd,[ʁd],[or],
+501.0,amzzud,nttat,[ntta-t],[3FS:she],
+502.0,amzzud,tnnu,[t-nnu],[t-nnu],
+503.0,amzzud,!rzm,[!rzm],[release:Imper:2S],V
+504.0,amzzud,as,[a-s],[dat-3S],
+505.0,amzzud,izri,[i-zri],[3MS-pass:pf],V
+506.0,amzzud,s,[s],[with],
+507.0,amzzud,tiss!kratt,[tiss !krad-t],[FS:third],
+508.0,amzzud,ittħinn,[i-ttħi-nn],[3MS-push:pf-deic],V
+509.0,amzzud,daʁ,[daʁ],[once again],
+510.0,amzzud,fllas,[flla-s],[on-3MS],
+511.0,amzzud,taggurt,[taggurt],[taggurt],N
+512.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+513.0,amzzud,jas,[i-a-s],[to-dat-3S],
+514.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+515.0,amzzud,awddi,[awddi],[Interjection],
+516.0,amzzud,mani,[mani],[where],
+517.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+518.0,,New_Sentence,New_Sentence,New_Sentence,
+519.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+520.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+521.0,amzzud,ra,[ra],[ra:Fut],
+522.0,amzzud,kk,[kk],[2MS:you],N
+523.0,amzzud,ka,[ka],[really],
+524.0,amzzud,ikmi,[i-kmi],[3MS-smoke:pf],V
+525.0,amzzud,hann,[hann],[presentative],
+526.0,amzzud,iʃqqa,[i-ʃqqa],[3MS-be hard:pf],V
+527.0,,New_Sentence,New_Sentence,New_Sentence,
+528.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+529.0,amzzud,jas,[i-a-s],[to-dat-3S],
+530.0,amzzud,ħijd,[ħijd],[aside up:Imper 2S],V
+531.0,amzzud,i,[i],[to],
+532.0,amzzud,jji,[iji],[dat:1S],
+533.0,amzzud,aʁaras,[a-ʁaras],[MFSS-path],N
+534.0,amzzud,tħijdas,[t-ħijd],[2FS-aside up:pf],V
+535.0,amzzud,tħijdas,[a-s],[dat-3MS],
+536.0,amzzud,aʁaras,[a-ʁaras],[MFSS-path],N
+537.0,amzzud,s,[s],[with],
+538.0,amzzud,tiss!kkuzt,[tiss !kkuz-t],[FS:fourth],
+539.0,amzzud,jaf,[i-af],[3MS-find:aoS],V
+540.0,amzzud,tt,[tt],[Obj:3FS],
+541.0,amzzud,inn,[inn],[deic],
+542.0,amzzud,tga,[t-ga],[3FS-be:pf],V
+543.0,amzzud,wltmas,[wltma-s],[sister-poss3S],N
+544.0,,New_Sentence,New_Sentence,New_Sentence,
+545.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+546.0,amzzud,jas,[i-a-s],[to-dat-3S],
+547.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+548.0,amzzud,a,[a],[voc],
+549.0,amzzud,gwma,[gwma],[brother],N
+550.0,amzzud,mani,[mani],[where],
+551.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+552.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+553.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+554.0,amzzud,lli,[lli],[RelPro],
+555.0,amzzud,ʁid,[ʁid],[deic],
+556.0,amzzud,illan,[i-lla-n],[3MS-be-n-partic],V
+557.0,amzzud,ra,[ra],[ra:Fut],
+558.0,amzzud,kk,[kk],[Obj:2MS:you],
+559.0,amzzud,iʃʃ,[i-ʃʃ],[3MS-eat:pf],V
+560.0,amzzud,isu,[i-su],[3MS-drink:Impf],V
+561.0,amzzud,k,[k],[Obj:2MS],
+562.0,,New_Sentence,New_Sentence,New_Sentence,
+563.0,amzzud,ħijd,[ħijd],[aside up:Imper 2S],V
+564.0,amzzud,a,[a],[voc],
+565.0,amzzud,wltma,[wltma],[sister],N
+566.0,amzzud,nttan,[nttan],[3MS:he],
+567.0,amzzud,a,[ad],[AD:Comp],
+568.0,amzzud,sa,[sa],[sa],
+569.0,amzzud,ttlliʁ,[ttlli-ʁ],[ttlli-1S],
+570.0,amzzud,isʁr,[i-sʁr],[3MS-dry:pf],V
+571.0,amzzud,imawnnʁ,[i-maw-n-nʁ],[MPFS-mouth-Poss1P],
+572.0,amzzud,rad,[rad],[RAD:Fut],
+573.0,amzzud,sʁrʁ,[sʁr-ʁ],[put:pf-1S],V
+574.0,amzzud,wi,[wi],[poss],
+575.0,amzzud,ns,[n-s],[PossDet:3S],
+576.0,,New_Sentence,New_Sentence,New_Sentence,
+577.0,amzzud,ittħinn,[i-ttħi-nn],[3MS-push:pf-deic],V
+578.0,amzzud,wisssmmus,[wiss smmus],[MS:fifth],
+579.0,amzzud,lbiban,[l-biban],[the door:P],N
+580.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+581.0,amzzud,gis,[gi-s],[loc:3MS],
+582.0,amzzud,tafruχt,[ta-fruχ-t],[FFSS:girl],N
+583.0,amzzud,lli,[lli],[RelPro],
+584.0,amzzud,bħra,[bħra],[barely],
+585.0,amzzud,d,[d],[d],
+586.0,amzzud,jiwi,[i-iwi],[3MS-bring:pf-deic],V
+587.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+588.0,amzzud,tga,[t-ga],[3FS-be:pf],V
+589.0,amzzud,lʒdid,[l-ʒdid],[new],N
+590.0,amzzud,ar,[ar],[AR],
+591.0,amzzud,srs,[sr-s],[to-3S],
+592.0,amzzud,tsawal,[t-sawal],[t-speek:Impf],V
+593.0,amzzud,aʁar,[aʁar],[just],
+594.0,amzzud,ss,[ss],[ss],
+595.0,amzzud,ifassn,[i-fass-n],[MPFS-hand],N
+596.0,,New_Sentence,New_Sentence,New_Sentence,
+597.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+598.0,amzzud,jas,[i-a-s],[to-dat-3S],
+599.0,amzzud,mani,[mani],[where],
+600.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+601.0,,New_Sentence,New_Sentence,New_Sentence,
+602.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+603.0,amzzud,jas,[i-a-s],[to-dat-3S],
+604.0,amzzud,manza,[manza],[where is],
+605.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+606.0,amzzud,at,[ad],[AD:Comp],
+607.0,amzzud,t,[t],[Obj:3MS],
+608.0,amzzud,nʁʁ,[nʁ-ʁ],[nʁ-1S],
+609.0,,New_Sentence,New_Sentence,New_Sentence,
+610.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+611.0,amzzud,jas,[i-a-s],[to-dat-3S],
+612.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+613.0,amzzud,igun,[i-gun],[3MS-sleep:pf],V
+614.0,,New_Sentence,New_Sentence,New_Sentence,
+615.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+616.0,amzzud,jas,[i-a-s],[to-dat-3S],
+617.0,amzzud,iʁ,[iʁ],[if],
+618.0,amzzud,igun,[i-gun],[3MS-sleep:pf],V
+619.0,amzzud,nkki,[nkki],[1S:me],N
+620.0,amzzud,ra,[ra],[ra:Fut],
+621.0,amzzud,srs,[sr-s],[to-3S],
+622.0,amzzud,kʃmʁ,[kʃm-ʁ],[come in:pf-1S],V
+623.0,amzzud,at,[ad],[AD:Comp],
+624.0,amzzud,t,[t],[Obj:3MS],
+625.0,amzzud,nʁʁ,[nʁ-ʁ],[nʁ-1S],
+626.0,,New_Sentence,New_Sentence,New_Sentence,
+627.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+628.0,amzzud,jas,[i-a-s],[to-dat-3S],
+629.0,amzzud,ur,[ur],[neg],
+630.0,amzzud,as,[a-s],[dat:3MS],
+631.0,amzzud,t!zdart,[t-!zdar-t],[2S-go down:ao],V
+632.0,,New_Sentence,New_Sentence,New_Sentence,
+633.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+634.0,amzzud,jas,[i-a-s],[to-dat-3S],
+635.0,amzzud,ħijd,[ħijd],[aside up:Imper 2S],V
+636.0,amzzud,at,[ad],[AD:Comp],
+637.0,amzzud,t,[t],[Obj:3MS],
+638.0,amzzud,nʁʁ,[nʁ-ʁ],[kill:ao-1S],
+639.0,amzzud,sul,[sul],[not yet],
+640.0,amzzud,lqqmʁ,[lqqm-ʁ],[add-1S-Dat-km],
+641.0,amzzud,to,[as],[Dat:3S],
+642.0,amzzud,km,[k-m],[obj:2FS]],
+643.0,amzzud,t!nnurzm,[t-!nnurzm],[3FS-reflex-release:pf],V
+644.0,amzzud,as,[a-s],[dat-3MS],
+645.0,amzzud,ʁd,[ʁd],[or],
+646.0,amzzud,nttat,[nttat],[3MS:he],
+647.0,amzzud,ildid,[i-ldi-d],[3MS-take out:pf-deic],V
+648.0,amzzud,ssif,[ssif],[the sword],N
+649.0,amzzud,n,[n],[of],
+650.0,amzzud,ibbwa,[i-bbwa],[dat-father],N
+651.0,amzzud,s,[s],[Comp],
+652.0,amzzud,ira,[i-ra],[2MS-drink:ao],V
+653.0,amzzud,a,[ad],[AD:Comp],
+654.0,amzzud,srs,[sr-s],[to-3S],
+655.0,amzzud,jut,[i-ut],[3MS-hit:pf],V
+656.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+657.0,amzzud,t!amztid,[t-!amz-t-id],[2S-hold:pf-deic],V
+658.0,amzzud,lbnt,[l-bnt],[the daughter],N
+659.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+660.0,amzzud,jas,[i-a-s],[to-dat-3S],
+661.0,amzzud,uhu,[uhu],[no],
+662.0,amzzud,hakk,[hakk],[hakk],
+663.0,amzzud,ssif,[ssif],[the sword],N
+664.0,amzzud,t!rzm,[t-!rzm],[2S-open:ao],V
+665.0,amzzud,ja,[ja],[one],
+666.0,amzzud,llmʒr,[ll-mʒr],[n-the drawer],N
+667.0,amzzud,tasid,[t-asi-d],[2FS-take:pf-deic],V
+668.0,amzzud,gis,[gi-s],[loc:3MS],
+669.0,amzzud,ssiflli,[ssif-lli],[the sword-RelPro] ,N
+670.0,amzzud,s,[s],[with],
+671.0,amzzud,ra,[ra],[ra:Fut],
+672.0,amzzud,jmmt,[i-mmt],[3MS-die:pf],V
+673.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+674.0,amzzud,!j!amz,[!j-!amz],[3MS-hold:pf],V
+675.0,amzzud,ssif,[ssif],[the sword],N
+676.0,amzzud,lli,[lli],[RelPro],
+677.0,amzzud,iggr,[i-ggr],[3MS-touch:ao],V
+678.0,amzzud,srs,[sr-s],[to-3S],
+679.0,amzzud,i,[i],[to],
+680.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+681.0,amzzud,idiwd,[i-diwd],[3MS-diwd],V
+682.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+683.0,amzzud,a!llah,[a-!llah],[O-Allah],N
+684.0,amzzud,jiwid,[i-iwi-d],[3MS-bring:pf-deic],V
+685.0,amzzud,!rbbi,[!rbbi],[God],N
+686.0,amzzud,rrzq,[rrzq],[Livelihood],N
+687.0,amzzud,ʁass,[ʁ-ass],[Deic-day],N
+688.0,amzzud,a,[a-d],[DemDet-Deic:this] ,
+689.0,amzzud,ar,[ar],[AR],
+690.0,amzzud,lmaħal,[l-maħal],[the site],N
+691.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+692.0,amzzud,jas,[i-a-s],[to-dat-3S],
+693.0,amzzud,unʃawi,[u-nʃawi],[SMCS-canabis smoker],N
+694.0,amzzud,nikr,[nikr],[get-up:ao 2S],V
+695.0,amzzud,awa,[awa],[so],
+696.0,amzzud,nikr,[nikr],[stand up:ao:2S],V
+697.0,amzzud,!tt!ħarb,[!tt-!ħarb],[tt-2MS-fight:ao],V
+698.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+699.0,amzzud,didi,[did-i],[with-1S],
+700.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+701.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+702.0,amzzud,i!rzm,[i-!rzm],[3MS-open:pf],V
+703.0,amzzud,!lmʒrrlli,[!lmʒrr-lli],[ drawer-RelPro] ,N
+704.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+705.0,amzzud,ssif,[ssif],[the sword],N
+706.0,amzzud,ur,[ur],[neg],
+707.0,amzzud,igi,[i-gi],[3MS-be:pf],V
+708.0,amzzud,wi,[wi],[poss],
+709.0,amzzud,ns,[n-s],[of-3S],
+710.0,amzzud,ibadl,[i-badl],[3MS-change:pf],V
+711.0,,New_Sentence,New_Sentence,New_Sentence,
+712.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+713.0,amzzud,jas,[i-a-s],[to-dat-3S],
+714.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+715.0,amzzud,awddi,[awddi],[Interjection],
+716.0,amzzud,ʕlawaʒhillahlkarim,[ʕla waʒhi llah lkarim],[for God's sake],
+717.0,amzzud,a,[ad],[AD:Comp],
+718.0,amzzud,jji,[iji],[dat:1S],
+719.0,amzzud,tʒʒnʒmt,[t-ʒʒnʒm-t],[2S-save:pf],V
+720.0,amzzud,!rruħ,[!rruħ],[soul],N
+721.0,amzzud,inu,[in-u],[PossDet:1S] ,
+722.0,amzzud,akk,[akk],[comp-2S],
+723.0,amzzud,ʁnuʁ,[ʁnu-ʁ],[enrich:Impf-1S],V
+724.0,amzzud,ʁ,[ʁ],[in],
+725.0,amzzud,iggi,[iggi],[the side],N
+726.0,amzzud,n,[n],[of],
+727.0,amzzud,ddunit,[ddunit],[life],N
+728.0,amzzud,s,[s],[with],
+729.0,amzzud,lmal,[l-mal],[money],N
+730.0,amzzud,ula,[ula],[or],
+731.0,amzzud,ddahab,[ddahab],[gold],N
+732.0,amzzud,ula,[ula],[or],
+733.0,amzzud,nnqqwrt,[nnqqwrt],[silver],N
+734.0,amzzud,ula,[ula],[or],
+735.0,amzzud,jnna,[jnna],[what],
+736.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+737.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+738.0,amzzud,jas,[i-a-s],[to-dat-3S],
+739.0,amzzud,ur,[ur],[neg],
+740.0,amzzud,gikk,[gi-kk],[in-2S],
+741.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+742.0,amzzud,lmal,[l-mal],[money],N
+743.0,amzzud,ula,[ula],[or],
+744.0,amzzud,ddahab,[ddahab],[gold],N
+745.0,,New_Sentence,New_Sentence,New_Sentence,
+746.0,amzzud,ur,[ur],[neg],
+747.0,amzzud,gikk,[gi-kk],[in-2S],
+748.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+749.0,amzzud,abla,[abla],[only],
+750.0,amzzud,!rruħ,[!rruħ],[soul],N
+751.0,amzzud,nk,[n-k],[PossDet:2MS],
+752.0,amzzud,tiwidd,[t-iwi-dd],[2S-bring:pf-deic],V
+753.0,amzzud,ultma,[ultma],[my sister],N
+754.0,amzzud,bla,[bla],[without],
+755.0,amzzud,lqanun,[l-qanun],[law],N
+756.0,amzzud,bla,[bla],[without],
+757.0,amzzud,!ʃʃraʕ,[!ʃʃraʕ],[law],N
+758.0,amzzud,ula,[ula],[or],
+759.0,amzzud,walu,[walu],[nothing],N
+760.0,amzzud,jut,[i-ut],[3MS-hit:pfS],V
+761.0,amzzud,t,[t],[Obj:3S],
+762.0,amzzud,ibbi,[i-bbi],[3MS-cat:pf],V
+763.0,amzzud,jas,[i-a-s],[to-dat-3S],
+764.0,amzzud,ja,[jan],[one:M],
+765.0,amzzud,wfus,[w-fus],[SMCS-hand],N
+766.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+767.0,amzzud,jas,[i-a-s],[to-dat-3S],
+768.0,amzzud,bbi,[bbi],[cut:Imper:2S],V
+769.0,amzzud,ʁwad,[ʁ-wa-d],[DemPronMS-Deic:this one],
+770.0,amzzud,!jaddnin,[!jaddnin],[an other],
+771.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+772.0,amzzud,jas,[i-a-s],[to-dat-3S],
+773.0,amzzud,uhu,[uhu],[no],
+774.0,amzzud,aʃʃku,[aʃʃku],[because],
+775.0,amzzud,ikun,[ikun],[if],
+776.0,amzzud,as,[a-s],[dat:3MS],
+777.0,amzzud,ibbi,[i-bbi],[3MS-cat:pf],V
+778.0,amzzud,wisssin,[wiss sin],[MS:second],
+779.0,amzzud,jfassn,[i-fass-n],[MPFS-hand],N
+780.0,amzzud,ra,[ra],[ra:Fut],
+781.0,amzzud,jsul,[i-sul],[3MS-stay:pf],V
+782.0,amzzud,lliʁ,[lliʁ],[RelPro],
+783.0,amzzud,as,[a-s],[dat:3MS],
+784.0,amzzud,ibbi,[i-bbi],[3MS-cat:pf],V
+785.0,amzzud,ʁar,[ʁar],[ʁar],
+786.0,amzzud,jan,[ja-n],[one:M],
+787.0,amzzud,immt,[i-mmt],[3MS-die:ao],V
+788.0,,New_Sentence,New_Sentence,New_Sentence,
+789.0,amzzud,ildid,[i-ldi-d],[3MS-take out:ao-Deic],V
+790.0,amzzud,ssbsi,[ssbsi],[pipe],N
+791.0,amzzud,ikmi,[i-kmi],[3MS-smoke:pf],V
+792.0,amzzud,iffaʁd,[i-ffaʁ-d],[3MS-go out:ao-deic],V
+793.0,amzzud,mmiqqirnt,[mmiqqir-nt],[meet:ao-3FP],V
+794.0,amzzud,fllas,[flla-s],[on-3MS],
+795.0,amzzud,t!frχin,[t-!frχ-in],[girls] ,N
+796.0,amzzud,lli,[lli],[Dem],
+797.0,amzzud,s,[s],[with],
+798.0,amzzud,tʁwrit,[t-ʁwri-t],[FSCS-youyous],N
+799.0,amzzud,kra,[kra],[some],
+800.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+801.0,amzzud,jat,[ja-t],[one:F],
+802.0,amzzud,gisnt,[gi-s-nt],[loc:3FP],
+803.0,amzzud,ar,[ar],[AR],
+804.0,amzzud,t,[t],[Obj:3MS],
+805.0,amzzud,tssudum,[t-ssudum],[3MP-kiss:pf],V
+806.0,amzzud,ʁ,[ʁ],[in],
+807.0,amzzud,tsgajad,[t-sga-ja-d],[FSCS-side-dem-deic],N
+808.0,amzzud,d,[d],[d],
+809.0,amzzud,χtta,[χ-tta],[DemPronFS:this one],
+810.0,amzzud,jaʃkid,[i-aʃk-id],[3MS-come in:ao-deic],V
+811.0,amzzud,s,[s],[at],
+812.0,amzzud,imi,[imi],[mouth],
+813.0,amzzud,wʁiʁa,[w-ʁiʁa],[SMCS-ʁiʁa],
+814.0,amzzud,jininn,[i-ini-nn],[3MS-say:ao-deic],V
+815.0,amzzud,i,[i],[i],
+816.0,amzzud,jajtmas,[i-ajtma-s],[dat-brother-P],N
+817.0,amzzud,add,[ad],[AD:Comp],
+818.0,amzzud,zggwizn,[zggwiz-n],[bring down:ao-3MP],V
+819.0,amzzud,izikr,[izikr],[the rope],N
+820.0,amzzud,zggwznt,[zggwz-nt],[bring down:pf-3FP],V
+821.0,amzzud,allnnn,[all-n-nn],[bring up:pf-3MP-deic],V
+822.0,amzzud,tafruχtlli,[ta-fruχ-t-lli],[FFSS-girl-RelPro] ,N
+823.0,amzzud,izwarn,[i-zwar-n],[3MS-be first-partic],V
+824.0,amzzud,ajtmaslli,[ajtma-s-lli],[brother:P-poss:3S-RelPro] ,N
+825.0,amzzud,kra,[kra],[some],
+826.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+827.0,amzzud,jan,[ja-n],[one:M],
+828.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+829.0,amzzud,ar,[ar],[AR],
+830.0,amzzud,ittχzar,[i-tt-χzar],[3MS-tt-stare:Impf],V
+831.0,amzzud,wajja,[wajja],[wajja],
+832.0,amzzud,ira,[i-ra],[2MS-drink:ao],V
+833.0,amzzud,tafruχtlli,[ta-fruχ-t-lli],[FFSS-girl-RelPro] ,N
+834.0,amzzud,!smatln,[!smatl-n],[caus-bring down:pf-3MP],V
+835.0,amzzud,izikr,[izikr],[the rope],N
+836.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+837.0,amzzud,jasnd,[i-a-s-n-d],[to-dat-3P-deic],
+838.0,amzzud,unʃawi,[u-nʃawi],[SMCS-canabis smoker],N
+839.0,amzzud,ajwa,[ajwa],[ajwa],
+840.0,amzzud,zggwzadd,[zggwza-dd],[bring down:Impf-deic],V
+841.0,amzzud,izikr,[izikr],[the rope],N
+842.0,amzzud,hati,[hati],[presentative],
+843.0,amzzud,tlla,[t-lla],[3FS-be:pf],V
+844.0,amzzud,sul,[sul],[not yet],
+845.0,amzzud,ʁid,[ʁid],[deic],
+846.0,amzzud,sslliʕt,[sslliʕt],[ware],N
+847.0,,New_Sentence,New_Sentence,New_Sentence,
+848.0,amzzud,zuggzn,[zuggz-n],[bring down:pf-3MP],V
+849.0,amzzud,as,[a-s],[dat-3S],
+850.0,amzzud,izikr,[izikr],[the rope],N
+851.0,amzzud,jalld,[i-all-d],[3MS-pull up:pf-deic],V
+852.0,amzzud,tisssnat,[tiss snat],[FS:second],
+853.0,amzzud,zuggzn,[zuggz-n],[bring down:pf-3MP],V
+854.0,amzzud,as,[a-s],[dat-3S],
+855.0,amzzud,izikr,[izikr],[the rope],N
+856.0,amzzud,jalld,[i-all-d],[3MS-pull up:pf-deic],V
+857.0,amzzud,tiss!kratt,[tiss !krad-t],[FS:third],
+858.0,amzzud,zuggzn,[zuggz-n],[bring down:pf-3MP],V
+859.0,amzzud,as,[a-s],[dat-3S],
+860.0,amzzud,izikr,[izikr],[the rope],N
+861.0,amzzud,jalld,[i-all-d],[3MS-pull up:pf-deic],V
+862.0,amzzud,ultmas,[ultma-s],[sister-poss:3S],N
+863.0,amzzud,frħn,[frħ-n],[be happy:pf-3MP],V
+864.0,amzzud,i!frχanlli,[i-!frχ-an-lli],[MPFS-!frχ-an-RelPro] ,N
+865.0,amzzud,mija,[mija],[hundred],
+866.0,amzzud,f,[f],[f],
+867.0,amzzud,lmija,[l-mija],[hundred],N
+868.0,amzzud,zuggzn,[zuggz-n],[bring down:pf-3MP],V
+869.0,amzzud,as,[a-s],[dat-3S],
+870.0,amzzud,izikr,[izikr],[the rope],N
+871.0,amzzud,lliʁ,[lliʁ],[RelPro],
+872.0,amzzud,rat,[rad],[RAD:Fut],
+873.0,amzzud,tʁwli,[t-ʁwli],[3FS-go up:pf],V
+874.0,amzzud,tisssmmust,[tiss smmus-t],[FS:fifth],
+875.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+876.0,amzzud,jas,[i-a-s],[to-dat-3S],
+877.0,amzzud,ʁwli,[ʁwli],[2MS:go up:Imper],V
+878.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+879.0,amzzud,jas,[i-a-s],[to-dat-3S],
+880.0,amzzud,uhu,[uhu],[no],
+881.0,amzzud,ʁwli,[ʁwli],[2MS:go up:Imper],V
+882.0,amzzud,kijji,[kijji],[2MS],
+883.0,,New_Sentence,New_Sentence,New_Sentence,
+884.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+885.0,amzzud,jas,[i-a-s],[to-dat-3S],
+886.0,amzzud,ʁwli,[ʁwli],[2MS:go up:Imper],V
+887.0,amzzud,kmmi,[kmmi],[2FS],
+888.0,,New_Sentence,New_Sentence,New_Sentence,
+889.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+890.0,amzzud,jas,[i-a-s],[to-dat-3S],
+891.0,amzzud,hann,[hann],[presentative],
+892.0,amzzud,laman,[l-aman],[Security],N
+893.0,amzzud,ur,[ur],[neg],
+894.0,amzzud,illi,[i-lli],[3MS-be:pf],V
+895.0,,New_Sentence,New_Sentence,New_Sentence,
+896.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+897.0,amzzud,jas,[i-a-s],[to-dat-3S],
+898.0,amzzud,daʁ,[daʁ],[once again],
+899.0,amzzud,gwli,[gwli],[go up:ao:2S],V
+900.0,amzzud,kmmi,[kmmi],[2FS],
+901.0,amzzud,lliʁ,[lliʁ],[RelPro],
+902.0,amzzud,t!zra,[t-!zra],[2FS-see:pf],V
+903.0,amzzud,ra,[ra],[ra:Fut],
+904.0,amzzud,jas,[i-a-s],[to-dat-3S],
+905.0,amzzud,!ttijr,[!ttijr],[get angry:Impf:3MS],V
+906.0,amzzud,tldid,[t-ldi-d],[3FS-make out:pf-deic],V
+907.0,amzzud,ja,[jat],[one:F],
+908.0,amzzud,ttalχatmt,[tta-l-χatm-t],[FFSS-ring],N
+909.0,amzzud,n,[n],[of],
+910.0,amzzud,lħkma,[l-ħkma],[Wisdom],N
+911.0,amzzud,tf,[t-f],[3FS-give:ao],V
+912.0,amzzud,as,[a-s],[dat-3MS],
+913.0,amzzud,tt,[tt],[Obj:3S],V
+914.0,,New_Sentence,New_Sentence,New_Sentence,
+915.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+916.0,amzzud,jas,[i-a-s],[to-dat-3S],
+917.0,amzzud,hak,[hak],[take:ao:2S],
+918.0,amzzud,g,[g],[carry:Imper:2S],
+919.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+920.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+921.0,amzzud,ʁ,[ʁ],[in],
+922.0,amzzud,ufus,[u-fus],[SMCS-hand],N
+923.0,amzzud,nk,[n-k],[PossDet:2MS],
+924.0,amzzud,hati,[hati],[presentative],
+925.0,amzzud,nkki,[nkki],[1S:me],N
+926.0,amzzud,dik,[d-ik],[and-2MS],
+927.0,amzzud,ara,[ara],[2S:give:Imper],V
+928.0,amzzud,jtihl,[i-tihl],[3MS-marry:pf],V
+929.0,amzzud,nkki,[nkki],[1S:me],N
+930.0,amzzud,kijji,[kijji],[2MS],
+931.0,amzzud,ad,[ad],[AD:Comp],
+932.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+933.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+934.0,amzzud,jas,[i-a-s],[to-dat-3S],
+935.0,amzzud,abnti,[a-bnti],[O-daughter],N
+936.0,amzzud,ħtta,[ħtta],[even if],
+937.0,amzzud,nkki,[nkki],[1S:me],N
+938.0,amzzud,kmmi,[kmmi],[2FS],
+939.0,amzzud,ad,[ad],[AD:Comp],
+940.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+941.0,amzzud,tʁwlid,[t-ʁwli-d],[3FS-go up:pf-deic],V
+942.0,amzzud,ilmma,[ilmma],[once again],
+943.0,amzzud,jallasnd,[i-all-as-n-d],[3MS-pull up:pf-dat3MS-deic],V
+944.0,amzzud,ddahab,[ddahab],[gold],N
+945.0,amzzud,ula,[ula],[or],
+946.0,amzzud,lmal,[l-mal],[money],N
+947.0,amzzud,ula,[ula],[or],
+948.0,amzzud,kullu,[kullu],[all],
+949.0,amzzud,ma,[ma],[what],
+950.0,amzzud,ʁinn,[ʁinn],[over there],
+951.0,amzzud,nnanasd,[nna-n-as-d],[say:pf-3P-dat:3S-deic],V
+952.0,amzzud,awa,[awa],[so],
+953.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+954.0,amzzud,sul,[sul],[not yet],
+955.0,amzzud,ʁinn,[ʁinn],[over there],
+956.0,amzzud,kra,[kra],[some],
+957.0,amzzud,!jadnin,[!jadnin],[an other],
+958.0,,New_Sentence,New_Sentence,New_Sentence,
+959.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+960.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+961.0,amzzud,ʁajlli,[ʁ-aj-lli],[DemPro-Deic:that-RelPro],
+962.0,amzzud,illan,[i-lla-n],[3MS-be-partic],V
+963.0,amzzud,nttan,[nttan],[3MS:he],
+964.0,amzzud,a,[ad],[AD:Comp],
+965.0,amzzud,jann,[jann],[jann],
+966.0,,New_Sentence,New_Sentence,New_Sentence,
+967.0,amzzud,nnan,[nna-n],[say:pf-3MP],V
+968.0,amzzud,as,[a-s],[dat-3S],
+969.0,amzzud,wah,[wah],[yes],
+970.0,amzzud,tnʁit,[t-nʁ-i-t],[2S-kill:pf],V
+971.0,amzzud,akkw,[akkw],[not even],
+972.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+973.0,amzzud,a,[ad],[AD:Comp],
+974.0,amzzud,js,[iwi-s],[son-poss:3MS],
+975.0,amzzud,n,[n],[of],
+976.0,amzzud,baba,[baba],[1S:father],N
+977.0,amzzud,jaʁ,[i-aʁ],[dat-1S],
+978.0,amzzud,ur,[ur],[neg],
+979.0,amzzud,tnʁt,[t-nʁ-t],[2S-kill:ao],V
+980.0,amzzud,nkkwni,[nkkwni],[1P:we/us],
+981.0,amzzud,ʁamann,[ʁama-nn],[stay:ao-3MP],V
+982.0,amzzud,ʁinna,[ʁinna],[deic],
+983.0,amzzud,rarn,[rar-n],[give back:ao-3MP],V
+984.0,amzzud,fllas,[flla-s],[on-3MS],
+985.0,amzzud,akal,[akal],[akal],N
+986.0,amzzud,balakn,[balak-n],[go away:pf-3MP],V
+987.0,amzzud,flnt,[fl-n-t],[flee:pf-3FP],V
+988.0,,New_Sentence,New_Sentence,New_Sentence,
+989.0,amzzud,igawr,[i-gawr],[3MS-sit down:pf],V
+990.0,amzzud,ssijjidlli,[ssijjid-lli],[the man-RelPro] ,N
+991.0,amzzud,ildid,[i-ldi-d],[3MS-take out:ao-deic],V
+992.0,amzzud,ʃʃqf,[ʃʃqf],[pipe],N
+993.0,amzzud,ns,[n-s],[of-3S],
+994.0,amzzud,ikmi,[i-kmi],[3MS-smoke:pf],V
+995.0,amzzud,i!rzm,[i-!rzm],[3MS-release:pf],V
+996.0,amzzud,ugaju,[u-gaju],[SMCS-head],N
+997.0,amzzud,ns,[n-s],[of-3S],
+998.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+999.0,amzzud,matta,[ma-tta],[ma-tta],
+1000.0,amzzud,ʁajad,[ʁ-aja-d],[DemPro-Deic:this],
+1001.0,amzzud,skrʁ,[skr-ʁ],[do:pf-1S],V
+1002.0,,New_Sentence,New_Sentence,New_Sentence,
+1003.0,amzzud,tnna,[t-nna],[2FS-say:pf],V
+1004.0,amzzud,jji,[iji],[dat:1S],
+1005.0,amzzud,nit,[nit],[really],
+1006.0,amzzud,jadlli,[jadlli],[anyway],
+1007.0,amzzud,tfruχt,[t-fruχ-t],[FSCS:girl],N
+1008.0,amzzud,ʁwli,[ʁwli],[2MS:go up:Imper],V
+1009.0,amzzud,agwiʁ,[agwi-ʁ],[refuse:pf-1S],V
+1010.0,amzzud,ad,[ad],[AD:Comp],
+1011.0,amzzud,ʁwliʁ,[ʁwli-ʁ],[go up:pf-1S],V
+1012.0,amzzud,ʁila,[ʁila],[ʁila],
+1013.0,amzzud,nkki,[nkki],[1S:me],N
+1014.0,amzzud,astt,[as-tt],[as-tt],
+1015.0,amzzud,iskrn,[i-skr-n],[3MS-do:pf-partic],V
+1016.0,amzzud,i,[i],[dat],
+1017.0,amzzud,wgajunw,[w-gaju-nw],[SMCS-head-poss:1S],N
+1018.0,,New_Sentence,New_Sentence,New_Sentence,
+1019.0,amzzud,ntta,[ntta],[3MS:he],
+1020.0,amzzud,ur,[ur],[neg],
+1021.0,amzzud,issin,[i-ssin],[3MS-know:Impf],V
+1022.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+1023.0,amzzud,lli,[lli],[RelPro],
+1024.0,amzzud,is,[is],[Interro],
+1025.0,amzzud,tga,[t-ga],[3FS-be:pf],V
+1026.0,amzzud,ti,[ti],[ti],
+1027.0,amzzud,llħikma,[n l-ħikma],[of wisdom],N
+1028.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1029.0,amzzud,ʃuf,[ʃuf],[see:Imper:2MS],V
+1030.0,amzzud,tafruχt,[ta-fruχ-t],[FFSS-girl],N
+1031.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+1032.0,amzzud,tgllint,[t-glli-nt],[t-glli-nt],
+1033.0,,New_Sentence,New_Sentence,New_Sentence,
+1034.0,amzzud,lliʁ,[lliʁ],[RelPro],
+1035.0,amzzud,rad,[rad],[RAD:Fut],
+1036.0,amzzud,tʁwli,[t-ʁwli],[3FS-go up:pf],V
+1037.0,amzzud,tf,[t-f],[3FS-give:ao],V
+1038.0,amzzud,i,[i],[to],
+1039.0,amzzud,jji,[iji],[dat:1S],
+1040.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+1041.0,amzzud,ma,[ma],[what],
+1042.0,amzzud,jssnn,[i-ssn-n],[3MS-know:pf],V
+1043.0,amzzud,manis,[mani-s],[mani-s],
+1044.0,amzzud,tdda,[t-dda],[3FS-go away:pf],V
+1045.0,amzzud,nkki,[nkki],[1S:me],N
+1046.0,amzzud,ha,[ha],[presentative],
+1047.0,amzzud,jji,[iji],[dat:1S],
+1048.0,amzzud,ʁamaʁ,[ʁama-ʁ],[stay:ao-1S],V
+1049.0,amzzud,ʁ,[ʁ],[at],
+1050.0,amzzud,ddu,[ddu],[under],
+1051.0,amzzud,wakal,[w-akal],[SMCS-soil],N
+1052.0,amzzud,mta,[mta],[mta],
+1053.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1054.0,amzzud,ka,[ka],[ka],
+1055.0,amzzud,fiʁ,[fi-ʁ],[give:pf-1S],V
+1056.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+1057.0,amzzud,ns,[n-s],[of-3S],
+1058.0,amzzud,a,[ad],[AD:Comp],
+1059.0,amzzud,stt,[stt],[with-Obj],
+1060.0,amzzud,tawi,[t-awi],[3FS-bring:pf],V
+1061.0,,New_Sentence,New_Sentence,New_Sentence,
+1062.0,amzzud,i!duwwr,[i-!duwwr],[3MS-return:pf],V
+1063.0,amzzud,talχatmtlli,[ta-l-χatm-t-lli],[FFSS-ring-RelPro] ,N
+1064.0,amzzud,ʁika,[ʁika],[like this],
+1065.0,amzzud,i!ttħddrd,[i-!ttħddr-d],[3MS-!ttħddr-d],V
+1066.0,amzzud,ja,[ja],[one:M],
+1067.0,amzzud,llʕfrit,[ll-ʕfrit],[the devil],N
+1068.0,amzzud,lgwddam,[l-gwddam],[in front of],N
+1069.0,amzzud,ns,[n-s],[PossDet:3S],
+1070.0,amzzud,ildid,[i-ldi-d],[3MS-take out:ao-deic],V
+1071.0,amzzud,srs,[sr-s],[to-3S],
+1072.0,amzzud,ssif,[ssif],[the sword],N
+1073.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1074.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1075.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+1076.0,amzzud,aha,[aha],[aha],
+1077.0,amzzud,amr,[amr],[order:Imper:2S],V
+1078.0,amzzud,ajnna,[ajnna],[Whatever,
+1079.0,amzzud,trit,[t-ri-t],[2MS-want:ao],
+1080.0,amzzud,a,[ad],[AD:Comp],V
+1081.0,amzzud,jak,[a-k],[dat-2MS],
+1082.0,amzzud,d,[d],[d],
+1083.0,amzzud,ittrs,[i-tt-rs],[3MS-put:Impf],
+1084.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1085.0,amzzud,jas,[i-a-s],[to-dat-3S],V
+1086.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],
+1087.0,amzzud,a,[ad],[AD:Comp],V
+1088.0,amzzud,jji,[iji],[dat:1S],
+1089.0,amzzud,tall,[t-all],[2MS-rise to:ao],
+1090.0,amzzud,t,[t],[Obj:3S],V
+1091.0,amzzud,s,[s],[from],
+1092.0,amzzud,iggi,[iggi],[the side],
+1093.0,amzzud,wwakal,[w-w-akal],[of-to-soil],
+1094.0,amzzud,jall,[i-all],[3MS-pull up:pf],N
+1095.0,amzzud,tid,[t-id],[Obj:3S-deic],V
+1096.0,amzzud,s,[s],[from],
+1097.0,amzzud,iggi,[iggi],[the side],
+1098.0,amzzud,n,[n],[of],
+1099.0,amzzud,ddunit,[ddunit],[life],
+1100.0,amzzud,jafid,[i-af-id],[3MS-find:pf-deic],N
+1101.0,amzzud,ajtmas,[ajtma-s],[brother:P-poss:3S],V
+1102.0,amzzud,ddan,[dda-n],[go away:pf-3MP],N
+1103.0,amzzud,flnt,[fl-n-t],[flee:pf-3FP],N
+1104.0,amzzud,iχmmim,[i-χmmim],[3MS-reflect:pf],V
+1105.0,amzzud,igllb,[i-gllb],[3MS-turn:pf],V
+1106.0,amzzud,daʁ,[daʁ],[once again],
+1107.0,amzzud,talχatmtlli,[ta-l-χatm-t-lli],[FFSS-ring-RelPro] ,
+1108.0,amzzud,i!tt!ħddard,[i-!tt-!ħddar-d],[3MS-!tt-!ħddar-d],N
+1109.0,amzzud,daʁ,[daʁ],[once again],V
+1110.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],
+1111.0,amzzud,lli,[lli],[RelPro],N
+1112.0,amzzud,ʁ,[ʁ],[in],
+1113.0,amzzud,lgwddam,[l-gwddam],[in front of],
+1114.0,amzzud,ns,[n-s],[of-3S],N
+1115.0,amzzud,jini,[i-ini],[3MS-say:ao],
+1116.0,amzzud,jas,[i-a-s],[to-dat-3S],V
+1117.0,amzzud,mat,[mat],[what],
+1118.0,amzzud,trit,[t-ri-t],[2MS-want:ao],
+1119.0,,New_Sentence,New_Sentence,New_Sentence,V
+1120.0,amzzud,inna,[i-nna],[3MS-say:pf],
+1121.0,amzzud,jas,[i-a-s],[to-dat-3S],V
+1122.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],
+1123.0,amzzud,a,[ad],[AD:Comp],V
+1124.0,amzzud,jji,[iji],[dat:1S],
+1125.0,amzzud,d,[d],[d],
+1126.0,amzzud,tawit,[t-awi-t],[2S-bring:ao],
+1127.0,amzzud,jan,[ja-n],[one:M],V
+1128.0,amzzud,wajjis,[w-ajjis],[SMCS-horse],
+1129.0,amzzud,igan,[i-ga-n],[3MS-be-partic],N
+1130.0,amzzud,umlil,[umlil],[the white],V
+1131.0,amzzud,d,[d],[d],
+1132.0,amzzud,jat,[ja-t],[one:F],
+1133.0,amzzud,lksut,[l-ksut],[garment],
+1134.0,amzzud,igan,[i-ga-n],[3MS-be-partic],N
+1135.0,amzzud,tumlilt,[t-umlil-t],[FFSS-the white-F],V
+1136.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],N
+1137.0,amzzud,jas,[i-a-s],[to-dat-3S],V
+1138.0,amzzud,tnid,[tn-id],[Obj:3MP-deic],
+1139.0,,New_Sentence,New_Sentence,New_Sentence,
+1140.0,amzzud,izzigz,[i-zzigz],[3MS-walk:pf],
+1141.0,amzzud,ajlliʁ,[ajlliʁ],[until],V
+1142.0,amzzud,nn,[nn],[nn],
+1143.0,amzzud,iqqrrb,[i-qqrrb],[3MS-get close to:pf],
+1144.0,amzzud,!ttrf,[!ttrf],[near],V
+1145.0,amzzud,n,[n],[n],
+1146.0,amzzud,jat,[ja-t],[one:F],
+1147.0,amzzud,lmdint,[l-mdin-t],[the city],
+1148.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],N
+1149.0,amzzud,gis,[gi-s],[loc:3MS],V
+1150.0,amzzud,jan,[ja-n],[one:M],
+1151.0,amzzud,wmksa,[w-mksa],[SMCS-shepherd],N
+1152.0,amzzud,iksa,[i-ksa],[3MS-pasture:pf],V
+1153.0,amzzud,ulli,[ulli],[sheep:P],N
+1154.0,amzzud,iʁr,[i-ʁr],[3MS-call:pf],V
+1155.0,amzzud,as,[a-s],[dat-3S],
+1156.0,amzzud,wa,[wa],[O you],
+1157.0,amzzud,jamksa,[i-a-mksa],[to-MFSS-shepherd],N
+1158.0,,New_Sentence,New_Sentence,New_Sentence,
+1159.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1160.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1161.0,amzzud,nʕam,[nʕam],[Yes],
+1162.0,,New_Sentence,New_Sentence,New_Sentence,
+1163.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1164.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1165.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+1166.0,amzzud,a,[ad],[AD:Comp],
+1167.0,amzzud,jji,[iji],[dat:1S],
+1168.0,amzzud,tft,[t-f-t],[2S-give:ao],V
+1169.0,amzzud,alqqaʁ,[a-lqqaʁ],[MFSS-sheep],N
+1170.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+1171.0,amzzud,ad,[ad],[AD:Comp],
+1172.0,amzzud,ak,[a-k],[dat-2MS],
+1173.0,amzzud,fʁ,[f-ʁ],[give:ao-1S],V
+1174.0,amzzud,ajjis,[a-jjis],[MFSS-horse],N
+1175.0,amzzud,a,[a-d],[DemDet-Deic:this] ,
+1176.0,,New_Sentence,New_Sentence,New_Sentence,
+1177.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1178.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1179.0,amzzud,zʕma,[zʕma],[maybe],
+1180.0,amzzud,ar,[ar],[AR],
+1181.0,amzzud,gigi,[gig-i],[in:1S],
+1182.0,amzzud,!ttssat,[t-!dssa-t],[2S-despise:Impf],V
+1183.0,,New_Sentence,New_Sentence,New_Sentence,
+1184.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1185.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1186.0,amzzud,u,[u],[and],
+1187.0,amzzud,mn,[mn],[mn],
+1188.0,amzzud,baʕd,[baʕd],[after],
+1189.0,amzzud,tft,[t-ft],[2S-give:ao],V
+1190.0,amzzud,i,[i],[to],
+1191.0,amzzud,jji,[iji],[dat:1S],
+1192.0,amzzud,lksut,[l-ksut],[garment],N
+1193.0,amzzud,lli,[lli],[RelPro],
+1194.0,amzzud,tlsit,[t-ls-i-t],[2S-wear-pfneg-t],V
+1195.0,amzzud,fkʁak,[fk-ʁ-a-k],[give:ao-1S-dat-2S],V
+1196.0,amzzud,nkki,[nkki],[1S:me],N
+1197.0,amzzud,χta,[χ-ta],[DemPronFS:this one],
+1198.0,,New_Sentence,New_Sentence,New_Sentence,
+1199.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1200.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1201.0,amzzud,awddi,[awddi],[Interjection],
+1202.0,amzzud,uhu,[uhu],[no],
+1203.0,amzzud,ur,[ur],[neg],
+1204.0,amzzud,ad,[ad],[AD:Comp],
+1205.0,amzzud,ak,[a-k],[dat-2MS],
+1206.0,amzzud,tt,[tt],[tt],
+1207.0,amzzud,fʁ,[f-ʁ],[give:ao-1S],V
+1208.0,amzzud,izd,[izd],[Interro],
+1209.0,amzzud,zʕma,[zʕma],[maybe],
+1210.0,amzzud,ar,[ar],[AR],
+1211.0,amzzud,gigi,[gig-i],[in:1S],
+1212.0,amzzud,!ttssat,[t-!dssa-t],[2S-despise:Impf],V
+1213.0,,New_Sentence,New_Sentence,New_Sentence,
+1214.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1215.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1216.0,amzzud,u!llah,[u-!llah],[by God],N
+1217.0,amzzud,abla,[abla],[only],
+1218.0,amzzud,lmʕqqul,[l-mʕqqul],[serious],N
+1219.0,amzzud,awa,[awa],[so],
+1220.0,amzzud,hak,[hak],[hak],
+1221.0,amzzud,bʕda,[bʕda],[first],
+1222.0,amzzud,lksutlliʁ,[l-ksu-t-lli-ʁ],[garment-lli-1S],N
+1223.0,amzzud,badln,[badl-n],[exchange:pf-3MP],V
+1224.0,amzzud,lksut,[l-ksut],[garment],N
+1225.0,,New_Sentence,New_Sentence,New_Sentence,
+1226.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1227.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1228.0,amzzud,awa,[awa],[so],
+1229.0,amzzud,hak,[hak],[hak],
+1230.0,amzzud,ajjis,[a-jjis],[MFSS-horse],N
+1231.0,amzzud,ara,[ara],[2S:give:Imper],V
+1232.0,amzzud,alqqaʕ,[a-lqqaʕ],[MFSS-sheep],N
+1233.0,amzzud,!j!amz,[!j-!amz],[3MS-hold:pf],V
+1234.0,amzzud,alqqaʕ,[a-lqqaʕ],[MFSS-sheep],N
+1235.0,,New_Sentence,New_Sentence,New_Sentence,
+1236.0,amzzud,iʁrs,[i-ʁrs],[3MS-call:pf],V
+1237.0,amzzud,as,[a-s],[dat-3S],
+1238.0,amzzud,ig,[i-g],[3MS-be:ao],V
+1239.0,amzzud,tiliwit,[t-iliwi-t],[sheep skin],N
+1240.0,amzzud,ns,[n-s],[of-3S],
+1241.0,amzzud,f,[f],[on],
+1242.0,amzzud,iggi,[iggi],[the side],
+1243.0,amzzud,wgaju,[w-gaju],[SMCS-head],N
+1244.0,amzzud,ns,[n-s],[of-3S],
+1245.0,amzzud,if,[i-f],[3MS-give:pf],V
+1246.0,amzzud,as,[a-s],[dat-3S],
+1247.0,amzzud,!ssgitt,[!ssgitt],meat carcass,N
+1248.0,amzzud,ns,[n-s],[of-3S],
+1249.0,,New_Sentence,New_Sentence,New_Sentence,
+1250.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1251.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1252.0,amzzud,awi,[awi],[bring:Imper:2S],V
+1253.0,amzzud,tt,[tt],[Obj:3S],
+1254.0,amzzud,sul,[sul],[not yet],
+1255.0,amzzud,ikʃm,[i-kʃm],[3MS-come in],V
+1256.0,amzzud,s,[s],[into],
+1257.0,amzzud,lmdint,[l-mdin-t],[the city],N
+1258.0,amzzud,ig,[i-g],[3MS-be:ao],V
+1259.0,amzzud,ugaju,[u-gaju],[SMCS-head],N
+1260.0,amzzud,ns,[n-s],[of-3S],
+1261.0,amzzud,zund,[zund],[a-s],
+1262.0,amzzud,wu,[wu],[wu],
+1263.0,amzzud,!w!mʒʒud,[!w-!mʒʒud],[SMCS-scabby],N
+1264.0,,New_Sentence,New_Sentence,New_Sentence,
+1265.0,amzzud,jizwirnn,[i-i-zwir-nn],[to-3MS-be first-Deic],V
+1266.0,amzzud,s,[s],[by],
+1267.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1268.0,amzzud,ijgzzarn,[i-j-gzzar-n],[of-MPFS-butcher],N
+1269.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1270.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1271.0,amzzud,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],N
+1272.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1273.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1274.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1275.0,amzzud,ʕalajkumssalam,[ʕalajkumssalam],[peace on you],
+1276.0,,New_Sentence,New_Sentence,New_Sentence,
+1277.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1278.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1279.0,amzzud,ur,[ur],[neg],
+1280.0,amzzud,tlli,[t-lli],[3FS-be:pf],V
+1281.0,amzzud,kra,[kra],[some],
+1282.0,amzzud,lχdmt,[l-χdm-t],[job],N
+1283.0,,New_Sentence,New_Sentence,New_Sentence,
+1284.0,amzzud,jalld,[i-all-d],[3MS-pull up:pf-deic],V
+1285.0,amzzud,fllas,[flla-s],[on-3MS],
+1286.0,amzzud,ugzzar,[u-gzzar],[SMCS-butcher],N
+1287.0,amzzud,aln,[aln],[eyes],N
+1288.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1289.0,amzzud,jas,[a-s],[dat-3S],
+1290.0,amzzud,sir,[sir],[go],
+1291.0,amzzud,add,[ad],[AD:Comp],
+1292.0,amzzud,fllak,[fll-a-k],[above-2S],
+1293.0,amzzud,ur,[ur],[neg],
+1294.0,amzzud,isahl,[i-sahl],[3MS-ease:ao],V
+1295.0,amzzud,!rbbi,[!rbbi],[God],N
+1296.0,,New_Sentence,New_Sentence,New_Sentence,
+1297.0,amzzud,izuggz,[i-zuggz],[3MS-use:pf],V
+1298.0,amzzud,ugzzar,[u-gzzar],[SMCS-butcher],N
+1299.0,amzzud,aʃaqqur,[a-ʃaqqur],[MFSS-ax],N
+1300.0,amzzud,ʁikad,[ʁikad],[like this],
+1301.0,amzzud,ibbi,[i-bbi],[3MS-cat:pf],V
+1302.0,amzzud,!adad,[!adad],[finger],N
+1303.0,amzzud,ns,[n-s],[of-3S],
+1304.0,amzzud,ar,[ar],[AR],
+1305.0,amzzud,t,[t],[t],
+1306.0,amzzud,i!ttaj,[i-!ttaj],[3MS-!ttaj],V
+1307.0,amzzud,ilwr,[i-lwr],[3MS-run away],V
+1308.0,amzzud,as,[a-s],[dat:3MS],
+1309.0,,New_Sentence,New_Sentence,New_Sentence,
+1310.0,amzzud,izzigz,[i-zzigz],[3MS-walk:pf],V
+1311.0,amzzud,ilkmnn,[i-lkm-nn],[3MS:arrive:pf-deic],V
+1312.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1313.0,amzzud,ijχrrazn,[i-j-χrraz-n],[of-MPCS-shoemaker],N
+1314.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1315.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1316.0,amzzud,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],N
+1317.0,amzzud,a,[a],[voc],
+1318.0,amzzud,lmʕllm,[l-mʕllm],[master],N
+1319.0,amzzud,lla,[lla],[lla],
+1320.0,amzzud,jʕawn,[i-ʕawn],[3MS-help:ao],V
+1321.0,amzzud,ur,[ur],[neg],
+1322.0,amzzud,tlla,[t-lla],[3FS-be:pf],V
+1323.0,amzzud,kra,[kra],[some],
+1324.0,amzzud,l,[l],[of],
+1325.0,amzzud,lχdmt,[l-χdm-t],[job],N
+1326.0,,New_Sentence,New_Sentence,New_Sentence,
+1327.0,amzzud,igllbd,[i-gllb-d],[3MS-turn-deic],V
+1328.0,amzzud,gis,[gi-s],[loc:3MS],
+1329.0,amzzud,lmʕllm,[l-mʕllm],[master],N
+1330.0,amzzud,aχrraz,[a-χrraz],[MFSS-shoemaker],N
+1331.0,amzzud,ʁikad,[ʁikad],[like this],
+1332.0,amzzud,i!zr,[i-!zr],[3MS-see:pf],V
+1333.0,amzzud,agaju,[a-gaju],[MFSS-head],N
+1334.0,amzzud,ns,[n-s],[of-3S],
+1335.0,amzzud,ishu,[i-shu],[3MS-doze:pf],V
+1336.0,amzzud,iħʃu,[i-ħʃu],[3MS-insert],V
+1337.0,amzzud,ʃʃfi,[ʃʃfi],[awl],
+1338.0,amzzud,ʁ,[ʁ],[in],
+1339.0,amzzud,u!dad,[u-!dad],[SMCS-finger],N
+1340.0,amzzud,ns,[n-s],[of-3S],
+1341.0,amzzud,ar,[ar],[AR],
+1342.0,amzzud,t,[t],[t],
+1343.0,amzzud,i!ttzi,[i-!ttzi],[3MS-!ttzi],V
+1344.0,amzzud,ʁd,[ʁd],[ʁd],
+1345.0,amzzud,ntta,[ntta],[3MS:he],
+1346.0,amzzud,ilwr,[i-lwr],[3MS-run away],V
+1347.0,amzzud,ilkmnn,[i-lkm-nn],[3MS-arrive:pf-deic],V
+1348.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1349.0,amzzud,ijħʒʒamn,[i-j-ħʒʒam-n],[of-MPCS-hairdresser],
+1350.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1351.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1352.0,amzzud,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],N
+1353.0,,New_Sentence,New_Sentence,New_Sentence,
+1354.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1355.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1356.0,amzzud,ssalamuraħmatu!llah,[ssalamuraħmatu!llah],[peace on you],N
+1357.0,,New_Sentence,New_Sentence,New_Sentence,
+1358.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1359.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1360.0,amzzud,ur,[ur],[neg],
+1361.0,amzzud,tlli,[t-lli],[3FS-be:pf],V
+1362.0,amzzud,kra,[kra],[some],
+1363.0,amzzud,l,[l],[of],
+1364.0,amzzud,lχdmt,[l-χdm-t],[job],N
+1365.0,,New_Sentence,New_Sentence,New_Sentence,
+1366.0,amzzud,jalld,[i-all-d],[3MS-pull up:pf-deic],V
+1367.0,amzzud,gis,[gi-s],[loc:3MS],
+1368.0,amzzud,aln,[aln],[eyes],N
+1369.0,amzzud,sajlliʁ,[s-ajlliʁ],[s-ajlliʁ],
+1370.0,amzzud,ibbi,[i-bbi],[3MS-cat:pf],V
+1371.0,amzzud,!rrami,[!rrami],[shooter],N
+1372.0,amzzud,lli,[lli],[RelPro],
+1373.0,amzzud,mu,[mu],[3MSm],
+1374.0,amzzud,jttkks,[i-tt-kks],[3MS-pron-take off:ao],V
+1375.0,amzzud,azzar,[a-zzar],[MFSS-hair],N
+1376.0,amzzud,iflnn,[i-fl-nn],[3MS-run away:pf-deic],V
+1377.0,amzzud,kullu,[kullu],[all],
+1378.0,amzzud,rrwina,[rrwina],[disorder],N
+1379.0,amzzud,ʁ,[ʁ],[into],
+1380.0,amzzud,lmdint,[l-mdin-t],[the city],N
+1381.0,amzzud,ibalak,[i-balak],[3MS-clear:pf],V
+1382.0,amzzud,ilwr,[i-lwr],[3MS-run away],V
+1383.0,,New_Sentence,New_Sentence,New_Sentence,
+1384.0,amzzud,ilkmd,[i-lkm-d],[3MS-arrive:pf-deic],V
+1385.0,amzzud,dar,[dar],[to],
+1386.0,amzzud,lmakan,[l-makan],[location],N
+1387.0,amzzud,ijʃfnaʒin,[i-j-ʃfnaʒ-in],[of-MPCS-Manufacturer beignet],
+1388.0,amzzud,dar,[dar],[to],
+1389.0,amzzud,jan,[ja-n],[one:M],
+1390.0,amzzud,ar,[ar],[AR],
+1391.0,amzzud,ittħaj,[i-ttħaj],[3MS-push:Impf],V
+1392.0,amzzud,kilu,[kilu],[kilogram],N
+1393.0,amzzud,wggurn,[w-ggurn],[SMCS-flour],N
+1394.0,amzzud,i,[i],[i],
+1395.0,amzzud,wass,[w-ass],[SMCS-day],N
+1396.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1397.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1398.0,amzzud,awddi,[awddi],[Interjection],
+1399.0,amzzud,is,[is],[Interro],
+1400.0,amzzud,ur,[ur],[neg],
+1401.0,amzzud,tlli,[t-lli],[3FS-be:pf],V
+1402.0,amzzud,kra,[kra],[some],
+1403.0,amzzud,l,[l],[of],
+1404.0,amzzud,lχdmt,[l-χdm-t],[job],N
+1405.0,,New_Sentence,New_Sentence,New_Sentence,
+1406.0,amzzud,inna,[i-nna],[3MP-say:pf],V
+1407.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1408.0,amzzud,awddi,[awddi],[Interjection],
+1409.0,amzzud,maʁ,[maʁ],[maʁ],
+1410.0,amzzud,jad,[jad],[this],
+1411.0,amzzud,χdmʁ,[χdm-ʁ],[work:pf-1S],V
+1412.0,amzzud,nkki,[nkki],[1S:me],N
+1413.0,amzzud,ag,[ad],[AD:Comp],
+1414.0,amzzud,gis,[gi-s],[loc:3MS],
+1415.0,amzzud,tχdmt,[t-χdm-t],[2S-work:pf],V
+1416.0,amzzud,kijji,[kijji],[2MS],
+1417.0,,New_Sentence,New_Sentence,New_Sentence,
+1418.0,amzzud,kilu,[kilu],[one kilogram],
+1419.0,amzzud,wggurn,[w-ggurn],[SMCS-flour],N
+1420.0,amzzud,a,[ad],[AD:Comp],
+1421.0,amzzud,ttħajʁ,[ttħaj-ʁ],[push:Impf-1S],V
+1422.0,amzzud,i,[i],[i],
+1423.0,amzzud,wass,[w-ass],[SMCS-day],N
+1424.0,,New_Sentence,New_Sentence,New_Sentence,
+1425.0,amzzud,mara,[mara],[what ra],
+1426.0,amzzud,jji,[iji],[dat:1S],
+1427.0,amzzud,tskart,[t-skar-t],[2S:do:ao],V
+1428.0,,New_Sentence,New_Sentence,New_Sentence,
+1429.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1430.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1431.0,amzzud,a,[ad],[AD:Comp],
+1432.0,amzzud,jak,[i-a-k],[to-dat-2MS],
+1433.0,amzzud,nn,[nn],[nn],
+1434.0,amzzud,ka,[ka],[ka],
+1435.0,amzzud,ttħajʁ,[ttħaj-ʁ],[push:Impf-1S],V
+1436.0,amzzud,i!kʃʃudn,[i-!kʃʃud-n],[MPFS-firewood],N
+1437.0,,New_Sentence,New_Sentence,New_Sentence,
+1438.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1439.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1440.0,amzzud,ur,[ur],[neg],
+1441.0,amzzud,a,[a],[voc],
+1442.0,amzzud,wlidi,[wlidi],[my son],N
+1443.0,amzzud,dari,[dar-i],[to-1S:me],
+1444.0,amzzud,mat,[mat],[what],
+1445.0,amzzud,tskart,[t-skar-t],[2S:do:ao],V
+1446.0,,New_Sentence,New_Sentence,New_Sentence,
+1447.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1448.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1449.0,amzzud,skr,[skr],[2S:do:Imper],V
+1450.0,amzzud,jat,[ja-t],[one:F],
+1451.0,amzzud,lmasala,[l-masala],[the issue],N
+1452.0,amzzud,kilu,[kilu],[kilogram],N
+1453.0,amzzud,wggurn,[w-ggurn],[SMCS-flour],N
+1454.0,amzzud,nna,[nna],[RelPro],
+1455.0,amzzud,ttħit,[ttħi-t],[push:pf-2S],V
+1456.0,amzzud,tft,[t-f-t],[2S-give:ao],V
+1457.0,amzzud,i,[i],[to],
+1458.0,amzzud,jji,[iji],[dat:1S],
+1459.0,amzzud,gis,[gi-s],[loc:3MS],
+1460.0,amzzud,taʃʃfnʒt,[ta-ʃʃfnʒ-t],[F-beignet],N
+1461.0,,New_Sentence,New_Sentence,New_Sentence,
+1462.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1463.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1464.0,amzzud,waχχa,[waχχa],[even if],
+1465.0,,New_Sentence,New_Sentence,New_Sentence,
+1466.0,amzzud,iχdm,[i-χdm],[3MS-work:Impf],V
+1467.0,amzzud,ilmma,[ilmma],[once again],
+1468.0,amzzud,dar,[dar],[to],
+1469.0,amzzud,uʃfnaʒilli,[u-ʃfnaʒ-i-lli],[SMCS-Manufacturer beignet-RelPro] ,N
+1470.0,amzzud,ittħi,[i-ttħi],[3MS-push:pf],V
+1471.0,amzzud,ʁassann,[ʁ-ass-a-nn],[in-day-dem-deic],N
+1472.0,amzzud,sul,[sul],[not yet],
+1473.0,amzzud,ʒuʒ,[ʒuʒ],[two],
+1474.0,amzzud,kilu,[kilu],[kilogram],N
+1475.0,amzzud,wggurn,[w-ggurn],[SMCS-flour],N
+1476.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+1477.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+1478.0,amzzud,ittħi,[i-ttħi],[3MS-push:pf],V
+1479.0,amzzud,rbʕa,[rbʕa],[four],
+1480.0,amzzud,kilu,[kilu],[kilogram],N
+1481.0,,New_Sentence,New_Sentence,New_Sentence,
+1482.0,amzzud,aʃfnaʒi,[a-ʃfnaʒ-i],[MFSS-Manufacturer beignet],N
+1483.0,amzzud,ar,[ar],[AR],
+1484.0,amzzud,jaqqwlaj,[i-aqqwlaj],[3MS-fry:Impf],V
+1485.0,amzzud,ar,[ar],[AR],
+1486.0,amzzud,izznza,[i-ss-nz-a],[3MS-caus-sell:Impf],V
+1487.0,amzzud,ar,[ar],[AR],
+1488.0,amzzud,issaʁ,[i-ss-aʁ],[3MS-caus-buy:Impf],V
+1489.0,amzzud,ig,[i-g],[3MS-be:ao],V
+1490.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1491.0,amzzud,kullu,[kullu],[all],
+1492.0,amzzud,ijʃfnaʒin,[i-j-ʃfnaʒ-in],[of-MPCS-manufacturer beignet],
+1493.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1494.0,amzzud,ara,[ara],[2S:give:Imper],V
+1495.0,amzzud,kid,[k-id],[k-id],
+1496.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+1497.0,amzzud,anʃawi,[anʃawi],[canabis smoker],N
+1498.0,amzzud,ntta,[ntta],[3MS:he],
+1499.0,amzzud,ma,[ma],[what],
+1500.0,amzzud,jskar,[i-skar],[3MS-do:ao],V
+1501.0,amzzud,d,[d],[from],
+1502.0,amzzud,i!jjid,[i-!jji-d],[MFSS-night],N
+1503.0,amzzud,ar,[ar],[AR],
+1504.0,amzzud,d,[d],[to],
+1505.0,amzzud,i!jjid,[i-!jji-d],[MFSS-night],N
+1506.0,amzzud,ti!frχin,[ti-!frχ-in],[FPFS-girls],N
+1507.0,amzzud,ar,[ar],[AR],
+1508.0,amzzud,d,[d],[deic],
+1509.0,amzzud,ttaʃkant,[tt-aʃka-nt],[3FP-come in:Impf-3FP],V
+1510.0,amzzud,s,[s],[to],
+1511.0,amzzud,l!qsart,[l-!qsart],[a party],N
+1512.0,amzzud,s,[s],[by],
+1513.0,amzzud,lχatm,[l-χatm],[ring],N
+1514.0,amzzud,i!qqsr,[i-!qqsr],[3MS-!qqsr],V
+1515.0,amzzud,f,[f],[f],
+1516.0,amzzud,ugaju,[u-gaju],[SMCS-head],N
+1517.0,amzzud,ns,[n-s],[of-3S],
+1518.0,amzzud,ar,[ar],[AR],
+1519.0,amzzud,zikk,[zikk],[early],
+1520.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+1521.0,,New_Sentence,New_Sentence,New_Sentence,
+1522.0,amzzud,ar,[ar],[AR],
+1523.0,amzzud,jan,[ja-n],[one:M],
+1524.0,amzzud,wass,[w-ass],[SMCS-day],N
+1525.0,amzzud,jaʃkd,[i-aʃk-d],[3MS-come:ao-deic],V
+1526.0,amzzud,srs,[sr-s],[to-3S],
+1527.0,amzzud,uʕssas,[u-ʕssas],[SMCS-guard],N
+1528.0,amzzud,izdi,[i-zdi],[3MS-tie:pf],V
+1529.0,amzzud,t,[t],[t],
+1530.0,amzzud,tggurt,[tggurt],[door],N
+1531.0,amzzud,ar,[ar],[AR],
+1532.0,amzzud,isħssa,[i-sħssa],[3MS-listen to:pf],V
+1533.0,amzzud,i,[i],[i],
+1534.0,amzzud,nnqt,[nnqt],[notes],
+1535.0,amzzud,d,[d],[d],
+1536.0,amzzud,l!utar,[l-!utar],[the-lute],N
+1537.0,amzzud,lliʁ,[lliʁ],[RelPro],
+1538.0,amzzud,as,[a-s],[dat:3MS],
+1539.0,amzzud,ittfaqq,[i-ttfaqq],[3MS-realize:pf],V
+1540.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+1541.0,amzzud,iskrd,[i-skr-d],[3MS-do:pf-deic],V
+1542.0,amzzud,i,[i],[i],
+1543.0,amzzud,wʕssas,[w-ʕssas],[SMCS-guard],N
+1544.0,amzzud,izd,[izd],[Interro],
+1545.0,amzzud,imχχarn,[i-mχχar-n],[MPFS-thief],N
+1546.0,amzzud,art,[art],[ard],
+1547.0,amzzud,takwrn,[t-akwr-n],[rob:Impf-3MP],V
+1548.0,amzzud,ja,[ja],[ja],
+1549.0,amzzud,llhri,[ll-hri],[the store],N
+1550.0,amzzud,jiri,[i-iri],[3MS-want:ao],V
+1551.0,amzzud,a,[ad],[AD:Comp],
+1552.0,amzzud,jazzl,[i-azzl],[3MS-run:ao],V
+1553.0,amzzud,iggammi,[i-ggammi],[3MS-ggammi],V
+1554.0,amzzud,a,[ad],[AD:Comp],
+1555.0,amzzud,!jbdu,[!j-bdu],[3MS-fail:ao],V
+1556.0,amzzud,d,[d],[d],
+1557.0,amzzud,taggurt,[t-aggur-t],[door],N
+1558.0,amzzud,ig,[i-g],[3MS-be:ao],V
+1559.0,amzzud,taʁwijit,[ta-ʁwiji-t],[FFSS-shout],N
+1560.0,amzzud,jiliħ,[i-i-liħ],[3MS-be missing:ao],V
+1561.0,amzzud,as,[a-s],[dat-3S],
+1562.0,amzzud,ma,[ma],[what],
+1563.0,amzzud,jskar,[i-skar],[3MS-do:ao],V
+1564.0,amzzud,iffaʁd,[i-ffaʁ-d],[3MS-go out:ao-d],V
+1565.0,amzzud,srs,[sr-s],[to-3S],
+1566.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+1567.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1568.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1569.0,amzzud,ma,[ma],[what],
+1570.0,amzzud,jga,[i-ga],[3MS-be:pf],V
+1571.0,amzzud,ʁajann,[ʁ-aja-nn],[DemPro-Deic:this],
+1572.0,amzzud,manid,[manid],[when],
+1573.0,amzzud,tkkit,[t-kki-t],[2S-pass:pf],V
+1574.0,amzzud,s,[s],[from],
+1575.0,amzzud,ʁi,[ʁi],[deic],
+1576.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1577.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1578.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1579.0,amzzud,awddi,[awddi],[Interjection],
+1580.0,amzzud,tmkkn,[t-mkkn],[3FS-fix],V
+1581.0,amzzud,i,[i],[to],
+1582.0,amzzud,jji,[iji],[dat:1S],
+1583.0,amzzud,taggurt,[t-aggur-t],[door-deic],N
+1584.0,amzzud,a,[a-d],[DemDet-Deic:this] ,
+1585.0,amzzud,imχχarn,[i-mχχar-n],[MPFS-thief],N
+1586.0,amzzud,ʃʃan,[ʃʃa-n],[eat:pf-3MP],V
+1587.0,amzzud,kullu,[kullu],[all],
+1588.0,amzzud,ddrb,[ddrb],[street],N
+1589.0,amzzud,ad,[ad],[AD:Comp],
+1590.0,amzzud,n,[n],[n],
+1591.0,amzzud,tsga,[t-sga],[FSCS-side],N
+1592.0,amzzud,ja,[a-d],[DemDet-Deic:this] ,
+1593.0,,New_Sentence,New_Sentence,New_Sentence,
+1594.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1595.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1596.0,amzzud,ma,[ma],[what],
+1597.0,amzzud,kkid,[kk-id],[kk-id],
+1598.0,amzzud,za,[za],[za],
+1599.0,amzzud,jadlli,[jadlli],[anyway],
+1600.0,amzzud,jiwin,[i-iwi-n],[to-3MS:bring-partic],V
+1601.0,amzzud,at,[ad],[AD:Comp],
+1602.0,amzzud,tsħssut,[t-sħssu-t],[2MS-listen discreetly:ao],V
+1603.0,,New_Sentence,New_Sentence,New_Sentence,
+1604.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1605.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1606.0,amzzud,awddi,[awddi],[Interjection],
+1607.0,amzzud,ʁar,[ʁar],[ʁar],
+1608.0,amzzud,ssfldʁ,[ssfld-ʁ],[listen:pf-1S],V
+1609.0,amzzud,dark,[dar-k],[to-2S:you],
+1610.0,amzzud,i,[i],[to],
+1611.0,amzzud,kra,[kra],[some],
+1612.0,amzzud,n,[n],[of],
+1613.0,amzzud,nnqt,[nnqt],[notes],
+1614.0,amzzud,iʕʒb,[i-ʕʒb],[3MS-like:pf],V
+1615.0,amzzud,i,[i],[to],
+1616.0,amzzud,jji,[iji],[dat:1S],
+1617.0,,New_Sentence,New_Sentence,New_Sentence,
+1618.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1619.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1620.0,amzzud,wah,[wah],[wah],
+1621.0,amzzud,ukan,[ukan],[just],
+1622.0,amzzud,ar,[ar],[AR],
+1623.0,amzzud,tssflitt,[t-ssflit-t],[2S-listen:Impf],V
+1624.0,amzzud,i,[i],[to],
+1625.0,amzzud,middn,[middn],[people],N
+1626.0,amzzud,ur,[ur],[neg],
+1627.0,amzzud,tħʃʃimt,[t-ħʃʃim-t],[2S-be ashamed:pf],V
+1628.0,,New_Sentence,New_Sentence,New_Sentence,
+1629.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+1630.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1631.0,amzzud,i,[i],[i],
+1632.0,amzzud,!rbbi,[!rbbi],[God],N
+1633.0,amzzud,awddi,[awddi],[Interjection],
+1634.0,amzzud,aʁar,[aʁar],[just],
+1635.0,amzzud,skr,[skr],[2S:do:Imper],V
+1636.0,amzzud,i,[i],[to],
+1637.0,amzzud,jji,[iji],[dat:1S],
+1638.0,amzzud,kra,[kra],[some],
+1639.0,amzzud,llħjlt,[ll-ħjlt],[cunning],N
+1640.0,amzzud,umma,[umma],[whereas],
+1641.0,amzzud,u!llah,[u-!llah],[by God],N
+1642.0,amzzud,ur,[ur],[neg],
+1643.0,amzzud,sul,[sul],[not yet],
+1644.0,amzzud,tkkit,[t-kki-t],[2S-pass:pf],V
+1645.0,amzzud,ħtta,[ħtta],[even if],
+1646.0,amzzud,ddrb,[ddrb],[street],N
+1647.0,amzzud,a,[a-d],[DemDet-Deic:this] ,
+1648.0,,New_Sentence,New_Sentence,New_Sentence,
+1649.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1650.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1651.0,amzzud,awa,[awa],[so],
+1652.0,amzzud,brraʁ,[brra-ʁ],[prevent:ao-1S],V
+1653.0,amzzud,k,[k],[Obj:2S],
+1654.0,amzzud,hann,[hann],[presentative],
+1655.0,amzzud,ħtta,[ħtta],[even if],
+1656.0,amzzud,tiħuna,[ti-ħun-a],[FPFS-shope],N
+1657.0,amzzud,ur,[ur],[neg],
+1658.0,amzzud,ttʃint,[tt-ʃi-nt],[3P-eat:pf-3FP],V
+1659.0,amzzud,walajnni,[walajnni],[but],
+1660.0,amzzud,iʁ,[iʁ],[if],
+1661.0,amzzud,sul,[sul],[not yet],
+1662.0,amzzud,tkkit,[t-kki-t],[2S-pass:pf],V
+1663.0,amzzud,ddrb,[ddrb],[street],N
+1664.0,amzzud,a,[a-d],[DemDet-Deic:this] ,
+1665.0,amzzud,ddnub,[ddnub],[a sin],N
+1666.0,amzzud,nk,[n-k],[of-2MS],
+1667.0,amzzud,f,[f],[f],
+1668.0,amzzud,iχf,[iχf],[head],N
+1669.0,amzzud,nk,[n-k],[of-2MS],
+1670.0,amzzud,ula,[ula],[or],
+1671.0,amzzud,iʁ,[iʁ],[if],
+1672.0,amzzud,t,[t],[t],
+1673.0,amzzud,tnnit,[t-nni-t],[2S-tell:pf],V
+1674.0,amzzud,ikra,[i-kra],[dat-kra],
+1675.0,amzzud,llχlq,[ll-χlq],[the creation],N
+1676.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1677.0,amzzud,ibalak,[i-balak],[3MS-clear:pf],V
+1678.0,amzzud,uʕssaslli,[u-ʕssas-lli],[SMCS-guard-RelPro] ,N
+1679.0,amzzud,itthnna,[i-tthnna],[3MS-reassure:pf],V
+1680.0,amzzud,ʁ,[ʁ],[in],
+1681.0,amzzud,kullu,[kullu],[all],
+1682.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+1683.0,amzzud,ddrb,[ddrb],[street],N
+1684.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1685.0,amzzud,ara,[ara],[2S:give:Imper],V
+1686.0,amzzud,kid,[kid],[kid],
+1687.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+1688.0,amzzud,ma,[ma],[what],
+1689.0,amzzud,jskar,[i-skar],[3MS-do:ao],V
+1690.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1691.0,amzzud,ar,[ar],[AR],
+1692.0,amzzud,d,[d],[d],
+1693.0,amzzud,ittmurri,[i-tt-m-urri],[3MS-pron-return:pf],V
+1694.0,amzzud,ʁ,[ʁ],[in],
+1695.0,amzzud,l!qqsr,[l-!qqsr],[the palace],N
+1696.0,amzzud,uwgllid,[uw-gllid],[SMCS-the king],N
+1697.0,amzzud,agllid,[a-gllid],[MFSS-the king],N
+1698.0,amzzud,ntta,[ntta],[3MS:he],
+1699.0,amzzud,i!ttaf,[i-!ttaf],[3MS-!ttaf],V
+1700.0,amzzud,sat,[sat],[sat],
+1701.0,amzzud,istis,[i-sti-s],[P:daughter-poss:3S],N
+1702.0,amzzud,aʁar,[aʁar],[just],
+1703.0,amzzud,ti!frχin,[ti-!frχ-in],[FPFS:girls],N
+1704.0,amzzud,ur,[ur],[neg],
+1705.0,amzzud,i!ttif,[i-!ttif],[3MS-!ttif],V
+1706.0,amzzud,afruχ,[a-fruχ],[MFSS:boy],N
+1707.0,amzzud,χtalli,[χ-ta-lli],[DemPronFS:this one-RelRep],
+1708.0,amzzud,gisnt,[gi-s-nt],[loc:3FP],
+1709.0,amzzud,i!mzzin,[i-!mzzi-n],[3MS-be small-partic],V
+1710.0,amzzud,ifa,[i-fa],[3MS-give:pf],V
+1711.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1712.0,amzzud,!rbbi,[!rbbi],[God],N
+1713.0,amzzud,!nnor,[!nnor],[the light],N
+1714.0,amzzud,d,[d],[d],
+1715.0,amzzud,zzin,[zzin],[beauty],N
+1716.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+1717.0,amzzud,lah,[lah],[lah],
+1718.0,amzzud,maʁ,[maʁ],[maʁ],
+1719.0,amzzud,a,[ad],[AD:Comp],
+1720.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1721.0,amzzud,ittgga,[i-tt-gga],[3MS-tt-do:Impf],V
+1722.0,amzzud,!nnor,[!nnor],[the light],N
+1723.0,amzzud,iskr,[i-skr],[3MS-do:pf],V
+1724.0,amzzud,as,[a-s],[dat3S],
+1725.0,amzzud,l!qqsr,[l-!qqsr],[the palace],N
+1726.0,amzzud,ns,[n-s],[of-3S],
+1727.0,amzzud,waħdat,[waħdat],[alone],
+1728.0,amzzud,ilin,[i-li-n],[i-li-n],
+1729.0,amzzud,gis,[gi-s],[loc:3MS],
+1730.0,amzzud,ismgan,[i-smga-n],[3MS-smga-n],V
+1731.0,amzzud,ns,[n-s],[of-3S],
+1732.0,amzzud,labbisin,[labbisin],[ the swimming pool],N
+1733.0,amzzud,ns,[n-s],[of-3S],
+1734.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1735.0,amzzud,d,[d],[d],
+1736.0,amzzud,kulʃi,[kulʃi],[everything],
+1737.0,amzzud,ns,[n-s],[of-3S],
+1738.0,amzzud,ar,[ar],[AR],
+1739.0,amzzud,ikʃʃm,[i-kʃʃm],[3MS-come in:Impf],V
+1740.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+1741.0,amzzud,ur,[ur],[neg],
+1742.0,amzzud,t,[t],[Obj:3S],
+1743.0,amzzud,i!zri,[i-!zri],[3MS-see:pf],V
+1744.0,amzzud,ħtta,[ħtta],[even if],
+1745.0,amzzud,jan,[ja-n],[someone],
+1746.0,amzzud,arkiʁ,[arkiʁ],[until],
+1747.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+1748.0,amzzud,labbisin,[labbisin],[ the swimming pool],N
+1749.0,amzzud,i,[i],[i],
+1750.0,amzzud,jllis,[illi-s],[daughter-poss:3S],N
+1751.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+1752.0,amzzud,ikks,[i-kks],[3MS-take off:pf],V
+1753.0,amzzud,lħwajʒ,[l-ħwajʒ],[clothes],N
+1754.0,amzzud,isrs,[i-srs],[3MS-put:pf],V
+1755.0,amzzud,tn,[tn],[Obj:3MP],
+1756.0,amzzud,iħijd,[i-ħijd],[3MS-take off:pf],V
+1757.0,amzzud,f,[f],[from],
+1758.0,amzzud,ugaju,[u-gaju],[SMCS-head],N
+1759.0,amzzud,ns,[n-s],[of-3S],
+1760.0,amzzud,tiliwit,[t-iliwi-t],[FFSS-sheep skin],N
+1761.0,amzzud,lli,[lli],[RelPro],
+1762.0,amzzud,ar,[ar],[AR],
+1763.0,amzzud,i!ttar,[i-!ttar],[3MS-!ttar],V
+1764.0,amzzud,wazzar,[w-azzar],[SMCS-hair],N
+1765.0,amzzud,lli,[lli],[RelPro],
+1766.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1767.0,amzzud,ifa,[i-fa],[3MS-give:pf],V
+1768.0,amzzud,sidi,[sidi],[my lord],N
+1769.0,amzzud,!rbbi,[!rbbi],[God],N
+1770.0,amzzud,ar,[ar],[AR],
+1771.0,amzzud,tinn,[t-inn],[t-inn],
+1772.0,amzzud,ikkat,[i-kkat],[3MS-play:Impf],V
+1773.0,amzzud,ʁ,[ʁ],[on],
+1774.0,amzzud,tadawt,[ta-daw-t],[FSFS-back],
+1775.0,amzzud,argaz,[a-rgaz],[MFSS-man],N
+1776.0,amzzud,lksut,[l-ksut],[garment],N
+1777.0,amzzud,bʕda,[bʕda],[first],
+1778.0,amzzud,jlsa,[i-lsa],[3MS-dress:pf],V
+1779.0,amzzud,aʁar,[aʁar],[just],
+1780.0,amzzud,χtalli,[χ-ta-lli],[DemPronFS:this one-RelRep],
+1781.0,amzzud,wmksa,[w-mksa],[shepherd],N
+1782.0,amzzud,ar,[ar],[AR],
+1783.0,amzzud,ittʕum,[i-tt-ʕum],[3MS-tt-bathe:Impf],V
+1784.0,amzzud,arkiʁ,[arkiʁ],[until],
+1785.0,amzzud,t,[t],[t],
+1786.0,amzzud,igwda,[i-gwda],[3MS-have enough],V
+1787.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+1788.0,amzzud,ibalak,[i-balak],[3MS-clear:pf],V
+1789.0,amzzud,jawid,[i-awi-d],[3MS-bring:ao],V
+1790.0,amzzud,!rbbi,[!rbbi],[God],N
+1791.0,amzzud,illis,[illi-s],[daughter-poss:3S],
+1792.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+1793.0,amzzud,ur,[ur],[neg],
+1794.0,amzzud,fllas,[flla-s],[on-3MS],
+1795.0,amzzud,i!ħdi,[i-!ħdi],[3MS-!ħdi],V
+1796.0,amzzud,ar,[ar],[AR],
+1797.0,amzzud,tid,[t-id],[Obj-deic],
+1798.0,amzzud,t!zrra,[t-!zrra],[3FS-see:Impf],V
+1799.0,amzzud,aslli,[as-lli],[day-RelPro] ,N
+1800.0,amzzud,izwarn,[i-zwar-n],[which-be first-partic],V
+1801.0,amzzud,t!zra,[t-!zra],[3FS-see:pf],V
+1802.0,amzzud,tiliwit,[ti-liwi-t],[bowel],N
+1803.0,amzzud,ns,[n-s],[of-3S],
+1804.0,amzzud,d,[d],[and],
+1805.0,amzzud,lksut,[l-ksut],[garment],N
+1806.0,amzzud,uwmksa,[uw-mksa],[of SMCS-grazer],N
+1807.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+1808.0,amzzud,tn,[t-n],[tn],
+1809.0,amzzud,ikks,[i-kks],[3MS-take off:pf],V
+1810.0,amzzud,t!zr,[t-!zr],[2FS-see:pf],V
+1811.0,amzzud,azzarlli,[a-zzar-lli],[MFSS-hair-RelPro] ,N
+1812.0,amzzud,tqqzz,[t-qqzz],[3FS-look:pf],V
+1813.0,amzzud,gis,[gi-s],[loc:3MS],
+1814.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+1815.0,amzzud,nn,[nn],[deic],
+1816.0,amzzud,i!dr,[i-!dr],[3MS-go down:pf],V
+1817.0,amzzud,ʁ,[ʁ],[to],
+1818.0,amzzud,labbisin,[labbisin],[the swimming pool],N
+1819.0,amzzud,iʁwlid,[i-ʁwli-d],[3MS-go up:ao-deic],V
+1820.0,amzzud,ils,[i-ls],[3MS-wear],V
+1821.0,amzzud,lħwajʒ,[l-ħwajʒ],[clothes],N
+1822.0,amzzud,ns,[n-s],[of-3S],
+1823.0,amzzud,iffʁ,[i-ffʁ],[3MS-go out:pf],V
+1824.0,amzzud,tstabʕ,[t-stabʕ],[2FS-dispatch:pf],V
+1825.0,amzzud,as,[a-s],[dat-3S],
+1826.0,amzzud,tawajja,[tawajja],[slave],N
+1827.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+1828.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1829.0,amzzud,tabʕa,[tabʕa],[follow:Imper:3MP],V
+1830.0,amzzud,t,[t],[Obj:3MS],
+1831.0,amzzud,arkiʁ,[arkiʁ],[until],
+1832.0,amzzud,t!zrit,[t-!zri-t],[2S-see:pf],V
+1833.0,amzzud,maniʁ,[maniʁ],[where],
+1834.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+1835.0,amzzud,tabʕa,[tabʕa],[follow:Imper:3MP],V
+1836.0,amzzud,tid,[t-id],[Obj:3MS-deic],
+1837.0,amzzud,twajja,[twajja],[slave],N
+1838.0,amzzud,ar,[ar],[AR],
+1839.0,amzzud,dar,[dar],[to],
+1840.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+1841.0,amzzud,igiwr,[i-giwr],[3MS-sit down:pf],V
+1842.0,amzzud,dar,[dar],[to],
+1843.0,amzzud,iʁd,[iʁd],[if],
+1844.0,amzzud,ar,[ar],[AR],
+1845.0,amzzud,nn,[nn],[nn],
+1846.0,amzzud,ittħi,[i-ttħi],[3MS-push:pf],V
+1847.0,amzzud,ikʃʃudn,[i-kʃʃud-n],[MPFS-logs],
+1848.0,amzzud,turrinn,[t-urri-nn],[3FS-return:pf-deic],V
+1849.0,amzzud,twajja,[twajja],[slave],N
+1850.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+1851.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1852.0,amzzud,a,[a],[voc],
+1853.0,amzzud,lalla,[lalla],[lalla],
+1854.0,amzzud,a!mʒʒudlli,[a-!mʒʒud-lli],[MFSS-scabby-RelPro] ,N
+1855.0,amzzud,iχdm,[i-χdm],[3MS-work:Impf],V
+1856.0,amzzud,dar,[dar],[to],
+1857.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1858.0,amzzud,ijʃfnaʒin,[i-j-ʃfnaʒ-in],[of-MPCS-manufacturer beignet],
+1859.0,amzzud,ar,[ar],[AR],
+1860.0,amzzud,as,[a-s],[dat:3MS],
+1861.0,amzzud,nn,[nn],[nn],
+1862.0,amzzud,ittħaj,[i-ttħaj],[3MS-push:Impf],V
+1863.0,amzzud,ikʃʃudn,[i-kʃʃud-n],[MPFS-logs],
+1864.0,amzzud,tini,[t-ini],[3FS-say:ao],V
+1865.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1866.0,amzzud,hak,[hak],[hak],
+1867.0,amzzud,awi,[awi],[take:Imper-2S],V
+1868.0,amzzud,lmarka,[l-marka],[the type],N
+1869.0,amzzud,ja,[ja],[ja],
+1870.0,amzzud,ʁ,[ʁ],[for],
+1871.0,amzzud,lħlwa,[l-ħlwa],[the candy],N
+1872.0,amzzud,i,[i],[i],
+1873.0,amzzud,wʃfnaʒinna,[w-ʃfnaʒ-i-nna],[SMCS-Manufacturer beignet-deic],N
+1874.0,amzzud,tinit,[t-ini-t],[2FS-say:ao],V
+1875.0,amzzud,as,[a-s],[dat-3S],
+1876.0,amzzud,astt,[as-tt],[as-tt],
+1877.0,amzzud,id,[id],[id],
+1878.0,amzzud,iskr,[i-skr],[3MS-do:pf],V
+1879.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1880.0,amzzud,tlkmnn,[t-lkm-nn],[3FS-arrive:pf-deic],V
+1881.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+1882.0,amzzud,ijʃfnaʒin,[i-j-ʃfnaʒ-in],[of-MPCS-manufaturer beignet],
+1883.0,amzzud,tzzigznn,[t-zzigz-nn],[3FS-run through:pf-deic],V
+1884.0,amzzud,srs,[sr-s],[to 3S],
+1885.0,amzzud,ʕla,[ʕla],[in the],
+1886.0,amzzud,!ssbaħ,[!ssbaħ],[morning],N
+1887.0,amzzud,tskr,[t-skr],[3FS-do:pf],V
+1888.0,amzzud,dirikt,[dirikt],[straight],
+1889.0,amzzud,dars,[dar-s],[to-3S],
+1890.0,amzzud,ur,[ur],[neg],
+1891.0,amzzud,tu!miz,[t-u-!miz],[3FS-hold:pf],V
+1892.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+1893.0,amzzud,tffaʁ,[t-ffaʁ],[3FS-be out:pf],V
+1894.0,amzzud,lqanun,[l-qanun],[the law],N
+1895.0,amzzud,aʃku,[aʃku],[because],
+1896.0,amzzud,tga,[t-ga],[3FS-be:pf],V
+1897.0,amzzud,tawajja,[tawajja],[slave],N
+1898.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+1899.0,,New_Sentence,New_Sentence,New_Sentence,
+1900.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+1901.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1902.0,amzzud,a,[a],[voc],
+1903.0,amzzud,sidi,[sidi],[my lord],N
+1904.0,amzzud,tna,[t-na],[t-na],
+1905.0,amzzud,jak,[i-a-k],[to-dat-2MS],
+1906.0,amzzud,lalla,[lalla],[lalla],
+1907.0,amzzud,skrijjid,[skr-i-jji-d],[2S:do:ao-to-1S-deic],V
+1908.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+1909.0,amzzud,zund,[zund],[a-s],
+1910.0,amzzud,igllb,[i-gllb],[3MS-turn],V
+1911.0,amzzud,fllas,[flla-s],[on-3MS],
+1912.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+1913.0,amzzud,jutstt,[i-ut-stt],[3MS-hit:pf-stt],V
+1914.0,amzzud,s,[s],[with],
+1915.0,amzzud,ja,[ja],[one:M],
+1916.0,amzzud,wbariq,[w-bariq],[SMCS-slap],N
+1917.0,amzzud,turri,[t-urri],[3FS-return:pf],V
+1918.0,amzzud,d,[d],[d],
+1919.0,amzzud,ar,[ar],[AR],
+1920.0,amzzud,talla,[t-alla],[3FS-cry:pf],V
+1921.0,amzzud,ig,[i-g],[3MS-be:ao],V
+1922.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+1923.0,amzzud,taʁwijit,[ta-ʁwiji-t],[FFSS-shout],N
+1924.0,amzzud,wakk,[wakk],[wakk],
+1925.0,amzzud,wakk,[wakk],[wakk],
+1926.0,amzzud,tskrtaχ,[t-skr-t-aχ],[2MS-do:pf-dat-1P],V
+1927.0,amzzud,tt,[tt],[Obj:3S],
+1928.0,amzzud,tawajja,[tawajja],[slave],N
+1929.0,amzzud,wgllid,[w-gllid],[SMCS-the king],N
+1930.0,amzzud,a,[ad],[AD:Comp],
+1931.0,amzzud,jann,[jann],[jann],
+1932.0,amzzud,tut,[t-ut],[2S-hit(walk):pf],V
+1933.0,amzzud,stt,[stt],[Obj:3S],
+1934.0,amzzud,!safi,[!safi],[that's it],
+1935.0,amzzud,tgit,[t-gi-t],[2S-do:pf-2S],V
+1936.0,amzzud,aʁ,[a-ʁ],[dat-1MP],
+1937.0,amzzud,agwri,[agwri],[a problem],N
+1938.0,amzzud,nkkin,[nkkin],[1P:we/us],
+1939.0,amzzud,ula,[ula],[or],
+1940.0,amzzud,kijji,[kijji],[2MS],
+1941.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+1942.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1943.0,amzzud,ur,[ur],[neg],
+1944.0,amzzud,t!ksutt,[t-!ksud-t],[2S-be afraid:pf],V
+1945.0,amzzud,walu,[walu],[nothing],N
+1946.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+1947.0,amzzud,tlkmnn,[t-lkm-nn],[3FS-arrive:pf-deic],V
+1948.0,amzzud,twajja,[twajja],[slave],N
+1949.0,amzzud,tafruχt,[ta-fruχ-t],[FFSS:girl],N
+1950.0,amzzud,ar,[ar],[AR],
+1951.0,amzzud,talla,[t-alla],[3FS-cry:pf],V
+1952.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+1953.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1954.0,amzzud,maʕna,[maʕna],[it means],
+1955.0,amzzud,lliʁ,[lliʁ],[RelPro],
+1956.0,amzzud,nn,[nn],[nn],
+1957.0,amzzud,ur,[ur],[neg],
+1958.0,amzzud,tfilt,[t-fil-t],[2S-leave:pf],V
+1959.0,amzzud,!ttbsil,[!ttbsil],[the dish],N
+1960.0,amzzud,a,[ad],[AD:Comp],
+1961.0,amzzud,jamd,[i-a-m-d],[3MS-dat-2FS-deic],
+1962.0,amzzud,iskr,[i-skr],[3MS-do:pf],V
+1963.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+1964.0,amzzud,lħlwa,[l-ħlwa],[the candy],N
+1965.0,amzzud,zund,[zund],[a-s],
+1966.0,amzzud,χta,[χ-ta],[DemPronFS:this one],
+1967.0,,New_Sentence,New_Sentence,New_Sentence,
+1968.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+1969.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1970.0,amzzud,a,[a],[voc],
+1971.0,amzzud,lalla,[lalla],[lalla],
+1972.0,amzzud,bħra,[bħra],[barely],
+1973.0,amzzud,nn,[nn],[nn],
+1974.0,amzzud,zzigzʁ,[zzigz-ʁ],[run through-1S],V
+1975.0,amzzud,nniʁ,[nni-ʁ],[say:pf-1S],V
+1976.0,amzzud,i,[i],[to],
+1977.0,amzzud,!wmʒʒudlli,[!w-mʒʒud-lli],[SMCS-mʒʒud-RelPro] ,N
+1978.0,amzzud,skr,[skr],[2S:do:Imper],V
+1979.0,amzzud,zund,[zund],[a-s],
+1980.0,amzzud,lħlwa,[l-ħlwa],[the candy],N
+1981.0,amzzud,jad,[jad],[this],
+1982.0,amzzud,jut,[i-ut],[3MS-hit:pf],V
+1983.0,amzzud,i,[i],[to],
+1984.0,amzzud,jji,[iji],[dat:1S],
+1985.0,amzzud,s,[s],[with],
+1986.0,amzzud,ja,[ja],[one:M],
+1987.0,amzzud,wbariq,[w-bariq],[SMCS-slap],N
+1988.0,amzzud,gllbʁd,[gllb-ʁ-d],[return:pf-1S-deic],V
+1989.0,amzzud,ar,[ar],[AR],
+1990.0,amzzud,allaʁ,[alla-ʁ],[cry:pf-1S],V
+1991.0,,New_Sentence,New_Sentence,New_Sentence,
+1992.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+1993.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1994.0,amzzud,maχχ,[maχχ],[why],
+1995.0,,New_Sentence,New_Sentence,New_Sentence,
+1996.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+1997.0,amzzud,jas,[i-a-s],[to-dat-3S],
+1998.0,amzzud,zzigzʁnn,[zzigz-ʁ-nn],[run through-1S-deic],V
+1999.0,amzzud,dirikt,[dirikt],[straight],
+2000.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2001.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2002.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+2003.0,amzzud,ʁinn,[ʁinn],[over there],
+2004.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+2005.0,,New_Sentence,New_Sentence,New_Sentence,
+2006.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+2007.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2008.0,amzzud,ijjih,[ijjih],[yes],
+2009.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2010.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2011.0,amzzud,maniʁ,[maniʁ],[where],
+2012.0,amzzud,km,[km],[km],
+2013.0,amzzud,jut,[i-ut],[3MS-hit:pf],V
+2014.0,,New_Sentence,New_Sentence,New_Sentence,
+2015.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2016.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2017.0,amzzud,tasga,[ta-sga],[the side],N
+2018.0,amzzud,ja,[ja],[dem],
+2019.0,,New_Sentence,New_Sentence,New_Sentence,
+2020.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+2021.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2022.0,amzzud,gllb,[gllb],[return:ao:2S],V
+2023.0,amzzud,χtann,[χ-ta-nn],[DemPronFS:that one],
+2024.0,amzzud,!jadnin,[!jadnin],[an other],
+2025.0,amzzud,tut,[t-ut],[2S-hit(walk):pf],V
+2026.0,amzzud,stt,[stt],[Obj:],
+2027.0,amzzud,gis,[gi-s],[loc:3MS],
+2028.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2029.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2030.0,amzzud,sir,[sir],[sir],
+2031.0,amzzud,tgt,[t-g-t],[2S-do:ao],V
+2032.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+2033.0,amzzud,arkiʁ,[arkiʁ],[until],
+2034.0,amzzud,tlkm,[t-lkm],[3FS-arrive:pf],V
+2035.0,amzzud,twala,[t-wala],[round],N
+2036.0,amzzud,nm,[n-m],[PossDet:2FS],
+2037.0,amzzud,tinit,[t-ini-t],[2FS-say:ao-],V
+2038.0,amzzud,as,[a-s],[dat-3S],
+2039.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+2040.0,amzzud,lχir,[l-χir],[lot of good],N
+2041.0,amzzud,a,[a],[voc],
+2042.0,amzzud,sidi,[sidi],[my lord],N
+2043.0,amzzud,a,[ad],[AD:Comp],
+2044.0,amzzud,jzijn,[i-zijn],[3MS-zijn],
+2045.0,amzzud,!rbbi,[!rbbi],[God],N
+2046.0,amzzud,!ssniʕt,[!ssniʕt],[practice],N
+2047.0,amzzud,ad,[ad],[AD:Comp],
+2048.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],V
+2049.0,amzzud,!rbbi,[!rbbi],[God],N
+2050.0,amzzud,ttajsir,[ttajsir],[the facility],N
+2051.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+2052.0,amzzud,jak,[i-a-k],[to-dat-2MS],
+2053.0,amzzud,lalla,[lalla],[lalla],
+2054.0,amzzud,skr,[skr],[2S:do:Imper],V
+2055.0,amzzud,lmarka,[l-marka],[the type],N
+2056.0,amzzud,jad,[jad],[DemDet:this],
+2057.0,amzzud,ʁ,[ʁ],[of],
+2058.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2059.0,amzzud,s,[s],[at],
+2060.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+2061.0,amzzud,tfltasnn,[t-fl-t-as-nn],[2S-run away:pf-dat:3MP],V
+2062.0,amzzud,!tbsil,[!tbsil],[dish],N
+2063.0,amzzud,taʃkdd,[t-aʃk-dd],[2S-come in:ao-deic],V
+2064.0,,New_Sentence,New_Sentence,New_Sentence,
+2065.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2066.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2067.0,amzzud,waχχa,[waχχa],[even if],
+2068.0,amzzud,a,[a],[voc],
+2069.0,amzzud,lalla,[lalla],[lalla],
+2070.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2071.0,amzzud,turrid,[t-urri-d],[3FS-return:pf-deic],V
+2072.0,amzzud,twajja,[twajja],[slave],N
+2073.0,amzzud,dar,[dar],[to],
+2074.0,amzzud,bu,[bu],[owner],
+2075.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2076.0,amzzud,t!amz,[t-!amz],[3FS-hold:ao],V
+2077.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+2078.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+2079.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+2080.0,amzzud,inzl,[i-nzl],[3MS-annouce:pf],V
+2081.0,amzzud,i,[i],[to],
+2082.0,amzzud,!lbbatron,[!lbbatron],[the bos],N
+2083.0,amzzud,hann,[hann],[presentative],
+2084.0,amzzud,tawajja,[tawajja],[slave],N
+2085.0,amzzud,turrid,[t-urri-d],[3FS-return:pf-deic],V
+2086.0,amzzud,tskr,[t-skr],[3FS-do:pf],V
+2087.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+2088.0,amzzud,zund,[zund],[a-s],
+2089.0,amzzud,middn,[middn],[people],N
+2090.0,,New_Sentence,New_Sentence,New_Sentence,
+2091.0,amzzud,tlkm,[t-lkm],[3FS-arrive:pf],V
+2092.0,amzzud,tt,[t-d],[Obj:3S-deic],
+2093.0,amzzud,twala,[t-wala],[round],N
+2094.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2095.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2096.0,amzzud,ʁajlli,[ʁ-aj-lli],[DemPro-Deic:that-RelPro],
+2097.0,amzzud,illan,[i-lla-n],[which-be-partic],
+2098.0,amzzud,tfl,[t-fl],[2S-run away:pf],V
+2099.0,amzzud,as,[a-s],[dat-3S],
+2100.0,amzzud,lʕunwan,[l-ʕunwan],[the adress],N
+2101.0,amzzud,tfl,[t-fl],[2S-run away:pf],V
+2102.0,amzzud,!ttbsil,[!ttbsil],[the dish],N
+2103.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2104.0,amzzud,jull,[i-ull],[3MS-raise],V
+2105.0,amzzud,lmʕllm,[l-mʕllm],[master],N
+2106.0,amzzud,asdl,[a-sdl],[MFSS-lid],N
+2107.0,amzzud,f,[f],[on],
+2108.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2109.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+2110.0,amzzud,l!marka,[l-!marka],[the type],N
+2111.0,amzzud,jann,[jann],[jann],
+2112.0,amzzud,ur,[ur],[neg],
+2113.0,amzzud,as,[a-s],[dat:3MS],
+2114.0,amzzud,issin,[i-ssin],[3MS-know:Impf],V
+2115.0,amzzud,jawi,[i-awi],[3MS-bring:ao],V
+2116.0,amzzud,t,[t],[Obj:3FS],
+2117.0,amzzud,ar,[ar],[AR],
+2118.0,amzzud,t,[t],[Obj:3S],
+2119.0,amzzud,isaka,[i-saka],[3MS-show:ao],V
+2120.0,amzzud,dar,[dar],[to],
+2121.0,amzzud,iʃfnaʒin,[i-ʃfnaʒ-in],[MPFS-manufacturer beignet],N
+2122.0,,New_Sentence,New_Sentence,New_Sentence,
+2123.0,amzzud,wannann,[wanna-nn],[the one 3MS-deic],
+2124.0,amzzud,ukan,[ukan],[just],
+2125.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+2126.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2127.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2128.0,amzzud,ur,[ur],[neg],
+2129.0,amzzud,as,[a-s],[dat:3MS],
+2130.0,amzzud,akkw,[akkw],[not even],
+2131.0,amzzud,tssnt,[t-ssn-t],[2MS-know:ao],V
+2132.0,amzzud,kijji,[kijji],[2MS],
+2133.0,amzzud,lli,[lli],[RelPro],
+2134.0,amzzud,igan,[i-ga-n],[3MS-be-partic],V
+2135.0,amzzud,lamin,[l-amin],[representing craftsmen],N
+2136.0,amzzud,a,[ad],[AD:Comp],
+2137.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2138.0,amzzud,ssnʁ,[ssn-ʁ],[know:pf-1S],V
+2139.0,amzzud,nkki,[nkki],[1S:me],N
+2140.0,,New_Sentence,New_Sentence,New_Sentence,
+2141.0,amzzud,maχ,[maχ],[why],
+2142.0,amzzud,t,[t],[Obj:3S],
+2143.0,amzzud,za,[za],[maybe],
+2144.0,amzzud,ufiʁ,[ufi-ʁ],[find:pf-1S],V
+2145.0,amzzud,aʃfnaʒi,[a-ʃfnaʒ-i],[MFSS-Manufacturer beignet],N
+2146.0,amzzud,issn,[i-ssn],[3MS-know:pf],V
+2147.0,amzzud,iʁ,[iʁ],[if],
+2148.0,amzzud,ur,[ur],[neg],
+2149.0,amzzud,iskir,[i-skir],[3MS-do:pf],V
+2150.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2151.0,amzzud,zund,[zund],[a-s],
+2152.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+2153.0,amzzud,ra,[ra],[ra:Fut],
+2154.0,amzzud,jbbi,[i-bbi],[3MS-cat:pf],V
+2155.0,amzzud,lmalik,[l-malik],[the-king],N
+2156.0,amzzud,agaju,[a-gaju],[MFSS-head],N
+2157.0,amzzud,ns,[n-s],[of-3S],
+2158.0,,New_Sentence,New_Sentence,New_Sentence,
+2159.0,amzzud,ur,[ur],[neg],
+2160.0,amzzud,tlli,[t-lli],[3FS-be:pf],V
+2161.0,amzzud,lħnant,[l-ħnan-t],[tenderness],N
+2162.0,,New_Sentence,New_Sentence,New_Sentence,
+2163.0,amzzud,jurrid,[i-urri-d],[3MS-go back:pf-deic],V
+2164.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+2165.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2166.0,amzzud,as,[a-s],[dat:3MS],
+2167.0,amzzud,laħ,[laħ],[laħ],
+2168.0,amzzud,kra,[kra],[some],
+2169.0,amzzud,ma,[ma],[what],
+2170.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2171.0,amzzud,iskarn,[i-skar-n],[3MS-do-partic],V
+2172.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2173.0,amzzud,jaʃkd,[i-aʃk-d],[3MS-come:ao-deic],V
+2174.0,amzzud,iʁr,[i-ʁr],[3MS-call:pf],V
+2175.0,amzzud,i,[i],[to],
+2176.0,amzzud,!ttlba,[!ttlba],[master:P],N
+2177.0,amzzud,issufʁ,[i-ss-ufʁ],[3MS-caus-go out:pf],V
+2178.0,amzzud,sslukt,[ssluk-t],[the verses of the Koran],N
+2179.0,,New_Sentence,New_Sentence,New_Sentence,
+2180.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+2181.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+2182.0,amzzud,zikk,[zikk],[early],
+2183.0,amzzud,i!ttudda,[i-!ttudda],[3MS-!ttudda],V
+2184.0,amzzud,ilsid,[i-ls-id],[3MS-dress:pf-deic],V
+2185.0,amzzud,lksut,[l-ksut],[clothes],N
+2186.0,amzzud,tasggwant,[t-asggwan-t],[black],
+2187.0,amzzud,ar,[ar],[AR],
+2188.0,amzzud,ittqql,[i-ttqql],[3MS-wait for:Impf],V
+2189.0,amzzud,s,[s],[to],
+2190.0,amzzud,lmχaznija,[l-mχazni-ja],[guardians of peace],N
+2191.0,amzzud,at,[ad],[AD:Comp],
+2192.0,amzzud,t,[t],[Obj:3S],
+2193.0,amzzud,inn,[inn],[deic],
+2194.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+2195.0,amzzud,ad,[ad],[AD:Comp],
+2196.0,amzzud,bbin,[bbi-n],[cut:pf-3MP],V
+2197.0,amzzud,agaju,[a-gaju],[MFSS-head],N
+2198.0,amzzud,ns,[n-s],[of-3S],
+2199.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2200.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2201.0,amzzud,ntta,[ntta],[3MS:he],
+2202.0,amzzud,iskkus,[i-skkus],[3MS-stay:pf],V
+2203.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+2204.0,amzzud,iffu,[i-ffu],[it-be morning:pf],V
+2205.0,amzzud,lħal,[l-ħal],[the time],N
+2206.0,amzzud,igllb,[i-gllb],[3MS-turn:pf],V
+2207.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+2208.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2209.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2210.0,amzzud,l!marka,[l-!marka],[the type],N
+2211.0,amzzud,jad,[jad],[this],
+2212.0,amzzud,ʁ,[ʁ],[of],
+2213.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2214.0,amzzud,ad,[ad],[AD:Comp],
+2215.0,amzzud,i,[i],[to me],
+2216.0,amzzud,ttrs,[tt-rs],[3MS-put:Impf],V
+2217.0,,New_Sentence,New_Sentence,New_Sentence,
+2218.0,amzzud,ttrsd,[tt-rs-d],[put:pf-deic],V
+2219.0,amzzud,l!markalli,[l-!marka-lli],[the type-RelPro] ,N
+2220.0,amzzud,iktur,[i-ktur],[3MS-be a lot:pf],
+2221.0,amzzud,!ttbsil,[!ttbsil],[the dish],N
+2222.0,amzzud,idl,[i-dl],[3MS-cover:pf],V
+2223.0,amzzud,t,[t],[Obj:3S],
+2224.0,amzzud,daʁ,[daʁ],[once again],
+2225.0,amzzud,s,[s],[s],
+2226.0,amzzud,usdl,[u-sdl],[SMCS-lid],
+2227.0,amzzud,ns,[n-s],[of-3S],
+2228.0,amzzud,jaʒʒi,[i-a-ʒʒi],[3MS-let:pf],V
+2229.0,amzzud,t,[t],[Obj:3S],
+2230.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2231.0,amzzud,jaʃkid,[i-aʃki-d],[3MS-come:pf-deic],V
+2232.0,amzzud,l!batron,[l-!batron],[the boss],N
+2233.0,amzzud,zikk,[zikk],[early],
+2234.0,amzzud,!sbaħ,[!sbaħ],[morning],N
+2235.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2236.0,amzzud,t,[t],[t],
+2237.0,amzzud,id,[id],[id],
+2238.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+2239.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2240.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2241.0,amzzud,awddi,[awddi],[Interjection],
+2242.0,amzzud,a,[a],[voc],
+2243.0,amzzud,!ja!mʒʒud,[!ja-!mʒʒud],[to-MFSS-scabby],N
+2244.0,amzzud,iʁ,[iʁ],[if],
+2245.0,amzzud,sul,[sul],[not yet],
+2246.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+2247.0,amzzud,kra,[kra],[some],
+2248.0,amzzud,llχir,[ll-χir],[the material goods],N
+2249.0,amzzud,ha,[ha],[presentative],
+2250.0,amzzud,taħanut,[ta-ħanu-t],[FFSS:the shop],N
+2251.0,amzzud,χdm,[χdm],[work:Imper 2MS],V
+2252.0,amzzud,gis,[gi-s],[loc:3MS],
+2253.0,amzzud,innad,[inna d],[whatever Deic],
+2254.0,amzzud,tkkist,[t-kkis-t],[2-remove:ao-S],V
+2255.0,amzzud,a,[a],[voc],
+2256.0,amzzud,wlajdi,[wlajdi],[my son],N
+2257.0,amzzud,ar,[ar],[AR],
+2258.0,amzzud,gis,[gi-s],[loc:3MS],
+2259.0,amzzud,takkat,[t-akka-t],[2S-give to:ao],V
+2260.0,amzzud,!nnss,[!nnss],[half],N
+2261.0,amzzud,nʁdd,[nʁdd],[or],
+2262.0,amzzud,tlt,[tlt],[third],
+2263.0,amzzud,i,[i],[for],
+2264.0,amzzud,tarwanw,[tarwa-nw],[chidren-of me],N
+2265.0,amzzud,umma,[umma],[whereas],
+2266.0,amzzud,nkki,[nkki],[1S:me],N
+2267.0,amzzud,ħaqqan,[ħaqqan],[really],
+2268.0,amzzud,hati,[hati],[presentative],
+2269.0,amzzud,lmusamiħa,[l-musamiħ-a],[forgiveness],N
+2270.0,,New_Sentence,New_Sentence,New_Sentence,
+2271.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2272.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2273.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+2274.0,amzzud,ʕlah,[ʕlah],[why],
+2275.0,amzzud,awddi,[awddi],[Interjection],
+2276.0,amzzud,mani,[mani],[where],
+2277.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+2278.0,,New_Sentence,New_Sentence,New_Sentence,
+2279.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2280.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2281.0,amzzud,nkki,[nkki],[1S:me],N
+2282.0,amzzud,amskin,[a-mskin],[O-poor],N
+2283.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2284.0,amzzud,ur,[ur],[neg],
+2285.0,amzzud,skirʁ,[skir-ʁ],[do:pf-1S],V
+2286.0,amzzud,l!marka,[l-!marka],[the type],N
+2287.0,amzzud,lli,[lli],[RelPro],
+2288.0,amzzud,ʁ,[ʁ],[for],
+2289.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2290.0,amzzud,irwas,[irwas],[maybe],
+2291.0,amzzud,is,[is],[Interro],
+2292.0,amzzud,rad,[rad],[RAD:Fut],
+2293.0,amzzud,mmtʁ,[mmt-ʁ],[die:ao-1S],V
+2294.0,,New_Sentence,New_Sentence,New_Sentence,
+2295.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2296.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2297.0,amzzud,all,[all],[all],
+2298.0,amzzud,a,[ad],[AD:Comp],
+2299.0,amzzud,kkw,[kkw],[not even],
+2300.0,amzzud,f,[f],[for],
+2301.0,amzzud,usdl,[u-sdl],[SMCS-lid],N
+2302.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+2303.0,amzzud,izd,[izd],[Interro],
+2304.0,amzzud,ʁikann,[ʁikann],[ʁikann],
+2305.0,amzzud,a,[ad],[AD:Comp],
+2306.0,amzzud,jga,[i-ga],[3MS-be:pf],V
+2307.0,amzzud,jall,[i-all],[3MS-pull up:pf],V
+2308.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+2309.0,amzzud,asdl,[a-sdl],[MFSS-lid],N
+2310.0,amzzud,ar,[ar],[AR],
+2311.0,amzzud,i!ttssa,[i-!ttssa],[3MS-!ttssa],V
+2312.0,amzzud,urrin,[urri-n],[return:pf-3MP],V
+2313.0,amzzud,tid,[t-id],[Obj-deic],
+2314.0,amzzud,idammn,[idammn],[blood],
+2315.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2316.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2317.0,amzzud,manik,[manik],[how],
+2318.0,amzzud,at,[ad],[AD:Comp],
+2319.0,amzzud,tskrt,[t-skr-t],[2MS-do:pf],V
+2320.0,,New_Sentence,New_Sentence,New_Sentence,
+2321.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2322.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2323.0,amzzud,kijji,[kijji],[2MS],
+2324.0,amzzud,amskin,[a-mskin],[O-poor],N
+2325.0,amzzud,tddit,[t-ddi-t],[2S-go:pf],V
+2326.0,amzzud,dar,[dar],[to],
+2327.0,amzzud,tarwa,[tarwa],[children],N
+2328.0,amzzud,nk,[n-k],[of-2MS],
+2329.0,amzzud,tgunt,[t-gun-t],[2S-sleep:pf],V
+2330.0,amzzud,imma,[imma],[whereas],
+2331.0,amzzud,nkki,[nkki],[1S:me],N
+2332.0,amzzud,mn,[mn],[mn],
+2333.0,amzzud,ʁakud,[ʁakud],[ʁakud],
+2334.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2335.0,amzzud,tffaʁt,[t-ffaʁ-t],[2S-go out:pf],V
+2336.0,amzzud,ad,[ad],[AD:Comp],
+2337.0,amzzud,χdmʁ,[χdm-ʁ],[work:pf-1S],V
+2338.0,amzzud,art,[art],[art],
+2339.0,amzzud,tʕdalʁ,[t-ʕdal-ʁ],[prepare:Impf-1S],V
+2340.0,amzzud,ar,[ar],[AR],
+2341.0,amzzud,ssχsarʁ,[ss-χsar-ʁ],[caus-lose-1S],V
+2342.0,amzzud,art,[art],[art],
+2343.0,amzzud,t,[t],[Obj:3S],
+2344.0,amzzud,ʕdalʁ,[ʕdal-ʁ],[prepare:Impf-1S],V
+2345.0,amzzud,ar,[ar],[AR],
+2346.0,amzzud,ssχsarʁ,[ss-χsar-ʁ],[caus-lose-1S],V
+2347.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+2348.0,amzzud,t,[t],[Obj:3S],
+2349.0,amzzud,ʕdlʁ,[ʕdl-ʁ],[prepare:pf-1S],V
+2350.0,,New_Sentence,New_Sentence,New_Sentence,
+2351.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2352.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2353.0,amzzud,a,[a],[voc],
+2354.0,amzzud,wlajdi,[wlajdi],[my son],N
+2355.0,amzzud,tstahllat,[t-stahlla-t],[2S-deserve:pf],V
+2356.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2357.0,amzzud,jasi,[i-asi],[3MS-bring:pf],V
+2358.0,amzzud,a!tbsil,[a-!tbsil],[MFSS-dish],N
+2359.0,amzzud,jawi,[i-awi],[3MS-bring:pf],V
+2360.0,amzzud,t,[t],[Obj:3MS],
+2361.0,amzzud,ssijjid,[ssijjid],[the man],N
+2362.0,amzzud,ilkmnn,[i-lkm-nn],[3MS-arrive:pf-deic],V
+2363.0,amzzud,imi,[imi],[mouth],N
+2364.0,amzzud,l!qqsr,[l-!qqsr],[the palace],N
+2365.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+2366.0,amzzud,jafinn,[i-af-inn],[3MS-find:pf-deic],V
+2367.0,amzzud,gis,[gi-s],[loc:3MS],
+2368.0,amzzud,iʕssasn,[i-ʕssas-n],[MPFS-guard],N
+2369.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+2370.0,amzzud,as,[a-s],[dat-3S],
+2371.0,amzzud,mani,[mani],[where],
+2372.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+2373.0,,New_Sentence,New_Sentence,New_Sentence,
+2374.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2375.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+2376.0,amzzud,iwiʁd,[iwi-ʁ-d],[bring:pf-1S-deic],V
+2377.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2378.0,amzzud,i,[i],[i],
+2379.0,amzzud,lmalik,[l-malik],[the-king],N
+2380.0,,New_Sentence,New_Sentence,New_Sentence,
+2381.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+2382.0,amzzud,as,[a-s],[dat-3S],
+2383.0,amzzud,ʕlah,[ʕlah],[why],
+2384.0,amzzud,lmalik,[l-malik],[the-king],N
+2385.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+2386.0,amzzud,f,[f],[f],
+2387.0,amzzud,ʃʃfnʒ,[ʃʃfnʒ],[beignet],N
+2388.0,amzzud,nk,[n-k],[of-2MS],
+2389.0,amzzud,!ssmmrn,[!ssmmr-n],[slap:pf-3MP],V
+2390.0,amzzud,tid,[t-id],[Obj:3S-deic],
+2391.0,amzzud,s,[s],[s],
+2392.0,amzzud,jat,[ja-t],[one:F],
+2393.0,amzzud,t,[t],[t],
+2394.0,amzzud,!t!srfiqa,[!t-!srfiqa],[a slap],N
+2395.0,amzzud,jurrid,[i-urri-d],[3MS-go back:pf-deic],V
+2396.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2397.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2398.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+2399.0,amzzud,ʕlah,[ʕlah],[why],
+2400.0,amzzud,za,[za],[za],
+2401.0,amzzud,rurnkid,[rur-n-k-id],[rur-n-k-id],
+2402.0,,New_Sentence,New_Sentence,New_Sentence,
+2403.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2404.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2405.0,amzzud,awddi,[awddi],[Interjection],
+2406.0,amzzud,rurn,[rur-n],[return:ao-3MP],V
+2407.0,amzzud,i,[i],[to],
+2408.0,amzzud,jjid,[iji-d],[dat-1S-deic],
+2409.0,amzzud,iʕssasn,[i-ʕssas-n],[MPFS-guard],N
+2410.0,amzzud,is,[is],[Interro],
+2411.0,amzzud,i,[i],[to],
+2412.0,amzzud,jji,[iji],[dat:1S],
+2413.0,amzzud,akkw,[akkw],[not even],
+2414.0,amzzud,kkmn,[kkm-n],[hit:pf-3MP],V
+2415.0,,New_Sentence,New_Sentence,New_Sentence,
+2416.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2417.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2418.0,amzzud,!ara,[!ara],[2M:give:Imper],V
+2419.0,amzzud,wa,[wa],[wa],
+2420.0,amzzud,!ara,[!ara],[2M:give:Imper],V
+2421.0,amzzud,lbakor,[l-bakor],[Early figs],N
+2422.0,amzzud,a,[ad],[AD:Comp],
+2423.0,amzzud,!tt!zrt,[!tt-!zr-t],[d-2MS-see:Impf],V
+2424.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+2425.0,amzzud,ra,[ra],[ra:Fut],
+2426.0,amzzud,jzzigz,[i-zzigz],[3MS-walk:Impf],V
+2427.0,amzzud,u!llah,[u-!llah],[by God],N
+2428.0,amzzud,ur,[ur],[neg],
+2429.0,amzzud,akkw,[akkw],[not even],
+2430.0,amzzud,srs,[sr-s],[to 3S],
+2431.0,amzzud,sawaln,[sawal-n],[talk:Impf-3MP],V
+2432.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2433.0,amzzud,jasi,[i-asi],[3MS-take:ao],V
+2434.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+2435.0,amzzud,a!ttbsil,[a-!ttbsil],[MFSS-dish],N
+2436.0,amzzud,ibalak,[i-balak],[3MS-clear:pf],V
+2437.0,amzzud,iqqzz,[i-qqzz],[3MS-qqzz],V
+2438.0,amzzud,gis,[gi-s],[loc:3MS],
+2439.0,amzzud,uʃfnaʒi,[u-ʃfnaʒ-i],[SMCS-Manufacturer beignet],N
+2440.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+2441.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+2442.0,,New_Sentence,New_Sentence,New_Sentence,
+2443.0,amzzud,ikʃm,[i-kʃm],[3MS-come in],V
+2444.0,amzzud,ur,[ur],[neg],
+2445.0,amzzud,illi,[i-lli],[3MS-be:pf],V
+2446.0,amzzud,kra,[kra],[some],
+2447.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2448.0,amzzud,i!ʕrdn,[i-!ʕrd-n],[3MS-!ʕrd-n],V
+2449.0,amzzud,isrsnn,[i-srs-nn],[3MS-put:pf-deic],V
+2450.0,amzzud,i,[i],[i],
+2451.0,amzzud,jllis,[illi-s],[daughter-poss:3S],N
+2452.0,amzzud,uwgllid,[uw-gllid],[SMCS-the king],N
+2453.0,amzzud,a!ttbsil,[a-!ttbsil],[MFSS-dish],N
+2454.0,amzzud,ʁ,[ʁ],[in],
+2455.0,amzzud,lgwddam,[l-gwddam],[in front of],N
+2456.0,amzzud,ns,[n-s],[of-3S],
+2457.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2458.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2459.0,amzzud,bbajid,[bbaj-i-d],"[""payer fr"" pay:ao-to me-deic]",
+2460.0,amzzud,lqqadd,[l-qqadd],[the quantity],N
+2461.0,amzzud,u,[u],[and],
+2462.0,amzzud,lqqadd,[l-qqadd],[the quantity],N
+2463.0,amzzud,lflus,[l-flus],[money],N
+2464.0,,New_Sentence,New_Sentence,New_Sentence,
+2465.0,amzzud,i!ttχlls,[i-!ttχlls],[3MS-!ttχlls],V
+2466.0,amzzud,gis,[gi-s],[loc:3MS],
+2467.0,amzzud,jurrid,[i-urri-d],[3MS-go back:pf-deic],V
+2468.0,,New_Sentence,New_Sentence,New_Sentence,
+2469.0,amzzud,ikk,[i-kk],[3MS-pass:ao],V
+2470.0,amzzud,lħal,[l-ħal],[the time],N
+2471.0,amzzud,kra,[kra],[some],
+2472.0,amzzud,jawid,[i-awi-d],[3MS-bring:ao],V
+2473.0,amzzud,!rbbi,[!rbbi],[God],N
+2474.0,amzzud,lmalik,[l-malik],[the-king],N
+2475.0,amzzud,!judn,[i-!udn],[3MS-become ill:pf],V
+2476.0,amzzud,ʃwija,[ʃwija],[little],N
+2477.0,amzzud,nkrn,[nkr-n],[stand up-3MP],V
+2478.0,amzzud,lwazara,[l-wazara],[Ministers],N
+2479.0,amzzud,ns,[n-s],[of-3S],
+2480.0,amzzud,!ttafn,[!ttaf-n],[win:pf-3MP],V
+2481.0,amzzud,kullu,[kullu],[all of them],
+2482.0,amzzud,tarwa,[tarwa],[children],N
+2483.0,amzzud,nsn,[n-sn],[of-3MP],
+2484.0,amzzud,nnan,[nna-n],[say:pf-3MP],V
+2485.0,amzzud,as,[a-s],[dat-3S],
+2486.0,amzzud,awddi,[awddi],[Interjection],
+2487.0,amzzud,kijji,[kijji],[2MS],
+2488.0,amzzud,ʁila,[ʁila],[ʁila],
+2489.0,amzzud,ur,[ur],[neg],
+2490.0,amzzud,ak,[a-k],[dat-2S],
+2491.0,amzzud,i!sliħ,[i-!sliħ],[3MS-!sliħ],V
+2492.0,amzzud,unʃkka,[unʃkka],[much],
+2493.0,amzzud,afruχ,[a-fruχ],[MFSS:boy],N
+2494.0,amzzud,ur,[ur],[neg],
+2495.0,amzzud,!ttaft,[!ttaf-t],[win:pf-2S],V
+2496.0,amzzud,ur,[ur],[neg],
+2497.0,amzzud,t,[t],[t],
+2498.0,amzzud,!ttaft,[!ttaf-t],[win:pf-2S],V
+2499.0,amzzud,labudd,[labudd],[necessary],
+2500.0,amzzud,a,[ad],[AD:Comp],
+2501.0,amzzud,ttahlt,[ttahl-t],[d-2MS:marry:Impf],V
+2502.0,amzzud,i,[i],[i],
+2503.0,amzzud,jstik,[jsti-k],[daughter:P-2S],N
+2504.0,amzzud,maħdd,[maħdd],[because],
+2505.0,amzzud,tsult,[t-sul-t],[2S-be alive:pf],V
+2506.0,amzzud,!marabbana,[!marabbana],[perhaps],
+2507.0,amzzud,jan,[ja-n],[one:M],
+2508.0,amzzud,ʁ,[ʁ],[from],
+2509.0,amzzud,!idulan,[!idulan],[parents-in-law],N
+2510.0,amzzud,nk,[n-k],[of-2MS],
+2511.0,amzzud,i!slħak,[i-!slħ-a-k],[3MS-!slħ-a-k],V
+2512.0,amzzud,a,[ad],[AD:Comp],
+2513.0,amzzud,jili,[j-ili],[3MS-be:ao],
+2514.0,amzzud,ʁ,[ʁ],[at],
+2515.0,amzzud,lmakan,[l-makan],[location],N
+2516.0,amzzud,nk,[n-k],[of-2MS],
+2517.0,amzzud,iʁd,[iʁd],[if],
+2518.0,amzzud,jiwi,[i-iwi],[3MS-bring:pf-deic],V
+2519.0,amzzud,!rbbi,[!rbbi],[God],N
+2520.0,amzzud,tmmutt,[t-mmut-t],[3FS-die:pf],V
+2521.0,amzzud,ddunit,[ddunit],[life],N
+2522.0,amzzud,a,[ad],[AD:Comp],
+2523.0,amzzud,ja,[ja],[ja],
+2524.0,,New_Sentence,New_Sentence,New_Sentence,
+2525.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2526.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+2527.0,amzzud,unʃkkan,[unʃkkan],[much],
+2528.0,amzzud,nit,[nit],[really],
+2529.0,amzzud,a,[ad],[AD:Comp],
+2530.0,amzzud,jga,[i-ga],[3MS-be:pf],V
+2531.0,amzzud,lħal,[l-ħal],[the time],N
+2532.0,amzzud,lwazaralli,[l-wazara-lli],[Ministers-RelPro] ,N
+2533.0,amzzud,kra,[kra],[some],
+2534.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+2535.0,amzzud,jan,[ja-n],[one:M],
+2536.0,amzzud,iqqum,[i-qqum],[3MS-take care:pf],V
+2537.0,amzzud,s,[s],[s],
+2538.0,amzzud,iwis,[iwi-s],[son-poss3S],N
+2539.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2540.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+2541.0,amzzud,lmalik,[l-malik],[the-king],N
+2542.0,amzzud,iʁr,[i-ʁr],[3MS-call:ao],V
+2543.0,amzzud,i,[i],[i],
+2544.0,amzzud,jstis,[jsti-s],[daughter:P-poss:3S],N
+2545.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2546.0,amzzud,jasnt,[i-a-snt],[to-dat-3FM],
+2547.0,amzzud,a,[a],[voc],
+2548.0,amzzud,jsti,[jsti],[daughter:P:1S],N
+2549.0,amzzud,iχssa,[i-χssa],[3MS-miss:pf],V
+2550.0,amzzud,kwnt,[kw-nt],[2S-FP],
+2551.0,amzzud,a,[ad],[AD:Comp],
+2552.0,amzzud,ttahlmt,[ttahl-m-t],[marry:pf-2FP],V
+2553.0,,New_Sentence,New_Sentence,New_Sentence,
+2554.0,amzzud,inint,[ini-nt],[say:pf-3FP],V
+2555.0,amzzud,as,[a-s],[dat-3S],
+2556.0,amzzud,waχχa,[waχχa],[even if],
+2557.0,amzzud,a,[a],[voc],
+2558.0,amzzud,jbbwa,[i-bbwa],[to-father],N
+2559.0,,New_Sentence,New_Sentence,New_Sentence,
+2560.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2561.0,amzzud,jasnt,[i-a-snt],[to-dat-3FM],
+2562.0,amzzud,!amzamt,[!amz-am-t],[2FP:hold:ao-],V
+2563.0,amzzud,kra,[kra],[some],
+2564.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+2565.0,amzzud,jat,[ja-t],[one:F],
+2566.0,amzzud,gigunt,[gig-un-t],[in:2FP],
+2567.0,amzzud,tattffaħt,[ta-ttffaħ-t],[FFSS-an apple],N
+2568.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+2569.0,amzzud,a,[a],[voc],
+2570.0,amzzud,zzif,[zzif],[a scarf],N
+2571.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+2572.0,amzzud,kra,[kra],[some],
+2573.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+2574.0,amzzud,jat,[ja-t],[one:F],
+2575.0,amzzud,tf,[t-f],[3FS-give:ao],V
+2576.0,amzzud,zzif,[zzif],[a scarf],N
+2577.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+2578.0,amzzud,tattffaħt,[ta-ttffaħ-t],[FFSS-an apple],N
+2579.0,amzzud,i,[i],[i],
+2580.0,amzzud,wanna,[wanna],[the one 3MS],
+2581.0,amzzud,tra,[t-ra],[3FS-want:pf],V
+2582.0,,New_Sentence,New_Sentence,New_Sentence,
+2583.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2584.0,amzzud,i,[i],[i],
+2585.0,amzzud,lwazaralli,[l-wazara-lli],[Ministers-RelPro] ,N
+2586.0,amzzud,kwnni,[kwnni],[2MP],
+2587.0,amzzud,qqddmadd,[qqddm-add],[2P:Walk forward:Imper-deic],V
+2588.0,amzzud,tarwannun,[tarwa-n-nun],[children-poss-2MP],N
+2589.0,amzzud,d,[d],[d],
+2590.0,amzzud,kullu,[kullu],[all],
+2591.0,amzzud,wi,[wi],[wi],
+2592.0,amzzud,n,[n],[n],
+2593.0,amzzud,!ttʒʒar,[!ttʒʒar],[trader:P],N
+2594.0,amzzud,awa,[awa],[so],
+2595.0,amzzud,kullu,[kullu],[all],
+2596.0,amzzud,ma,[ma],[what],
+2597.0,amzzud,ddar,[ddar],[who is],
+2598.0,amzzud,labas,[labas],[no harm],
+2599.0,amzzud,i,[i],[i],
+2600.0,amzzud,qqddmd,[qqddm-d],[3MS:Walk forward:pf-deic],V
+2601.0,amzzud,iwis,[iwi-s],[son-poss3S],N
+2602.0,,New_Sentence,New_Sentence,New_Sentence,
+2603.0,amzzud,ur,[ur],[neg],
+2604.0,amzzud,i!qqssir,[i-!qqssir],[3MS-!qqssir],V
+2605.0,amzzud,ʁ,[ʁ],[on],
+2606.0,amzzud,lksut,[l-ksut],[garment],N
+2607.0,amzzud,ula,[ula],[or],
+2608.0,amzzud,!nnadafa,[!nnadafa],[cleanliness],N
+2609.0,amzzud,ula,[ula],[or],
+2610.0,amzzud,kulʃi,[kulʃi],[everything],
+2611.0,,New_Sentence,New_Sentence,New_Sentence,
+2612.0,amzzud,skrn,[skr-n],[do:pf-3MP],V
+2613.0,amzzud,ssrbis,[ssrbis],[waiting line],N
+2614.0,amzzud,ar,[ar],[AR],
+2615.0,amzzud,zzrajn,[zzraj-n],[pass:ao-3MP],V
+2616.0,amzzud,ʁ,[ʁ],[in],
+2617.0,amzzud,lgwddam,[l-gwddam],[in front of],N
+2618.0,amzzud,n,[n],[of],
+2619.0,amzzud,istis,[i-sti-s],[FPFS-daughter-poss:3S],N
+2620.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+2621.0,amzzud,kra,[kra],[some],
+2622.0,amzzud,jgat,[i-ga-t],[3MS-be:pf],V
+2623.0,amzzud,jat,[ja-t],[one:F],
+2624.0,amzzud,gisnt,[gi-s-nt],[loc:3FP],
+2625.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+2626.0,amzzud,tʕʃqq,[t-ʕʃqq],[3FS-love:pf],V
+2627.0,amzzud,tf,[t-f],[3FS-give:ao],V
+2628.0,amzzud,as,[a-s],[dat-3MS],
+2629.0,amzzud,zzif,[zzif],[a scarf],N
+2630.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+2631.0,amzzud,ar,[ar],[AR],
+2632.0,amzzud,χtalli,[χ-ta-lli],[DemPronFS:this one-RelRep],
+2633.0,amzzud,i!mzzin,[i-!mzzi-n],[3MS-be small-partic],V
+2634.0,amzzud,lli,[lli],[RelPro],
+2635.0,amzzud,i!zran,[i-!zra-n],[3MS-see-partic],V
+2636.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2637.0,amzzud,nttat,[ntta-t],[3FS:she],
+2638.0,amzzud,ur,[ur],[neg],
+2639.0,amzzud,tfi,[t-fi],[3FS-give:pf],V
+2640.0,amzzud,zzif,[zzif],[a scarf],N
+2641.0,amzzud,ula,[ula],[or],
+2642.0,amzzud,tattffaħt,[ta-ttffaħ-t],[FFSS-an apple],N
+2643.0,amzzud,i,[i],[i],
+2644.0,amzzud,ħtta,[ħtta],[even if],
+2645.0,amzzud,jan,[ja-n],[one:M],
+2646.0,,New_Sentence,New_Sentence,New_Sentence,
+2647.0,amzzud,ara,[ara],[2S:give:Imper],V
+2648.0,amzzud,kid,[kid],[kid],
+2649.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2650.0,amzzud,tbqqa,[t-bqqa],[3FS-remain:pf],V
+2651.0,amzzud,ttltajn,[ttltajn],[two-thirds],N
+2652.0,amzzud,ʁ,[ʁ],[in],
+2653.0,amzzud,!brra,[!brra],[country side],N
+2654.0,amzzud,urta,[urta],[not yet],
+2655.0,amzzud,kʃmn,[kʃm-n],[come in:pf-3MP],V
+2656.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2657.0,amzzud,!zran,[!zra-n],[see:pf-3MP],V
+2658.0,amzzud,tafruχt,[ta-fruχ-t],[FFSS:girl],N
+2659.0,amzzud,ur,[ur],[neg],
+2660.0,amzzud,tfa,[t-fa],[3FS-give:pf],V
+2661.0,amzzud,zzif,[zzif],[a scarf],N
+2662.0,amzzud,i,[i],[i],
+2663.0,amzzud,ħtta,[ħtta],[even if],
+2664.0,amzzud,jan,[ja-n],[one:M],
+2665.0,amzzud,ʁ,[ʁ],[from],
+2666.0,amzzud,ʁwilli,[ʁ-wi-lli],[DemPron:MP:These ones-RelPro],
+2667.0,amzzud,zrinin,[zri-n-in],[pass:pf-3MP-deic],V
+2668.0,amzzud,kull,[kull],[all],
+2669.0,amzzud,jan,[ja-n],[one:M],
+2670.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+2671.0,amzzud,ar,[ar],[AR],
+2672.0,amzzud,ittini,[i-tt-ini],[3MS-say:Impf],V
+2673.0,amzzud,!safi,[!safi],[that's it],
+2674.0,amzzud,nkki,[nkki],[1S:me],N
+2675.0,amzzud,amu,[amu],[for 3MSm],
+2676.0,amzzud,rat,[rad],[RAD:Fut],
+2677.0,amzzud,tn,[t-n],[t-n],
+2678.0,amzzud,tf,[t-f],[3FS-give:ao],V
+2679.0,amzzud,zrin,[zri-n],[pass:pf-3MP],V
+2680.0,amzzud,ʁd,[ʁd],[ʁd],
+2681.0,amzzud,nttni,[nttni],[3MP:they],
+2682.0,amzzud,ur,[ur],[neg],
+2683.0,amzzud,!umzn,[!umz-n],[hold:pf-3MP],V
+2684.0,amzzud,jat,[ja-t],[one:F],
+2685.0,amzzud,iʁr,[i-ʁr],[3MS-call:ao],V
+2686.0,amzzud,lmalik,[l-malik],[the-king],N
+2687.0,amzzud,i,[i],[dat],
+2688.0,amzzud,jllis,[illi-s],[daughter-poss:3S],N
+2689.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2690.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2691.0,amzzud,awa,[awa],[so],
+2692.0,amzzud,a,[a],[voc],
+2693.0,amzzud,jlli,[illi],[daughter-poss:1S],N
+2694.0,amzzud,izd,[izd],[Interro],
+2695.0,amzzud,kmmi,[kmmi],[2FS],
+2696.0,amzzud,ur,[ur],[neg],
+2697.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+2698.0,amzzud,a,[ad],[AD:Comp],
+2699.0,amzzud,ttahlt,[ttahl-t],[d-2MS:marry:Impf],V
+2700.0,amzzud,lliʁ,[lliʁ],[RelPro],
+2701.0,amzzud,ur,[ur],[neg],
+2702.0,amzzud,tfit,[t-fi-t],[2S-give:pf],V
+2703.0,amzzud,zzif,[zzif],[a scarf],N
+2704.0,amzzud,d,[d],[d],
+2705.0,amzzud,tattffaħt,[ta-ttffaħ-t],[FFSS-an apple],N
+2706.0,amzzud,i,[i],[dat],
+2707.0,amzzud,ħtta,[ħtta],[even if],
+2708.0,amzzud,jan,[ja-n],[one:M],
+2709.0,,New_Sentence,New_Sentence,New_Sentence,
+2710.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2711.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2712.0,amzzud,nkki,[nkki],[1S:me],N
+2713.0,amzzud,a,[a],[voc],
+2714.0,amzzud,bbwa,[bbwa],[father],N
+2715.0,amzzud,ur,[ur],[neg],
+2716.0,amzzud,riʁ,[ri-ʁ],[want:ao-1S],V
+2717.0,amzzud,a,[ad],[AD:Comp],
+2718.0,amzzud,ttahlʁ,[ttahl-ʁ],[marry:pf-1S],V
+2719.0,amzzud,tarwa,[tarwa],[children],N
+2720.0,amzzud,n,[n],[n],
+2721.0,amzzud,!ttʒʒar,[!ttʒʒar],[trader],N
+2722.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+2723.0,amzzud,ula,[ula],[or],
+2724.0,amzzud,tarwa,[tarwa],[children],N
+2725.0,amzzud,n,[n],[n],
+2726.0,amzzud,lwazara,[l-wazara],[Ministers],N
+2727.0,,New_Sentence,New_Sentence,New_Sentence,
+2728.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2729.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2730.0,amzzud,ma,[ma],[what],
+2731.0,amzzud,za,[za],[za],
+2732.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+2733.0,amzzud,a,[a],[voc],
+2734.0,amzzud,jlli,[illi],[daughter-poss:1S],N
+2735.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+2736.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2737.0,amzzud,a,[ad],[AD:Comp],
+2738.0,amzzud,bbwa,[bbwa],[father],N
+2739.0,amzzud,nkki,[nkki],[1S:me],N
+2740.0,amzzud,i!χssa,[i-!χssa],[3MS-miss:pf],V
+2741.0,amzzud,jji,[iji],[dat:1S],
+2742.0,amzzud,kra,[kra],[some],
+2743.0,amzzud,n,[n],[n],
+2744.0,amzzud,ʃʃumur,[ʃʃumur],[unemployed],N
+2745.0,amzzud,kra,[kra],[some],
+2746.0,amzzud,n,[n],[n],
+2747.0,amzzud,lmʒrtl,[l-mʒrtl],[vagabond],N
+2748.0,amzzud,afadd,[afadd],[so as],
+2749.0,amzzud,at,[ad],[AD:Comp],
+2750.0,amzzud,t,[t],[Obj:3S],
+2751.0,amzzud,sʁwliʁ,[s-ʁwli-ʁ],[caus-go up:ao-1S],V
+2752.0,amzzud,asiʁ,[asi-ʁ],[carry:ao-1S],V
+2753.0,amzzud,t,[t],[Obj:3S],
+2754.0,amzzud,ʁ,[ʁ],[with],
+2755.0,amzzud,lkʃift,[l-kʃift],[with difficulty],N
+2756.0,amzzud,ag,[ad],[AD:Comp],
+2757.0,amzzud,gis,[gi-s],[loc:3MS],
+2758.0,amzzud,awiʁ,[awi-ʁ],[carry:Impf-1S],V
+2759.0,amzzud,a!qqndar,[a-!qqndar],[MFSS-quintal],N
+2760.0,amzzud,!llaʒr,[!ll-aʒr],[the reward],N
+2761.0,,New_Sentence,New_Sentence,New_Sentence,
+2762.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+2763.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2764.0,amzzud,ʕlakulliħal,[ʕlakulliħal],[anyway],
+2765.0,amzzud,a,[a],[voc],
+2766.0,amzzud,jlli,[illi],[daughter-poss:1S],N
+2767.0,amzzud,awalnna,[awal-nna],[speech-RelPro],N
+2768.0,amzzud,ifulki,[i-fulki],[3MS-be pretty],V
+2769.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2770.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+2771.0,,jas,[i-a-s],[to-dat-3S],
+2772.0,amzzud,awa,[awa],[so],
+2773.0,amzzud,!ssifd,[!ssifd],[send:Imper2S],V
+2774.0,amzzud,!laraf,[!laraf],[Police patrol],N
+2775.0,amzzud,kullu,[kullu],[all],
+2776.0,amzzud,ajnna,[a-jn-na],[a-jn-na],
+2777.0,amzzud,ʁ,[ʁ],[in],
+2778.0,amzzud,nn,[nn],[Deic],
+2779.0,amzzud,tufa,[t-ufa],[3FS-find:pf],V
+2780.0,amzzud,ʃʃumurat,[ʃʃumur-at],[unemployed],N
+2781.0,amzzud,ula,[ula],[or],
+2782.0,amzzud,!indalabn,[!i-ndalab-n],[beggars],N
+2783.0,amzzud,ula,[ula],[or],
+2784.0,amzzud,lmqqttʕin,[l-mqqttʕ-in],[the unemployed:P],N
+2785.0,amzzud,tawi,[t-awi],[2S-bring:ao],V
+2786.0,amzzud,tnid,[tn-id],[Obj:P-deic],
+2787.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2788.0,amzzud,nttat,[ntta-t],[3FS:she],
+2789.0,amzzud,l!ʁarad,[l-!ʁarad],[the business],N
+2790.0,amzzud,ns,[n-s],[of-3S],
+2791.0,amzzud,illa,[i-lla],[3MS-be:pf],V
+2792.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2793.0,amzzud,ʁ,[ʁ],[on],
+2794.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+2795.0,amzzud,tra,[t-ra],[3FS-want:pf],V
+2796.0,amzzud,at,[ad],[AD:Comp],
+2797.0,amzzud,tid,[t-id],[Obj:3S-deic],
+2798.0,amzzud,tawi,[t-awi],[3FS-bring:pf],V
+2799.0,amzzud,!laraf,[!laraf],[Police patrol],N
+2800.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2801.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+2802.0,amzzud,skrnd,[skr-n-d],[do:pf-3MP-deic],V
+2803.0,amzzud,labbulis,[la-bbulis],[the police],N
+2804.0,amzzud,!larafat,[!laraf-at],[Police patrol-FP],N
+2805.0,amzzud,kullu,[kullu],[all],
+2806.0,amzzud,maʁ,[maʁ],[maʁ],
+2807.0,amzzud,nn,[nn],[nn],
+2808.0,amzzud,ufan,[ufa-n],[find:pf-3MP],V
+2809.0,amzzud,kra,[kra],[some],
+2810.0,amzzud,n,[n],[n],
+2811.0,amzzud,ddriwʃ,[ddriwʃ],[gentle],N
+2812.0,amzzud,ula,[ula],[or],
+2813.0,amzzud,ʃʃumur,[ʃʃumur],[unemployed],N
+2814.0,amzzud,awin,[awi-n],[bring:ao-3MP],V
+2815.0,amzzud,ti,[t-i],[Obj:3S-deic],
+2816.0,amzzud,wannann,[wanna-nn],[the one 3MS-deic],
+2817.0,amzzud,ufan,[ufa-n],[find:pf-3MP],V
+2818.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+2819.0,amzzud,as,[a-s],[dat-3S],
+2820.0,amzzud,nikr,[nikr],[stand up:ao:2S],V
+2821.0,amzzud,a,[a],[Voc],
+2822.0,amzzud,mskin,[mskin],[poor],N
+2823.0,amzzud,a,[ad],[AD:Comp],
+2824.0,amzzud,ttihlt,[t-tihl-t],[marry:Impf-2S],V
+2825.0,amzzud,d,[d],[d],
+2826.0,amzzud,illis,[illi-s],[daughter-poss:3S],N
+2827.0,amzzud,uwgllid,[uw-gllid],[SMCS-the king],N
+2828.0,amzzud,New_Sentence,New_Sentence,New_Sentence,N
+2829.0,amzzud,ajlliʁ,[ajlliʁ],[until],N
+2830.0,amzzud,lkmn,[lkm-n],[3MP:arrive:pf],V
+2831.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2832.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+2833.0,amzzud,as,[a-s],[dat-3S],
+2834.0,amzzud,nikr,[nikr],[stand up:ao:2S],V
+2835.0,amzzud,ula,[ula],[or],
+2836.0,amzzud,kijji,[kijji],[2MS],
+2837.0,amzzud,a,[ad],[AD:Comp],
+2838.0,amzzud,!jamʒʒud,[!ja-mʒʒud],[to-MFSS-scabby],N
+2839.0,amzzud,a,[ad],[AD:Comp],
+2840.0,amzzud,ttihlt,[ttihl-t],[marry:Impf-2S],V
+2841.0,amzzud,illis,[illi-s],[daughter-poss:3S],N
+2842.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+2843.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2844.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+2845.0,amzzud,aʒʒat,[aʒʒ-at],[let:ao-2MP],V
+2846.0,amzzud,i,[i],[to],
+2847.0,amzzud,jji,[iji],[dat:1S],
+2848.0,amzzud,awa,[awa],[so],
+2849.0,amzzud,ħtta,[ħtta],[even if],
+2850.0,amzzud,zund,[zund],[a-s],
+2851.0,amzzud,nkki,[nkki],[1S:me],N
+2852.0,amzzud,ra,[ra],[ra:Fut],
+2853.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],V
+2854.0,amzzud,illis,[illi-s],[daughter-poss:3S],N
+2855.0,amzzud,uwgllid,[uw-gllid],[SMCS-the king],N
+2856.0,amzzud,nnan,[nna-n],[say:pf-3MP],V
+2857.0,amzzud,as,[a-s],[dat-3S],
+2858.0,amzzud,nikr,[nikr],[stand up:ao:2S],V
+2859.0,amzzud,ukan,[ukan],[just],
+2860.0,amzzud,inkr,[i-nkr],[3MS-get up:pf],V
+2861.0,amzzud,ssʁwlin,[ss-ʁwli-n],[3P:caus-bring up:pf],V
+2862.0,amzzud,tid,[t-id],[Obj:3S-deic],
+2863.0,amzzud,!bbar !fors,[!bbar !fors],[in force],
+2864.0,amzzud,qqnntinn,[qqnn-t-inn],[3MPlock up:pf-Obj3MS-Deic],V
+2865.0,amzzud,ntta,[ntta],[3MS:he],
+2866.0,amzzud,wla,[wla],[or],
+2867.0,amzzud,ʁwilli,[ʁ-wi-lli],[DemPron:MP:These ones-RelPro],
+2868.0,amzzud,kullu,[kullu],[all],
+2869.0,amzzud,ʁ,[ʁ],[on],
+2870.0,amzzud,jan,[ja-n],[one:M],
+2871.0,amzzud,ddibbu,[ddibbu],[depot],N
+2872.0,amzzud,awind,[awi-n-d],[take:ao-3MP-deic],V
+2873.0,amzzud,illis,[illi-s],[daughter-poss:3S],N
+2874.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+2875.0,amzzud,tbidd,[t-bidd],[3FS-stand up:pf],V
+2876.0,amzzud,ʁ,[ʁ],[in],
+2877.0,amzzud,imi,[imi],[mouth],N
+2878.0,amzzud,llbab,[n l-bab],[of the door:S],N
+2879.0,amzzud,wanna,[wanna],[the one 3MS],
+2880.0,amzzud,wkan,[wkan],[only],
+2881.0,amzzud,izrin,[i-zri-n],[3MS-pass-partic],V
+2882.0,amzzud,arkiʁ,[arkiʁ],[until],
+2883.0,amzzud,d,[d],[d],
+2884.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+2885.0,amzzud,lgwddam,[l-gwddam],[in front of],N
+2886.0,amzzud,ns,[n-s],[of-3S],
+2887.0,amzzud,tqqzz,[t-qqzz],[3FS-look:pf],V
+2888.0,amzzud,gis,[gi-s],[loc:3MS],
+2889.0,amzzud,ur,[ur],[neg],
+2890.0,amzzud,igi,[i-gi],[3MS-be:pf],
+2891.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2892.0,amzzud,ur,[ur],[neg],
+2893.0,amzzud,a,[ad],[AD:Comp],
+2894.0,amzzud,jas,[i-a-s],[to-dat-3S],
+2895.0,amzzud,takka,[t-akka],[3FS-give:Impf],V
+2896.0,amzzud,jat,[ja-t],[one:F],
+2897.0,amzzud,iffʁ,[i-ffʁ],[3MS-go out:pf],V
+2898.0,amzzud,smunn,[smun-n],[gather:ao-3MP],V
+2899.0,amzzud,diss,[di-ss],[di-ss],
+2900.0,amzzud,jan,[ja-n],[one:M],
+2901.0,amzzud,!ssbbat,[!ssbbat],[shoes],N
+2902.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+2903.0,amzzud,as,[a-s],[dat-3S],
+2904.0,amzzud,ħtta,[ħtta],[even if],
+2905.0,amzzud,zund,[zund],[a-s],
+2906.0,amzzud,kijji,[kijji],[2MS],
+2907.0,amzzud,jadlli,[jadlli],[anyway],
+2908.0,amzzud,a,[ad],[AD:Comp],
+2909.0,amzzud,ra,[ra],[ra:Fut],
+2910.0,amzzud,jtihl,[i-tihl],[3MS-marry:pf],V
+2911.0,amzzud,illis,[illi-s],[daughter-poss:3S],N
+2912.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+2913.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2914.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2915.0,amzzud,ntta,[ntta],[3MS:he],
+2916.0,amzzud,idda,[i-dda],[3MS-go:pf],V
+2917.0,amzzud,ar,[ar],[AR],
+2918.0,amzzud,agwns,[a-gwns],[SHFS-the bottom],N
+2919.0,amzzud,n,[n],[n],
+2920.0,amzzud,ddibbulli,[ddibbu-lli],[depot-RelPro] ,N
+2921.0,amzzud,igun,[i-gun],[3MS-sleep:pf],V
+2922.0,amzzud,gis,[gi-s],[loc:3MS],
+2923.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+2924.0,amzzud,kullu,[kullu],[all],
+2925.0,amzzud,ffaʁn,[ffaʁ-n],[go out:ao-3MP],V
+2926.0,amzzud,middn,[middn],[people],N
+2927.0,amzzud,fadd,[fadd],[so that],
+2928.0,amzzud,a,[ad],[AD:Comp],
+2929.0,amzzud,ra,[ra],[ra:Fut],
+2930.0,amzzud,srs,[sr-s],[to-3S],
+2931.0,amzzud,ttllin,[ttlli-n],[search:ao-3MP],V
+2932.0,amzzud,at,[ad],[AD:Comp],
+2933.0,amzzud,tid,[tid],[Obj:3MS-deic],
+2934.0,amzzud,ttħin,[ttħi-n],[push:pf-3MP],V
+2935.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pfc],V
+2936.0,amzzud,ttid,[tt-id],[Obj:3FS-deic],
+2937.0,amzzud,tf,[t-f],[3FS-give:ao],V
+2938.0,amzzud,as,[a-s],[dat-3MS],
+2939.0,amzzud,zzif,[zzif],[a scarf],N
+2940.0,amzzud,t,[t],[and],
+2941.0,amzzud,tattffaħt,[ta-ttffaħ-t],[FFSS-an apple],N
+2942.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2943.0,amzzud,ara,[ara],[2S:give:Imper],V
+2944.0,amzzud,kid,[ki-d],[ki-d],
+2945.0,amzzud,tafruχtlli,[ta-fruχ-t-lli],[FFSS-girl-RelPro] ,N
+2946.0,amzzud,ar,[ar],[AR],
+2947.0,amzzud,gis,[gi-s],[loc:3MS],
+2948.0,amzzud,!ttssant,[!ttssa-nt],[laugh:ao-3FP],V
+2949.0,amzzud,isttmas,[i-sttma-s],[FPFS-sister-poss3MS],N
+2950.0,amzzud,ar,[ar],[AR],
+2951.0,amzzud,fllas,[flla-s],[on-3MS],
+2952.0,amzzud,tngwarnt,[t-ngwar-nt],[3FP-stammer:Impf],N
+2953.0,amzzud,nnant,[nna-nt],[say:pf-3FP],V
+2954.0,amzzud,as,[a-s],[dat-3MS],
+2955.0,amzzud,!zr,[!zr],[see:Imper:2MS],V
+2956.0,amzzud,ʃʃbbwanlli,[ʃʃbbwan-lli],[the young:P-RelPro] ,N
+2957.0,amzzud,nsti,[n-sti],[1P-choose],V
+2958.0,amzzud,nkkwnti,[nkkwnti],[1FP],
+2959.0,amzzud,tddut,[t-ddu-t],[2S-go:ao],V
+2960.0,amzzud,kmmi,[kmmi],[2FS],
+2961.0,amzzud,t!amzt,[t-!amz-t],[2S-hold:pf],V
+2962.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2963.0,amzzud,ur,[ur],[neg],
+2964.0,amzzud,fllas,[flla-s],[on-3MS],
+2965.0,amzzud,tlli,[t-lli],[3FS-be on:pf neg],V
+2966.0,amzzud,ħtta,[ħtta],[even if],
+2967.0,amzzud,lksut,[l-ksut],[garment],N
+2968.0,amzzud,tnna,[t-nna],[3FS-say:pf],V
+2969.0,amzzud,jasnt,[i-a-snt],[to-dat-3FM],
+2970.0,amzzud,nkki,[nkki],[1S:me],N
+2971.0,amzzud,ʁwad,[ʁ-wa-d],[DemPronMS-Deic:this one],
+2972.0,amzzud,a,[a],[voc],
+2973.0,amzzud,jji,[iji],[dat:1S],
+2974.0,amzzud,tra,[t-ra],[3FS-want:pf],V
+2975.0,amzzud,ʃʃahawanw,[ʃʃahawa-nw],[wishes-Poss:1S],N
+2976.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+2977.0,amzzud,ara,[ara],[2S:give:Imper],V
+2978.0,amzzud,kid,[ki-d],[ki-d],
+2979.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+2980.0,amzzud,iga,[i-ga],[3MS-do:pf],V
+2981.0,amzzud,jasnnn,[i-a-s-n-nn],[to-dat-3P-deic],
+2982.0,amzzud,l!bbriz,[l-!bbriz],[the electrical outlet],N
+2983.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+2984.0,amzzud,i,[i],[dat],
+2985.0,amzzud,tmddakkwlt,[t-mddakkwl-t],[FSCS-friend],N
+2986.0,amzzud,ns,[n-s],[PossDet:3S],
+2987.0,amzzud,ini,[ini],[3S:tell:ao],V
+2988.0,amzzud,i,[i],[dat],
+2989.0,amzzud,bbwam,[bbwa-m],[father-poss:2FS],N
+2990.0,amzzud,a,[a],[voc],
+2991.0,amzzud,!jzri,[i-!zri],[3MS-see:ao],V
+2992.0,amzzud,!idulan,[!idulan],[parents-in-law],N
+2993.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+2994.0,amzzud,ns,[n-s],[of-3S],
+2995.0,amzzud,ad,[ad],[AD:Comp],
+2996.0,amzzud,asd,[as-d],[dat:3S-deic],
+2997.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+2998.0,amzzud,ddwa,[ddwa],[medication],N
+2999.0,amzzud,mas,[ma-s],[with what],
+3000.0,amzzud,a,[ad],[AD:Comp],
+3001.0,amzzud,jttʒʒi,[i-tt-ʒʒi],[3MS-pron-cure:ao],V
+3002.0,amzzud,ʁ,[ʁ],[in],
+3003.0,amzzud,ammas,[a-mmas],[inside],N
+3004.0,amzzud,n,[n],[of],
+3005.0,amzzud,ja,[jan],[one],
+3006.0,amzzud,llmakan,[n l-makan],[of the place],N
+3007.0,amzzud,jaggugn,[i-aggug-n],[3MS-be far:ao-particip],V
+3008.0,amzzud,tddu,[t-ddu],[3FS-go:pf],V
+3009.0,amzzud,tiniti,[t-ini-t-i],[2FS-say:ao-dat: ],V
+3010.0,amzzud,bbwa,[bbwa],[father],N
+3011.0,amzzud,bbwa,[bbwa],[father],N
+3012.0,amzzud,s,[s],[poss:3S],
+3013.0,amzzud,hati,[hati],[presentative],
+3014.0,amzzud,ra,[ra],[ra:Fut],
+3015.0,amzzud,kk,[kk],[2MS:you],N
+3016.0,amzzud,idawa,[i-dawa],[3MS-heal:pf],V
+3017.0,amzzud,ddwa,[ddwa],[medication],N
+3018.0,amzzud,llmakan,[n l-makan],[of the place],N
+3019.0,amzzud,ifllani,[ifllani],[unknown],N
+3020.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3021.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3022.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3023.0,,ma,[ma],[what],
+3024.0,amzzud,rat,[rad],[RAD:Fut],
+3025.0,amzzud,tid,[t-id],[Obj-deic],
+3026.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],V
+3027.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+3028.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3029.0,amzzud,!idulan,[!idulan],[parents-in-law],N
+3030.0,amzzud,nk,[n-k],[of-2MS],
+3031.0,amzzud,iʁr,[i-ʁr],[3MS-call:ao],V
+3032.0,amzzud,lmalik,[l-malik],[the-king],N
+3033.0,amzzud,i,[i],[dat],
+3034.0,amzzud,jdulan,[!jdulan],[parents in law],N
+3035.0,amzzud,ns,[n-s],[of-3S],
+3036.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3037.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3038.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3039.0,,a,[ad],[AD:Comp],
+3040.0,amzzud,jjid,[iji-d],[dat:1S-deic],
+3041.0,amzzud,tawim,[t-awi-m],[2MP-bring:ao],V
+3042.0,amzzud,ddwa,[ddwa],[medication],N
+3043.0,amzzud,ʁ,[ʁ],[at],
+3044.0,amzzud,lmakan,[l-makan],[location],N
+3045.0,amzzud,iflani,[iflani],[unknown],N
+3046.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3047.0,amzzud,as,[a-s],[dat-3S],
+3048.0,amzzud,a,[a],[voc],
+3049.0,amzzud,sidi,[sidi],[my lord],N
+3050.0,amzzud,rat,[rad],[ra],
+3051.0,amzzud,tid,[t-id],[Obj:3S-deic],
+3052.0,amzzud,nawi,[n-awi],[1P-bring:ao],V
+3053.0,amzzud,walajnni,[walajnni],[but],
+3054.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3055.0,amzzud,ur,[ur],[neg],
+3056.0,amzzud,t,[t],[Obj:3S],
+3057.0,amzzud,nqqbil,[n-qqbil],[of-tribe],
+3058.0,amzzud,ad,[ad],[AD:Comp],
+3059.0,amzzud,didnʁ,[did-nʁ],[with-1P:us],
+3060.0,amzzud,jili,[i-ili],[3MS-be:ao],V
+3061.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3062.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3063.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3064.0,,waχχa,[waχχa],[even if],
+3065.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3066.0,amzzud,ʕla,[ʕla],[on],
+3067.0,amzzud,!brra,[!brra],[country side],N
+3068.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3069.0,amzzud,as,[a-s],[dat-3S],
+3070.0,amzzud,walajnni,[walajnni],[but],
+3071.0,amzzud,iʁ,[iʁ],[if],
+3072.0,amzzud,d,[d],[d],
+3073.0,amzzud,niwi,[n-iwi],[1P-iwi],
+3074.0,amzzud,ddwa,[ddwa],[medication],N
+3075.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3076.0,amzzud,rat,[rad],[ra],
+3077.0,amzzud,t,[t],[Obj:3S],
+3078.0,amzzud,ng,[n-g],[1P-do:ao],V
+3079.0,amzzud,ʁ,[ʁ],[at],
+3080.0,amzzud,ddu,[ddu],[under],
+3081.0,amzzud,wfus,[w-fus],[SMCS-hand],N
+3082.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3083.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3084.0,amzzud,ugllid,[u-gllid],[SMCS-the king],N
+3085.0,amzzud,unʃk,[unʃk],[much],
+3086.0,amzzud,ann,[a-nn],[DemDet-Deic:that],
+3087.0,amzzud,ag,[ad],[AD:Comp],
+3088.0,amzzud,gis,[gi-s],[loc:3MS],
+3089.0,amzzud,illan,[i-lla-n],[3MS-be-partic],V
+3090.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3091.0,amzzud,ftun,[ftu-n],[go:pf-3MP],V
+3092.0,amzzud,ssadatlli,[ssadat-lli],[the men-RelPro] ,N
+3093.0,amzzud,add,[ad],[AD:Comp],
+3094.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+3095.0,amzzud,ddwa,[ddwa],[medication],N
+3096.0,amzzud,ddwa,[ddwa],[medication],N
+3097.0,amzzud,ittlaħnn,[i-ttlaħ-nn],[3MS-be far:pf-deic],V
+3098.0,amzzud,illann,[i-lla-nn],[3MS-be:pf:partic],V
+3099.0,amzzud,ʁ,[ʁ],[in],
+3100.0,amzzud,tmazirt,[t-mazir-t],[SMCS-country],N
+3101.0,amzzud,!jadnin,[!jadnin],[an other],
+3102.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3103.0,amzzud,ara,[ara],[2S:give:Imper],V
+3104.0,amzzud,kid,[kid],[kid],
+3105.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3106.0,amzzud,ibadl,[i-badl],[3MS-change:pf],V
+3107.0,amzzud,l!usfat,[l-!usfa-t],[order-P],N
+3108.0,amzzud,jizwir,[i-izwir],[3MS-precede:pf],V
+3109.0,amzzud,tn,[tn],[Obj:3MP],
+3110.0,amzzud,s,[s],[at],
+3111.0,amzzud,uʁaras,[u-ʁaras],[SMCS-path],N
+3112.0,amzzud,iqql,[i-qql],[3MS-qql],V
+3113.0,amzzud,srsn,[sr-sn],[to-3MP],V
+3114.0,amzzud,lliʁd,[lliʁd],[RelPro-deic],
+3115.0,amzzud,uʃkan,[uʃka-n],[come in:pf-3MP],V
+3116.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3117.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3118.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3119.0,,ssalamuʕalajkum,[ssalamuʕalajkum],[peace on you],N
+3120.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3121.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3122.0,amzzud,as,[a-s],[dat-3S],
+3123.0,,ʕalajkumssalam,[ʕalajkumssalam],[peace on you],
+3124.0,amzzud,labas,[labas],[no harm],
+3125.0,amzzud,biχir,[biχir],[very good],
+3126.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3127.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3128.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3129.0,,labas,[labas],[no harm],
+3130.0,amzzud,biχir,[biχir],[very good],
+3131.0,amzzud,mani,[mani],[where],
+3132.0,amzzud,tram,[t-ra-m],[2MP-want:ao],V
+3133.0,amzzud,nnan,[nna-n],[say:pf-3MP],V
+3134.0,amzzud,as,[a-s],[dat-3S],
+3135.0,amzzud,a,[a],[voc],
+3136.0,amzzud,sidi,[sidi],[my lord],N
+3137.0,amzzud,nra,[n-ra],[1P-want:ao],V
+3138.0,amzzud,add,[ad],[AD:Comp],
+3139.0,amzzud,nawi,[n-awi],[1P-bring:ao],V
+3140.0,amzzud,ddwa,[ddwa],[medication],N
+3141.0,amzzud,ʁ,[ʁ],[at],
+3142.0,amzzud,lmakan,[l-makan],[location],N
+3143.0,amzzud,iflani,[iflani],[unknown],N
+3144.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3145.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3146.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3147.0,,ddwa,[ddwa],[medication],N
+3148.0,amzzud,ra,[rad],[ra:Fut],
+3149.0,amzzud,jawn,[a-wn],[dat:2MP],
+3150.0,amzzud,tid,[t-id],[Obj-deic],
+3151.0,amzzud,awiʁ,[awi-ʁ],[carry:Impf-1S],V
+3152.0,amzzud,walakin,[walakin],[but],
+3153.0,amzzud,a,[ad],[AD:Comp],
+3154.0,amzzud,jji,[i-j-i],[dat:1S],
+3155.0,amzzud,tfkim,[t-fki-m],[2S-give:ao-MP],V
+3156.0,amzzud,zzif,[zzif],[a scarf],N
+3157.0,amzzud,ttattffaħtlli,[tta-ttffaħ-t-lli],[FFSS-apple-RelPro] ,N
+3158.0,amzzud,jawn,[a-wn],[epen-dat-2MP],
+3159.0,amzzud,ifka,[i-fka],[3MS-give:pf],V
+3160.0,amzzud,lmalik,[l-malik],[the-king],N
+3161.0,amzzud,inin,[ini-n],[say:ao-3MP],V
+3162.0,amzzud,as,[a-s],[dat:3MS],
+3163.0,amzzud,waχχa,[waχχa],[even if],
+3164.0,amzzud,a,[a],[voc],
+3165.0,amzzud,sidi,[sidi],[my lord],N
+3166.0,amzzud,fkin,[fki-n],[give:pf:3MP],V
+3167.0,amzzud,as,[a-s],[dat-3S],
+3168.0,amzzud,zzif,[zzif],[a scarf],N
+3169.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+3170.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],V
+3171.0,amzzud,jasnd,[i-a-s-n-d],[to-dat-3P-deic],
+3172.0,amzzud,ddwa,[ddwa],[medication],N
+3173.0,amzzud,izwir,[i-zwir],[3MS-forestall:pf],V
+3174.0,amzzud,tnid,[tn-id],[Obj:3P-deic],
+3175.0,amzzud,daʁ,[daʁ],[once again],
+3176.0,amzzud,s,[s],[s],
+3177.0,amzzud,l!blast,[l-!blas-t],[the place],N
+3178.0,amzzud,lliʁ,[lliʁ],[RelPro],
+3179.0,amzzud,mmaqqarn,[mmaqqar-n],[meet:pf-3MP],V
+3180.0,amzzud,afin,[afi-n],[find:ao-3MP],V
+3181.0,amzzud,tid,[t-id],[Obj:3S-deic],
+3182.0,amzzud,ifasn,[i-fa-s-n],[3MS-give:pf-dat:3MP],V
+3183.0,amzzud,ddwa,[ddwa],[medication],N
+3184.0,amzzud,zzif,[zzif],[a scarf],N
+3185.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+3186.0,amzzud,iχzn,[i-χzn],[3MS-hide:pf],V
+3187.0,amzzud,tn,[tn],[Obj:3P],
+3188.0,amzzud,lmalik,[l-malik],[the-king],N
+3189.0,amzzud,ur,[ur],[neg],
+3190.0,amzzud,iʒʒi,[i-ʒʒi],[3MS-cure:pf],V
+3191.0,amzzud,ikk,[i-kk],[3MS-pass:pf],V
+3192.0,amzzud,daʁ,[daʁ],[once again],
+3193.0,amzzud,kra,[kra],[some],
+3194.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3195.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3196.0,amzzud,a,[ad],[AD:Comp],
+3197.0,amzzud,jjid,[iji-d],[dat:1S-deic],
+3198.0,amzzud,tawin,[t-awi-n],[3MP-bring:ao],V
+3199.0,amzzud,ddwa,[ddwa],[medication],N
+3200.0,amzzud,!jadnin,[!jadnin],[an other],
+3201.0,amzzud,ʁ,[ʁ],[in],
+3202.0,amzzud,lmakan,[l-makan],[location],N
+3203.0,amzzud,iflani,[iflani],[unknown],N
+3204.0,amzzud,ddun,[ddu-n],[go:ao-3MP],V
+3205.0,amzzud,daʁ,[daʁ],[once again],
+3206.0,amzzud,ssadatlli,[ssadat-lli],[the men-RelPro] ,N
+3207.0,amzzud,add,[ad],[AD:Comp],
+3208.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+3209.0,amzzud,ddwa,[ddwa],[medication],N
+3210.0,amzzud,izwir,[i-zwir],[3MS-be first:pf],V
+3211.0,amzzud,tn,[tn],[Obj:3MP],
+3212.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3213.0,amzzud,s,[s],[s],
+3214.0,amzzud,uʁaras,[u-ʁaras],[SMCS-path],N
+3215.0,amzzud,i!ʕrdasn,[i-!ʕrd-asn],[3MS-invite-dat:3MP],V
+3216.0,amzzud,mani,[mani],[where],
+3217.0,amzzud,tram,[t-ra-m],[2MP-want:ao],V
+3218.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3219.0,amzzud,as,[a-s],[dat-3S],
+3220.0,amzzud,add,[ad],[AD:Comp],
+3221.0,amzzud,nawi,[n-awi],[1MP-bring:ao],V
+3222.0,amzzud,ddwa,[ddwa],[medication],N
+3223.0,amzzud,!jadnin,[!jadnin],[an other],
+3224.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3225.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3226.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3227.0,,riʁ,[ri-ʁ],[want:ao-1S],V
+3228.0,amzzud,a,[ad],[AD:Comp],
+3229.0,amzzud,jji,[iji],[dat:1S],
+3230.0,amzzud,tfm,[t-f-m],[2MP-give:ao],V
+3231.0,amzzud,a!mzzuʁ,[a-!mzzuʁ],[MFSS-ear],N
+3232.0,amzzud,i,[i],[i],
+3233.0,amzzud,jan,[ja-n],[one:M],
+3234.0,amzzud,gigun,[gig-un],[in:2MP],
+3235.0,amzzud,iʁ,[iʁ],[if],
+3236.0,amzzud,tram,[t-ra-m],[2MP-want:ao],V
+3237.0,amzzud,a,[ad],[AD:Comp],
+3238.0,amzzud,jawn,[i-a-wn],[3MS-dat-3MP],
+3239.0,amzzud,tid,[t-id],[Obj:3S-deic],
+3240.0,amzzud,awiʁ,[awi-ʁ],[carry:Impf-1S],V
+3241.0,amzzud,qqbln,[qqbl-n],[accept:pf-3MP],V
+3242.0,amzzud,iddu,[i-ddu],[3MS-go:ao],V
+3243.0,amzzud,jawi,[i-awi],[3MS-bring:Impf],V
+3244.0,amzzud,jasnd,[i-a-s-n-d],[to-dat-3P-deic],
+3245.0,amzzud,ddwa,[ddwa],[medication],N
+3246.0,amzzud,fin,[f-in],[give:pf-3MP],V
+3247.0,amzzud,as,[a-s],[dat-3S],
+3248.0,amzzud,a!mzzuʁ,[a-!mzzuʁ],[MFSS-ear],N
+3249.0,amzzud,i,[i],[i],
+3250.0,amzzud,jan,[ja-n],[one:M],
+3251.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+3252.0,amzzud,awin,[awi-n],[bring:pf-3S],V
+3253.0,amzzud,tid,[t-id],[Obj:3S-deic],
+3254.0,amzzud,i,[i],[dat],
+3255.0,amzzud,lmalik,[l-malik],[the-king],N
+3256.0,amzzud,ikk,[i-kk],[3MS-pass:pf],V
+3257.0,amzzud,daʁ,[daʁ],[once again],
+3258.0,amzzud,kra,[kra],[some],
+3259.0,amzzud,ur,[ur],[neg],
+3260.0,amzzud,iʒʒi,[i-ʒʒi],[3MS-cure:pf],V
+3261.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3262.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3263.0,amzzud,ajjid,[a-jji-d],[dat-1S-deic],
+3264.0,amzzud,tawim,[t-awi-m],[2MP-bring:ao],V
+3265.0,amzzud,ddwalli,[ddwa-lli],[medication-RelPro] ,N
+3266.0,amzzud,illan,[i-lla-n],[3MS-be-partic],V
+3267.0,amzzud,dar,[dar],[to],
+3268.0,amzzud,tgllitt,[t-gllid-t],[FSCS-king] ,N
+3269.0,amzzud,n,[n],[n],
+3270.0,amzzud,lmakan,[l-makan],[location],N
+3271.0,amzzud,iflani,[iflani],[unknown],N
+3272.0,amzzud,hann,[hann],[presentative],
+3273.0,amzzud,dars,[dar-s],[to-3S],
+3274.0,amzzud,jat,[ja-t],[one:F],
+3275.0,amzzud,tglajt,[t-glaj-t],[FSCS-egg],N
+3276.0,amzzud,art,[art],[art],
+3277.0,amzzud,tttgga,[t-ttgga],[2S-do:Impf],V
+3278.0,amzzud,ʁ,[ʁ],[in],
+3279.0,amzzud,!wagrd,[!w-agrd],[SMCS-agrd],N
+3280.0,amzzud,wgaju,[w-gaju],[SMCS-head],N
+3281.0,amzzud,ns,[n-s],[of-3S],
+3282.0,amzzud,ʁ,[ʁ],[in],
+3283.0,amzzud,lbitlliʁ,[l-bit-lli-ʁ],[a room-RelPro-1S],N
+3284.0,amzzud,a,[ad],[AD:Comp],
+3285.0,amzzud,tggwan,[t-ggwa-n],[3MP-wash:Impf],V
+3286.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3287.0,amzzud,tilinn,[t-ili-nn],[3FS-be:pf-deic],V
+3288.0,amzzud,tgllitt,[t-gllid-t],[FSCS-king] ,N
+3289.0,amzzud,ʁ,[ʁ],[in],
+3290.0,amzzud,asgajann,[a-sga-ja-nn],[MFSS-side-dem-deic],N
+3291.0,amzzud,n,[n],[n],
+3292.0,amzzud,sa,[sa],[sa],
+3293.0,amzzud,l!bħor,[l-!bħor],[P:sea],N
+3294.0,amzzud,ddun,[ddu-n],[go:ao-3MP],V
+3295.0,amzzud,middnlli,[middn-lli],[people-RelPro] ,
+3296.0,amzzud,add,[ad],[AD:Comp],
+3297.0,amzzud,awin,[awi-n],[take:ao-3MP],V
+3298.0,amzzud,taglajt,[ta-glaj-t],[FFSS-egg],N
+3299.0,amzzud,i!ʕrdasn,[i-!ʕrd-as-n],[3MS-!ʕrd-as-n],V
+3300.0,amzzud,daʁ,[daʁ],[once again],
+3301.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3302.0,amzzud,ʁ,[ʁ],[in],
+3303.0,amzzud,uʁaras,[u-ʁaras],[SMCS-path],N
+3304.0,amzzud,munn,[mun-n],[go together:pf-3MP],V
+3305.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+3306.0,amzzud,lkmn,[lkm-n],[3MP:arrive:pf],V
+3307.0,amzzud,!ttrf,[!ttrf],[near],
+3308.0,amzzud,llbħr,[n l-bħr],[of the sea],N
+3309.0,amzzud,jiliħasn,[i-iliħ-as-n],[3MS-be missing:ao-dat:3MP],V
+3310.0,amzzud,mani,[mani],[from where],
+3311.0,amzzud,ttkkan,[ttkka-n],[3P-wait:pf-M],V
+3312.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3313.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3314.0,amzzud,a,[ad],[AD:Comp],
+3315.0,amzzud,jji,[iji],[dat:1S],
+3316.0,amzzud,tfm,[t-f-m],[2MP-give:ao],V
+3317.0,amzzud,!tadatt,[!ta-dat-t],[FFSS-small finger],N
+3318.0,amzzud,i,[i],[i],
+3319.0,amzzud,jan,[ja-n],[one:M],
+3320.0,amzzud,gigun,[gig-un],[in:2MP],
+3321.0,amzzud,a,[ad],[AD:Comp],
+3322.0,amzzud,jawn,[i-a-wn],[to-dat-3MP],
+3323.0,amzzud,d,[d],[d],
+3324.0,amzzud,awiʁ,[awi-ʁ],[carry:Impf-1S],V
+3325.0,amzzud,ddwa,[ddwa],[medication],N
+3326.0,amzzud,jann,[jann],[jann],
+3327.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3328.0,amzzud,as,[a-s],[dat-3S],
+3329.0,amzzud,waχχa,[waχχa],[even if],
+3330.0,amzzud,aʁar,[aʁar],[just],
+3331.0,amzzud,awi,[awi],[2S:bring:Imper],V
+3332.0,amzzud,tid,[t-id],[Obj:3S-deic],
+3333.0,amzzud,hlli,[hlli],[maybe],
+3334.0,amzzud,i!dowr,[i-!dowr],[3MS-rotate:pf],V
+3335.0,amzzud,daʁ,[daʁ],[once again],
+3336.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3337.0,amzzud,talχatmt,[ta-l-χatm-t],[FFSS-ring],N
+3338.0,amzzud,n,[n],[n],
+3339.0,amzzud,lħikma,[l-ħikma],[Wisdom],N
+3340.0,amzzud,jaʃkid,[i-aʃk-id],[3MS-come in:ao-deic],V
+3341.0,amzzud,lʕfrit,[l-ʕfrit],[the devil],N
+3342.0,amzzud,jasi,[i-asi],[3MS-bring:ao],V
+3343.0,amzzud,t,[t],[Obj:3S],
+3344.0,amzzud,ar,[ar],[AR],
+3345.0,amzzud,dar,[dar],[to],
+3346.0,amzzud,ja,[ja],[one],
+3347.0,amzzud,llʕfrit,[ll-ʕfrit],[the devil],N
+3348.0,amzzud,!jadninlli,[!jadnin-lli],[an other-RelPro] ,
+3349.0,amzzud,rat,[rad],[RAD:Fut],
+3350.0,amzzud,t,[t],[t],
+3351.0,amzzud,isslkm,[i-ss-lkm],[3MS-caus-arrive:pf],V
+3352.0,amzzud,i,[i],[i],
+3353.0,amzzud,tgllitt,[t-gllid-t],[FSCS-king] ,N
+3354.0,amzzud,jasi,[i-asi],[3MS-bring:ao],V
+3355.0,amzzud,t,[t],[Obj:3S],
+3356.0,amzzud,ʁd,[ʁd],[ʁd],
+3357.0,amzzud,nttan,[nttan],[3MS:he],
+3358.0,amzzud,ar,[ar],[AR],
+3359.0,amzzud,lmaħal,[l-maħal],[the site],N
+3360.0,amzzud,n,[n],[n],
+3361.0,amzzud,χtann,[χ-ta-nn],[DemPronFS:that one],
+3362.0,amzzud,ikʃm,[i-kʃm],[3MS-come in],V
+3363.0,amzzud,srs,[sr-s],[to 3S],
+3364.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3365.0,amzzud,jaf,[i-af],[3MS-find:ao],V
+3366.0,amzzud,ttinn,[tt-inn],[Obj:3FS-deic],
+3367.0,amzzud,tgun,[t-gun],[3MS-sleep:pf],V
+3368.0,amzzud,jasid,[i-asi-d],[3MS-bring:ao-deic],V
+3369.0,amzzud,taglajt,[ta-glaj-t],[FFSS-egg],N
+3370.0,amzzud,jara,[i-ara],[3MS-write:pf],V
+3371.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3372.0,amzzud,tabratt,[tabrat-t],[letter],N
+3373.0,amzzud,isrs,[i-srs],[3MS-put:pf],V
+3374.0,amzzud,as,[a-s],[dat-3S],
+3375.0,amzzud,tt,[tt],[Obj:3S],
+3376.0,amzzud,iggi,[iggi],[the side],
+3377.0,amzzud,jdmarn,[i-dmar-n],[MPFS-thorax],N
+3378.0,amzzud,ns,[n-s],[of-3S],
+3379.0,amzzud,gis,[gi-s],[loc:3MS],
+3380.0,amzzud,flan,[flan],[so and so],
+3381.0,amzzud,bn,[bn],[son of],
+3382.0,amzzud,flan,[flan],[so and so],
+3383.0,amzzud,aj,[ad],[AD:Comp],
+3384.0,amzzud,iwin,[iwi-n],[3MS:bring-partic],V
+3385.0,amzzud,taglajt,[ta-glaj-t],[FFSS-egg],N
+3386.0,amzzud,ʁ,[ʁ],[in],
+3387.0,amzzud,lmakan,[l-makan],[location],N
+3388.0,amzzud,iflani,[iflani],[unknown],N
+3389.0,amzzud,ħtta,[ħtta],[even if],
+3390.0,amzzud,iʁ,[iʁ],[if],
+3391.0,amzzud,trit,[t-ri-t],[2MS-want:ao],V
+3392.0,amzzud,at,[ad],[AD:Comp],
+3393.0,amzzud,tmmaʁt,[t-mmaʁ-t],[2S-fight:Impf],V
+3394.0,amzzud,hati,[hati],[presentative],
+3395.0,amzzud,juʒad,[i-uʒad],[3MS-be available],V
+3396.0,amzzud,jurrid,[i-urri-d],[3MS-go back:pf-deic],V
+3397.0,amzzud,ifkasn,[i-fka-s-n],[3MS-give:pf dat 3MP],V
+3398.0,amzzud,taglajtlli,[ta-glaj-t-lli],[FFSS-egg-RelPro] ,N
+3399.0,amzzud,bbinasd,[bbi-n-as-d],[cut:pf-3MP-dat:3S-deic],V
+3400.0,amzzud,!tidodin,[!ti-dod-in],[FPFS-finger-small],N
+3401.0,amzzud,nsn,[n-sn],[of-them],
+3402.0,amzzud,!amzn,[!amz-n],[3MP:hold:ao],V
+3403.0,amzzud,aʁaras,[a-ʁaras],[MFSS-path],N
+3404.0,amzzud,s,[s],[s],
+3405.0,amzzud,dar,[dar],[to],
+3406.0,amzzud,lmalik,[l-malik],[the-king],N
+3407.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3408.0,amzzud,jizwir,[i-izwir],[to-3MS-be first:pf],V
+3409.0,amzzud,tnid,[tn-id],[Obj:3MP-deic],
+3410.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3411.0,amzzud,s,[s],[s],
+3412.0,amzzud,uʁaras,[u-ʁaras],[SMCS-path],N
+3413.0,amzzud,jurrid,[i-urri-d],[3MS-go back:pf-deic],V
+3414.0,amzzud,s,[s],[s],
+3415.0,amzzud,ssiftlli,[ssift-lli],[the sword-RelPro] ,N
+3416.0,amzzud,s,[s],[s],
+3417.0,amzzud,t,[t],[t],
+3418.0,amzzud,ssnn,[ssnn],[2FS-know:pf],V
+3419.0,amzzud,a,[ad],[AD:Comp],
+3420.0,amzzud,ggwznt,[ggwz-nt],[go down:pf-3FP],V
+3421.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3422.0,amzzud,as,[a-s],[dat-3S],
+3423.0,amzzud,u!llah,[u-!llah],[by God],
+3424.0,amzzud,a,[ad],[AD:Comp],
+3425.0,amzzud,babak,[baba-k],[father-2S],N
+3426.0,amzzud,ar,[ar],[AR],
+3427.0,amzzud,!tt!zrt,[!tt-!zr-t],[d-2MS-see:Impf],V
+3428.0,amzzud,ddur,[ddur],[round],N
+3429.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+3430.0,amzzud,hann,[hann],[presentative],
+3431.0,amzzud,niwid,[n-iwi-d],[1P-bring:pf-deic],V
+3432.0,amzzud,i,[i],[i],
+3433.0,amzzud,lmalik,[l-malik],[the-king],N
+3434.0,amzzud,ddwa,[ddwa],[medication],N
+3435.0,amzzud,ra,[ra],[ra:Fut],
+3436.0,amzzud,jʒʒi,[i-ʒʒi],[3MS-cure:pf],V
+3437.0,amzzud,ngk,[n-g-k],[1MP-be:ao-2MS],V
+3438.0,amzzud,ʁ,[ʁ],[in],
+3439.0,amzzud,ddu,[ddu],[under],
+3440.0,amzzud,!ssbbat,[!ssbbat],[shoes],N
+3441.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3442.0,amzzud,fin,[f-in],[give:pf-3MP],V
+3443.0,amzzud,ddwa,[ddwa],[medication],N
+3444.0,amzzud,i,[i],[i],
+3445.0,amzzud,lmalik,[l-malik],[the-king],N
+3446.0,amzzud,iʃʃ,[i-ʃʃ],[3MS-eat:ao],V
+3447.0,amzzud,t,[t],[Obj:3S],
+3448.0,amzzud,iʒʒi,[i-ʒʒi],[3MS-cure:pf],V
+3449.0,amzzud,art,[art],[art],
+3450.0,amzzud,tħijaln,[t-ħijal-n],[use cunning:ao-3MP],V
+3451.0,amzzud,i,[i],[dat],
+3452.0,amzzud,tmʁra,[t-mʁr-a],[FSCS-the feast],N
+3453.0,amzzud,ismun,[i-smun],[3MS-pick up:pf],V
+3454.0,amzzud,tnid,[tn-id],[Obj:3MP-deic],
+3455.0,amzzud,lmalik,[l-malik],[the-king],N
+3456.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3457.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3458.0,amzzud,arajat,[ara-j-at],[give:ao-to-2MP],V
+3459.0,amzzud,kull,[kull],[all],
+3460.0,amzzud,jan,[ja-n],[one:M],
+3461.0,amzzud,gigun,[gig-un],[in:2MP],
+3462.0,amzzud,iqqddmd,[i-qqddm-d],[3MS-submit:ao-deic],V
+3463.0,amzzud,ad,[ad],[AD:Comp],
+3464.0,amzzud,as,[a-s],[dat:3MS],
+3465.0,amzzud,!n!sdr,[!n-!sdr],[1P-issue],N
+3466.0,amzzud,nnikaħ,[nnikaħ],[marriage],N
+3467.0,amzzud,ilkm,[i-lkm],[3MS-arrive:pf],V
+3468.0,amzzud,!ddor,[!ddor],[round],N
+3469.0,amzzud,u!wmʒʒud,[u-!w-mʒʒud],[of-SMCF-scabby],N
+3470.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3471.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3472.0,amzzud,lmalik,[l-malik],[the-king],N
+3473.0,amzzud,kijji,[kijji],[2MS],
+3474.0,amzzud,a,[a],[voc],
+3475.0,amzzud,ja!mʒʒud,[i-a-!mʒʒud],[to-MFSS-scabby],N
+3476.0,amzzud,ur,[ur],[neg],
+3477.0,amzzud,tskrt,[t-skr-t],[2MS-do:pf],V
+3478.0,amzzud,jat,[ja-t],[one:F],
+3479.0,amzzud,a,[ad],[AD:Comp],
+3480.0,amzzud,fllak,[fll-a-k],[on-dat-2S,
+3481.0,amzzud,ilin,[ili-n],[be:pf-3MP],V
+3482.0,amzzud,ʁwi,[ʁ-wi],[DemPron:MP:These ones],
+3483.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3484.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3485.0,amzzud,maʕna,[maʕna],[it means],
+3486.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3487.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3488.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3489.0,amzzud,iwind,[iwi-n-d],[bring:pf-3MP-deic],V
+3490.0,amzzud,ddwalli,[ddwa-lli],[medication-RelPro] ,N
+3491.0,amzzud,izwarn,[i-zwar-n],[3MS-be first-partic],V
+3492.0,amzzud,ula,[ula],[or],
+3493.0,amzzud,wisssin,[wiss sin],[MS:second],
+3494.0,amzzud,ula,[ula],[or],
+3495.0,amzzud,wiss!krad,[wiss !krad],[MS:third],
+3496.0,amzzud,ur,[ur],[neg],
+3497.0,amzzud,d,[d],[d],
+3498.0,amzzud,gisn,[gi-s-n],[loc:3MP],
+3499.0,amzzud,tiwit,[t-iwi-t],[2MS-bring:ao],V
+3500.0,amzzud,ħtta,[ħtta],[even if],
+3501.0,amzzud,jan,[ja-n],[one:M],
+3502.0,amzzud,ʁwid,[ʁ-wi-d],[DemPron:MP-deic:These ones],
+3503.0,amzzud,ra,[ra],[ra:Fut],
+3504.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3505.0,amzzud,gʁ,[g-ʁ],[be:ao-1S],V
+3506.0,amzzud,tajsʁart,[tajsʁart],[draw],N
+3507.0,amzzud,wannad,[wanna-d],[the one 3MS-deic],
+3508.0,amzzud,tiwi,[t-iwi],[3FS-bring:pf],V
+3509.0,amzzud,a,[ad],[AD:Comp],
+3510.0,amzzud,jg,[i-g],[3MS-be:ao],V
+3511.0,amzzud,lmalik,[l-malik],[the-king],N
+3512.0,amzzud,at,[ad],[AD:Comp],
+3513.0,amzzud,t,[t],[Obj:3S],
+3514.0,amzzud,ig,[i-g],[3MS-be:ao],V
+3515.0,amzzud,ʁwinn,[ʁ-wi-nn],[DemPron:MP-deic:Those ones],
+3516.0,amzzud,!jadnin,[!jadnin],[an other],
+3517.0,amzzud,ad,[ad],[AD:Comp],
+3518.0,amzzud,gn,[g-n],[3MP:do:pf],V
+3519.0,amzzud,lwazara,[l-wazara],[Ministers],N
+3520.0,amzzud,ns,[n-s],[of-3S],
+3521.0,amzzud,kijji,[kijji],[2MS],
+3522.0,amzzud,at,[ad],[AD:Comp],
+3523.0,amzzud,tilit,[t-ili-t],[2S-be-Impf],V
+3524.0,amzzud,ʁ,[in],[in],
+3525.0,amzzud,ddu,[ddu],[under],
+3526.0,amzzud,ifassn,[i-fass-n],[MPFS-hand],N
+3527.0,amzzud,ns,[n-s],[of-3S],
+3528.0,amzzud,tqblt,[t-qbl-t],[2S-accept:ao],V
+3529.0,amzzud,nʁdd,[nʁdd],[nʁdd],
+3530.0,amzzud,uhu,[uhu],[no],
+3531.0,amzzud,kijji,[kijji],[2MS],
+3532.0,amzzud,a,[ad],[AD:Comp],
+3533.0,amzzud,jssnn,[i-ssn-n],[3MS-know:pf],V
+3534.0,amzzud,tsawld,[t-sawl-d],[2MS-speek:pf-deic],V
+3535.0,amzzud,χtalli,[χ-ta-lli],[DemPronFS:this one-RelRep],
+3536.0,amzzud,i!mzzin,[i-!mzzi-n],[3MS-be small-partic],V
+3537.0,amzzud,la,[la],[la],
+3538.0,amzzud,la,[la],[la],
+3539.0,amzzud,argaz,[a-rgaz],[MFSS-husband],N
+3540.0,amzzud,inw,[in-w],[PossDet:1S],
+3541.0,amzzud,a,[ad],[AD:Comp],
+3542.0,amzzud,ra,[ra],[ra:Fut],
+3543.0,amzzud,jg,[i-g],[3MS-be:ao],V
+3544.0,amzzud,lmalik,[l-malik],[the-king],N
+3545.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3546.0,amzzud,as,[a-s],[dat-3S],
+3547.0,amzzud,ur,[ur],[neg],
+3548.0,amzzud,as,[a-s],[dat:3MS],
+3549.0,amzzud,jufi,[i-ufi],[3MS-find:pf],V
+3550.0,amzzud,isawld,[i-sawl-d],[3MS-speek:pf-deic],V
+3551.0,amzzud,ntta,[ntta],[3MS:he],
+3552.0,amzzud,s,[s],[s],
+3553.0,amzzud,lmalik,[l-malik],[the-king],N
+3554.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3555.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3556.0,amzzud,awddi,[awddi],[Interjection],
+3557.0,amzzud,i!χssa,[i-!χssa],[3MS-miss:pf],V
+3558.0,amzzud,ssadat,[ssadat],[the men],N
+3559.0,amzzud,ad,[a-d],[DemDet-Deic:this] ,
+3560.0,amzzud,ad,[ad],[AD:Comp],
+3561.0,amzzud,ak,[a-k],[dat-2MS],
+3562.0,amzzud,d,[d],[d],
+3563.0,amzzud,srsn,[srs-n],[put:pf-3MP],V
+3564.0,amzzud,zzif,[zzif],[a scarf],N
+3565.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+3566.0,amzzud,bʕda,[bʕda],[first],
+3567.0,amzzud,ha,[ha],[presentative],
+3568.0,amzzud,wi,[wi],[poss:],
+3569.0,amzzud,nw,[nw],[1S],
+3570.0,amzzud,nkki,[nkki],[1S:me],N
+3571.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3572.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3573.0,amzzud,ara,[ara],[2S:give:Imper],V
+3574.0,amzzud,jat,[ja-t],[one:F],
+3575.0,amzzud,a,[a],[voc],
+3576.0,amzzud,ʃʃbban,[ʃʃbban],[young:P],N
+3577.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3578.0,amzzud,as,[a-s],[dat-3S],
+3579.0,amzzud,a,[a],[voc],
+3580.0,amzzud,sidi,[sidi],[my lord],N
+3581.0,amzzud,zzif,[zzif],[a scarf],N
+3582.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+3583.0,amzzud,nfa,[n-fa],[1P-give:pf],V
+3584.0,amzzud,tn,[tn],[Obj:3P],
+3585.0,amzzud,i,[i],[to],
+3586.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+3587.0,amzzud,jaʁ,[i-aʁ],[dat-1S],
+3588.0,amzzud,d,[d],[deic],
+3589.0,amzzud,jiwin,[i-iwi-n],[3MS:bring-partic],V
+3590.0,amzzud,ddwalli,[ddwa-lli],[medication-RelPro] ,N
+3591.0,amzzud,jzwarn,[i-zwar-n],[3MS-be first-partic],V
+3592.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3593.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3594.0,amzzud,awa,[awa],[so],
+3595.0,amzzud,hija,[hija],[therefore],
+3596.0,amzzud,ur,[ur],[neg],
+3597.0,amzzud,tid,[t-id],[Obj-deic],
+3598.0,amzzud,iwin,[iwi-n],[bring:pf-3MP],V
+3599.0,amzzud,s,[s],[with],
+3600.0,amzzud,l!kuraʒ,[l-!kuraʒ],[the hardiness],N
+3601.0,amzzud,nsn,[n-sn],[of-them],
+3602.0,amzzud,a,[a],[voc],
+3603.0,amzzud,sidi,[sidi],[my lord],N
+3604.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3605.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3606.0,amzzud,ʕla,[ʕla],[in],
+3607.0,amzzud,kulli,[kulli],[all],
+3608.0,amzzud,ħal,[ħal],[case],
+3609.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3610.0,amzzud,daʁ,[daʁ],[once again],
+3611.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3612.0,amzzud,a,[a],[voc],
+3613.0,amzzud,sidi,[sidi],[my lord],N
+3614.0,amzzud,nkki,[nkki],[1S:me],N
+3615.0,amzzud,!ttafʁ,[!ttaf-ʁ],[win:pf-1S],V
+3616.0,amzzud,si,[si],[two],
+3617.0,amzzud,ijmzgan,[i-j-mzga-n],[of-MPCS-ear],N
+3618.0,amzzud,ha,[ha],[presentative],
+3619.0,amzzud,jan,[ja-n],[one:M],
+3620.0,amzzud,ha,[ha],[presentative],
+3621.0,amzzud,wisssin,[wiss sin],[MS:second],
+3622.0,amzzud,!zr,[!zr],[look:Impf:3S],V
+3623.0,amzzud,za,[za],[za],
+3624.0,amzzud,mddn,[mddn],[people],N
+3625.0,amzzud,nna,[nna],[RelPro],
+3626.0,amzzud,nttni,[nttni],[3MP:they],
+3627.0,amzzud,iqqllb,[i-qqllb],[3MS-search:pf],V
+3628.0,amzzud,tn,[tn],[Obj:3MP],
+3629.0,amzzud,jafi,[i-afi],[3MS-find:pf-],V
+3630.0,amzzud,tninn,[tn-inn],[Obj:3MP-deic],
+3631.0,amzzud,gan,[ga-n],[be:pf-3MP],V
+3632.0,amzzud,i!korrijn,[i-!korri-jn],[FPSS-!korri-jn],N
+3633.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3634.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3635.0,amzzud,mani,[mani],[where],
+3636.0,amzzud,jawn,[i-a-wn],[to-dat-3MP],
+3637.0,amzzud,d,[d],[d],
+3638.0,amzzud,juki,[i-uki],[3MS-hide:pf],V
+3639.0,amzzud,wisssi,[wiss si],[MS:second],
+3640.0,amzzud,jmzgan,[i-mzga-n],[MPCS-ear],N
+3641.0,amzzud,inin,[ini-n],[say:pf-3MPS],V
+3642.0,amzzud,as,[a-s],[dat-3S],
+3643.0,amzzud,a,[a],[voc],
+3644.0,amzzud,sidi,[sidi],[my lord],N
+3645.0,amzzud,nfa,[n-fa],[1P-give:pf],V
+3646.0,amzzud,t,[t],[Obj:3MS],
+3647.0,amzzud,i,[i],[i],
+3648.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+3649.0,amzzud,jaʁ,[i-aʁ],[dat-1S],
+3650.0,amzzud,d,[d],[d],
+3651.0,amzzud,jiwin,[i-iwi-n],[3MS:bring-partic],V
+3652.0,amzzud,ddwa,[ddwa],[medication],N
+3653.0,amzzud,wisssin,[wiss sin],[MS:second],
+3654.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3655.0,amzzud,!wmʒʒud,[!w-mʒʒud],[SMCS-scabby],N
+3656.0,amzzud,a,[a],[voc],
+3657.0,amzzud,sidi,[sidi],[my lord],N
+3658.0,amzzud,nkki,[nkki],[1S:me],N
+3659.0,amzzud,!ttafʁ,[!ttaf-ʁ],[win:pf-1S],V
+3660.0,amzzud,mraw,[mraw],[ten],
+3661.0,amzzud,i!dudan,[i-!dudan],[MPFS-finger],N
+3662.0,amzzud,!zr,[!zr],[look:Impf:1S],V
+3663.0,amzzud,ʁwinna,[ʁ-wi-nna],[DemPron:MP-deic:Those ones],
+3664.0,amzzud,mnʃk,[mnʃk],[how much],
+3665.0,amzzud,a,[ad],[AD:Comp],
+3666.0,amzzud,!ttafn,[!ttaf-n],[win:pf-3MP],V
+3667.0,amzzud,a,[ad],[AD:Comp],
+3668.0,amzzud,nssn,[n-ssn],[1P-know:pf],V
+3669.0,amzzud,is,[is],[Interro],
+3670.0,amzzud,ngadda,[n-gadda],[1P-be equal:pf],V
+3671.0,amzzud,i!zrtn,[i-!zr-t-n],[3MS-!zr-t-n],V
+3672.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3673.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3674.0,amzzud,mani,[mani],[from where],
+3675.0,amzzud,jawn,[i-a-wn],[to-dat-3MP],
+3676.0,amzzud,za,[za],[za],
+3677.0,amzzud,tkka,[t-kka],[3FS-pass:pf],V
+3678.0,amzzud,t!datt,[t-!dat-t],[finger:dimin],N
+3679.0,amzzud,nnan,[nna-n],[say:pf-3MP],V
+3680.0,amzzud,as,[a-s],[dat-3S],
+3681.0,amzzud,a,[a],[voc],
+3682.0,amzzud,sidi,[sidi],[my lord],N
+3683.0,amzzud,nfa,[n-fa],[1P-give:pf],V
+3684.0,amzzud,tt,[tt],[Obj:3MS],
+3685.0,amzzud,i,[i],[to],
+3686.0,amzzud,ʁwalli,[ʁ-wa-lli],[DemPronMS-Deic:this one],
+3687.0,amzzud,jaʁ,[i-aʁ],[dat-1S],
+3688.0,amzzud,d,[d],[d],
+3689.0,amzzud,jiwin,[i-iwi-n],[t3MS:bring-partic],V
+3690.0,amzzud,taglajt,[ta-glaj-t],[FFSS-egg],N
+3691.0,amzzud,inna,[i-nna],[3MS-say:pf],V
+3692.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3693.0,amzzud,aqq,[aqq],[because],
+3694.0,amzzud,zziʁ,[zziʁ],[zziʁ],
+3695.0,amzzud,ʁajad,[ʁ-aja-d],[DemPro-Deic:this],
+3696.0,amzzud,nnun,[nnu-n],[poss-3MP],
+3697.0,amzzud,ur,[ur],[neg],
+3698.0,amzzud,tid,[t-id],[2MS:you],N
+3699.0,amzzud,tiwim,[t-iwi-m],[2MP-bring:ao],V
+3700.0,amzzud,s,[s],[with],
+3701.0,amzzud,l!kuraʒ,[l-!kuraʒ],[the hardiness],N
+3702.0,amzzud,isawl,[i-sawl],[3MS-talk:pf],V
+3703.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3704.0,amzzud,awa,[awa],[so],
+3705.0,amzzud,a,[a],[Voc],
+3706.0,amzzud,sidi,[sidi],[my lord],N
+3707.0,amzzud,hati,[hati],[presentative],
+3708.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3709.0,amzzud,add,[ad],[AD:Comp],
+3710.0,amzzud,jiwin,[i-iwi-n],[3MS:bring-partic],V
+3711.0,amzzud,kulʃi,[kulʃi],[everything],
+3712.0,amzzud,had,[had],[had],
+3713.0,amzzud,a,[a],[voc],
+3714.0,amzzud,sidi,[sidi],[my lord],N
+3715.0,amzzud,zzif,[zzif],[a scarf],N
+3716.0,amzzud,d,[d],[and],
+3717.0,amzzud,ttattffaħt,[tta-ttffaħ-t],[FFSS-apple],N
+3718.0,amzzud,nsn,[n-sn],[of-them],
+3719.0,amzzud,had,[had],[had],
+3720.0,amzzud,imzgan,[i-mzga-n],[MPFS-ear],N
+3721.0,amzzud,nsn,[n-sn],[of-them],
+3722.0,amzzud,had,[had],[had],
+3723.0,amzzud,!tidodin,[!ti-dod-in],[FPFS-finger-small],N
+3724.0,amzzud,iskr,[i-skr],[3MS-do:pf],V
+3725.0,amzzud,ʁikad,[ʁikad],[like this],
+3726.0,amzzud,i,[i],[i],
+3727.0,amzzud,t!hrruttlli,[t-!hrrut-t-lli],[F-guts-RelPro] ,
+3728.0,amzzud,ikkstt,[i-kks-tt],[3MS-take off-Obj:3FS],V
+3729.0,amzzud,iffi,[i-ffi],[3MS-ffi],V
+3730.0,amzzud,wazzar,[w-azzar],[SMCS-hair],N
+3731.0,amzzud,s,[s],[s],
+3732.0,amzzud,tsgajad,[t-sga-ja-d],[FSCS-side-dem-deic],N
+3733.0,amzzud,iffi,[i-ffi],[3MS-ffi],V
+3734.0,amzzud,s,[s],[s],
+3735.0,amzzud,χtta,[χ-tta],[DemPronFS:this one],
+3736.0,amzzud,ikks,[i-kks],[3MS-take off:pf],V
+3737.0,amzzud,lksutlli,[l-ksut-lli],[garment-RelPro] ,N
+3738.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3739.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3740.0,amzzud,a,[a],[voc],
+3741.0,amzzud,sidi,[sidi],[my lord],N
+3742.0,amzzud,hati,[hati],[presentative],
+3743.0,amzzud,ur,[ur],[neg],
+3744.0,amzzud,giʁ,[gi-ʁ],[be:pf-1S],V
+3745.0,amzzud,a!mʒʒud,[a-!mʒʒud],[MFSS-scabby],N
+3746.0,amzzud,hati,[hati],[presentative],
+3747.0,amzzud,argaz,[a-rgaz],[MFSS-man],N
+3748.0,amzzud,a,[ad],[AD:Comp],
+3749.0,amzzud,ja,[ja],[ja],
+3750.0,amzzud,awa,[awa],[so],
+3751.0,amzzud,ma,[ma],[what],
+3752.0,amzzud,jawn,[i-a-wn],[to-dat-3MP],
+3753.0,amzzud,za,[za],[za],
+3754.0,amzzud,i!dhrn,[i-!dhr-n],[3MS:be visible-partic],V
+3755.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3756.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3757.0,amzzud,lmalik,[l-malik],[the-king],N
+3758.0,amzzud,aqq,[aqq],[because],
+3759.0,amzzud,zziʁ,[zziʁ],[zziʁ],
+3760.0,amzzud,tihraj,[ti-hraj],[MPFS-sheep],N
+3761.0,amzzud,at,[ad],[AD:Comp],
+3762.0,amzzud,tgam,[t-ga-m],[2MP-be:pf],V
+3763.0,amzzud,ʁwad,[ʁ-wa-d],[DemPronMS-Deic:this one],
+3764.0,amzzud,a,[ad],[AD:Comp],
+3765.0,amzzud,jgan,[i-ga-n],[3MS-be:pf-partic],V
+3766.0,amzzud,lmalik,[l-malik],[the-king],N
+3767.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3768.0,amzzud,ann,[a-nn],[[DemDet-Deic:that]],
+3769.0,amzzud,luqqt,[l-uqqt],[the-time],N
+3770.0,amzzud,add,[ad],[AD:Comp],
+3771.0,amzzud,tuʃka,[t-uʃka],[3FS-come:pf],V
+3772.0,amzzud,tgllitlli,[t-gllid-lli],[FSCS-king-RelPro] ,N
+3773.0,amzzud,a,[ad],[AD:Comp],
+3774.0,amzzud,ddiss,[ddi-ss],[d with-3S],
+3775.0,amzzud,t!nħirib,[t-n-ħirib],[3FS-pron-battle],V
+3776.0,amzzud,nttat,[ntta-t],[3FS:she],
+3777.0,amzzud,d,[d],[and],
+3778.0,amzzud,llff,[llff],[circle],N
+3779.0,amzzud,ns,[n-s],[of-3S],
+3780.0,amzzud,iʁwli,[i-ʁwli],[3MS-go up:pf],V
+3781.0,amzzud,lmuddn,[l-muddn],[the muezzin],N
+3782.0,amzzud,a,[ad],[AD:Comp],
+3783.0,amzzud,juddn,[i-uddn],[3MS-call to prayer:pf],V
+3784.0,amzzud,inʁtid,[i-nʁ-t-id],[3MS-kill-Obj:3MS-deic],V
+3785.0,amzzud,!sshd,[!sshd],[the heat],N
+3786.0,amzzud,llqqwt,[ll-qqwt],[number of],N
+3787.0,amzzud,n,[n],[n],
+3788.0,amzzud,bnadmlli,[bnadm-lli],[human-RelPro] ,N
+3789.0,amzzud,d,[d],[d],
+3790.0,amzzud,juʃkan,[i-uʃka-n],[3MS-come:pf-3MP],V
+3791.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3792.0,amzzud,qqddmnnn,[qqddm-n-nn],[be presented-3MP-deic],V
+3793.0,amzzud,!idulan,[!idulan],[parents-in-law],N
+3794.0,amzzud,llmalik,[ll-malik],[of-the-king],N
+3795.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3796.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3797.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3798.0,amzzud,aʁar,[aʁar],[just],
+3799.0,amzzud,zid,[zid],[add:Imper2S],V
+3800.0,amzzud,at,[ad],[AD:Comp],
+3801.0,amzzud,arkiʁ,[arkiʁ],[until],
+3802.0,amzzud,nit,[nit],[really],
+3803.0,amzzud,kullu,[kullu],[all],
+3804.0,amzzud,t!rmim,[t-!rmi-m],[2S-be tired:pf],V
+3805.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3806.0,amzzud,t!nħarab,[t-!n-ħarab],[3FS-pron-battle:pf],V
+3807.0,amzzud,dissn,[d-iss-n],[d-iss-n],
+3808.0,amzzud,ar,[ar],[AR],
+3809.0,amzzud,tn,[t-n],[t-n],
+3810.0,amzzud,ttrra,[tt-rra],[3FS-restore:pf],V
+3811.0,amzzud,f,[f],[at],
+3812.0,amzzud,tsgajan,[t-sga-ja-n],[FSCS-side-dem-deic],N
+3813.0,amzzud,s,[s],[with],
+3814.0,amzzud,jan,[ja-n],[one:M],
+3815.0,amzzud,manik,[manik],[how],
+3816.0,amzzud,a,[ad],[AD:Comp],
+3817.0,amzzud,jasn,[i-a-sn],[to-dat-3-MP],
+3818.0,amzzud,tskar,[t-skar],[3FS:do:ao],V
+3819.0,amzzud,ħtta,[ħtta],[even if],
+3820.0,amzzud,wanna,[wanna],[the one 3MS],
+3821.0,amzzud,tt,[tt],[Obj:3S],
+3822.0,amzzud,innran,[i-nn-ra-n],[3MS-deic-want-n],V
+3823.0,amzzud,art,[art],[art],
+3824.0,amzzud,tkks,[t-kks],[3FS-take off:pf],V
+3825.0,amzzud,f,[f],[f],
+3826.0,amzzud,lltam,[l-ltam],[the veil],N
+3827.0,amzzud,i!ttbhht,[i-!ttbhht],[3MS-stare:pf],V
+3828.0,amzzud,gis,[gi-s],[loc:3MS],
+3829.0,amzzud,tsmunt,[t-smun-t],[2S-gather:pf],V
+3830.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3831.0,amzzud,izzigznn,[i-zzigz-nn],[3MS-run through:pf-deic],V
+3832.0,amzzud,u!mʒʒud,[u-!mʒʒud],[SMCS-scabby],N
+3833.0,amzzud,i!nħirib,[i-!nħirib],[3MS-fight:pf],V
+3834.0,amzzud,diss,[d-iss],[d-iss],
+3835.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+3836.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+3837.0,amzzud,!jallah,[!ja-llah],[O-Allah],N
+3838.0,amzzud,ajlliʁ,[ajlliʁ],[until],
+3839.0,amzzud,tt,[tt],[tt],
+3840.0,amzzud,id,[id],[id],
+3841.0,amzzud,jiwi,[i-iwi],[3MS-bring:pf-deic],V
+3842.0,amzzud,a,[ad],[AD:Comp],
+3843.0,amzzud,stt,[stt],[stt],
+3844.0,amzzud,jut,[i-ut],[3MS-hit:pf],V
+3845.0,amzzud,tzuggz,[t-zuggz],[2FS-discover:pf],V
+3846.0,amzzud,as,[a-s],dat-3S],
+3847.0,amzzud,f,[f],[for],
+3848.0,amzzud,lltam,[l-ltam],[the veil],N
+3849.0,amzzud,jini,[i-ini],[3MS-say:ao],V
+3850.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3851.0,amzzud,u!llah,[u-!llah],[by God],N
+3852.0,amzzud,a,[ad],[AD:Comp],
+3853.0,amzzud,waχχa,[waχχa],[even if],
+3854.0,amzzud,tkkst,[t-kks-t],[2S-take off:pf],V
+3855.0,amzzud,ħtta,[ħtta],[even if],
+3856.0,amzzud,f,[f],[f],
+3857.0,amzzud,!ddhr,[!ddhr],[back],N
+3858.0,amzzud,nm,[n-m],[PossDet:2FS],
+3859.0,amzzud,ur,[ur],[neg],
+3860.0,amzzud,km,[km],[2FS:you],N
+3861.0,amzzud,ttzgalʁ,[tt-zgal-ʁ],[miss out on-1S],V
+3862.0,amzzud,tggwz,[t-ggwz],[2FS-go down:pf],V
+3863.0,amzzud,as,[a-s],[dat-3S],
+3864.0,amzzud,ajjis,[a-jjis],[MFSS-horse],N
+3865.0,amzzud,tini,[t-ini],[2FS-say:pf],V
+3866.0,amzzud,jas,[i-a-s],[to-dat-3S],
+3867.0,amzzud,nkki,[nkki],[1S:me],N
+3868.0,amzzud,l!ʒujuʃ,[l-!ʒujuʃ],[the army],N
+3869.0,amzzud,ad,[ad],[AD:Comp],
+3870.0,amzzud,hdiʁak,[hdi-ʁ-a-k],[give as gifts:pf-1S-dat-2MS],V
+3871.0,amzzud,tn,[tn],[Obj:3MP],
+3872.0,amzzud,d,[d],[d],
+3873.0,amzzud,nkki,[nkki],[1S:me],N
+3874.0,amzzud,ʁ,[ʁ],[in],
+3875.0,amzzud,ddu,[ddu],[under],
+3876.0,amzzud,wfus,[w-fus],[SMCS-hand],N
+3877.0,amzzud,nk,[n-k],[of-2MS],
+3878.0,amzzud,New_Sentence,New_Sentence,New_Sentence,
+3879.0,amzzud,itihl,[i-tihl],[3MS-marry:pf],V
+3880.0,amzzud,tt,[tt],[Obj:3S],
+3881.0,amzzud,ʁd,[ʁd],[ʁd],
+3882.0,amzzud,nttat,[nttat],[3MS:he],
+3883.0,amzzud,ig,[i-g],[3MS-be:ao],V
+3884.0,amzzud,agllid,[a-gllid],[MFSS-the king],N
+3885.0,amzzud,ig,[i-g],[3MS-be:ao],V
+3886.0,amzzud,ʁwilli,[ʁ-wi-lli],[DemPron:MP:These ones-RelPro],
+3887.0,amzzud,d,[d],[d],
+3888.0,amzzud,isχχarn,[i-sχχar-n],[MPFS-server],N
+3889.0,amzzud,ns,[n-s],[PossDet:3S],
