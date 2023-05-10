@@ -39,9 +39,3 @@ lexicon['sound'] = lexicon['sound'].str.replace('ʷ', 'w')
 wordforms = set([re.sub('ʷ', 'w', wordform) for wordform in wordforms])
 oo_lexicon = lexicon.loc[~lexicon['sound'].isin(wordforms)]
 
-import matplotlib.pyplot as plt
-from matplotlib_venn import venn2, venn2_circles
-
-venn2([wordforms, set(lexicon['sound'].tolist())],
-      ('wordforms from None From...', 'wordforms from texts'))
-plt.show()
